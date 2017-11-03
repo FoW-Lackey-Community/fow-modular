@@ -1,25 +1,25 @@
-Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext
-Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Resonator	Wizard			2000	2000	Light/Dark	J*	[Barrier][Swiftness][Precision][Flying][First Strike] Chants in your hand gain Ancient Magic in addition to their other subtypes.  You may play Ancient Magic cards from your hand without paying their cost.
-Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Token	Wizard			2000	2000	Light/Dark	J*	[Barrier][Swiftness][Precision][Flying][First Strike] Chants in your hand gain Ancient Magic in addition to their other subtypes.  You may play Ancient Magic cards from your hand without paying their cost.
-Elf Token	T	T-001,T-001b	T-001	Resonator	Elf			100	100	Wind	C	
-Elf Token	T	T-001,T-001b	T-001	Token	Elf			100	100	Wind	C	
-Fantasy Token	T	T-002,T-002b	T-002	Resonator	Fantasy			400 | X00	400 | X00	Water/Dark	C	
-Fantasy Token	T	T-002,T-002b	T-002	Token	Fantasy			400 | X00	400 | X00	Water/Dark	C	
-Bomb Token	T	T-003,T-003b	T-003	Resonator	Bomb			100	100	Fire	C	
-Bomb Token	T	T-003,T-003b	T-003	Token	Bomb			100	100	Fire	C	
-Dragon Token	T	T-004,T-004b	T-004	Resonator	Dragon			500	500	Fire/Wind	C	[Flying]
-Dragon Token	T	T-004,T-004b	T-004	Token	Dragon			500	500	Fire/Wind	C	[Flying]
-Rabbit Token	T	T-005,T-005b	T-005	Resonator	Rabbit			100	100	Water	C	
-Rabbit Token	T	T-005,T-005b	T-005	Token	Rabbit			100	100	Water	C	
-Elf Token (2.0)	T	T-006,T-006b	T-006	Resonator	Elf			100	100	Wind	C	
-Elf Token (2.0)	T	T-006,T-006b	T-006	Token	Elf			100	100	Wind	C	
-Shadow Token	T	T-007,T-007b	T-007	Resonator	Shadow			500	500	Dark	C	
-Shadow Token	T	T-007,T-007b	T-007	Token	Shadow			500	500	Dark	C	
-Elf Token (3.0)	T	T-008,T-008b	T-008	Resonator	Elf			100	100	Wind	C	
-Elf Token (3.0)	T	T-008,T-008b	T-008	Token	Elf			100	100	Wind	C	
-Dragon Token (2.0)		T-009,T-009b	T-009	Resonator	Dragon			600	600	Light	C	
-Dragon Token (2.0)		T-009,T-009b	T-009	Token	Dragon			600	600	Light	C	
-Wall Token		T-010,T-010b	T-010	Resonator	Wall			1000	1000	Fire	C	
-Wall Token		T-010,T-010b	T-010	Token	Wall			1000	1000	Fire	C	
-Shadow Token (2.0)		T-011,T-011b	T-011	Resonator	Shadow			100	100	Darkness	C	
-Shadow Token (2.0)		T-011,T-011b	T-011	Token	Shadow			100	100	Darkness	C	
+Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Resonator	Wizard			2000	2000	Light/Dark	J*	[Barrier][Swiftness][Precision][Flying][First Strike] Chants in your hand gain Ancient Magic in addition to their other subtypes.  You may play Ancient Magic cards from your hand without paying their cost.	
+Gill Alhama'at, He Who Grasps All	T	T-100	T-100	Token	Wizard			2000	2000	Light/Dark	J*	[Barrier][Swiftness][Precision][Flying][First Strike] Chants in your hand gain Ancient Magic in addition to their other subtypes.  You may play Ancient Magic cards from your hand without paying their cost.	
+Elf Token	T	T-001,T-001b	T-001	Resonator	Elf			100	100	Wind	C		
+Elf Token	T	T-001,T-001b	T-001	Token	Elf			100	100	Wind	C		
+Fantasy Token	T	T-002,T-002b	T-002	Resonator	Fantasy			400 | X00	400 | X00	Water/Dark	C		
+Fantasy Token	T	T-002,T-002b	T-002	Token	Fantasy			400 | X00	400 | X00	Water/Dark	C		
+Bomb Token	T	T-003,T-003b	T-003	Resonator	Bomb			100	100	Fire	C		
+Bomb Token	T	T-003,T-003b	T-003	Token	Bomb			100	100	Fire	C		
+Dragon Token	T	T-004,T-004b	T-004	Resonator	Dragon			500	500	Fire/Wind	C	[Flying]	
+Dragon Token	T	T-004,T-004b	T-004	Token	Dragon			500	500	Fire/Wind	C	[Flying]	
+Rabbit Token	T	T-005,T-005b	T-005	Resonator	Rabbit			100	100	Water	C		
+Rabbit Token	T	T-005,T-005b	T-005	Token	Rabbit			100	100	Water	C		
+Elf Token (2.0)	T	T-006,T-006b	T-006	Resonator	Elf			100	100	Wind	C		
+Elf Token (2.0)	T	T-006,T-006b	T-006	Token	Elf			100	100	Wind	C		
+Shadow Token	T	T-007,T-007b	T-007	Resonator	Shadow			500	500	Dark	C		
+Shadow Token	T	T-007,T-007b	T-007	Token	Shadow			500	500	Dark	C		
+Elf Token (3.0)	T	T-008,T-008b	T-008	Resonator	Elf			100	100	Wind	C		
+Elf Token (3.0)	T	T-008,T-008b	T-008	Token	Elf			100	100	Wind	C		
+Dragon Token (2.0)	T	T-009,T-009b	T-009	Resonator	Dragon			600	600	Light	C		
+Dragon Token (2.0)	T	T-009,T-009b	T-009	Token	Dragon			600	600	Light	C		
+Wall Token	T	T-010,T-010b	T-010	Resonator	Wall			1000	1000	Fire	C		
+Wall Token	T	T-010,T-010b	T-010	Token	Wall			1000	1000	Fire	C		
+Shadow Token (2.0)	T	T-011,T-011b	T-011	Resonator	Shadow			100	100	Darkness	C		
+Shadow Token (2.0)	T	T-011,T-011b	T-011	Token	Shadow			100	100	Darkness	C		

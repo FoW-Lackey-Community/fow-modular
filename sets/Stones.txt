@@ -1,181 +1,181 @@
-﻿Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext
-Magic Stone of Black Silence (CMF)	CMF	CMF-096	CMF-096	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and dark magic stone. [Activate] [Rest] Produce {g} or {d}.
-Magic Stone of Deep Wood (CMF)	CMF	CMF-097	CMF-097	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and water magic stone. [Activate] [Rest] Produce {g} or {u}.
-Magic Stone of Hearth's Core (CMF)	CMF	CMF-098	CMF-098	Special Magic Stone							SS	[Continuous] Treat this card as fire magic stone and water magic stone. [Activate] [Rest] Produce {r} or {u}.
-Magic Stone of Heat Ray (CMF)	CMF	CMF-099	CMF-099	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and fire magic stone. [Activate] [Rest] Produce {w} or {r}.
-Magic Stone of Heaven's Rift (CMF)	CMF	CMF-100	CMF-100	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and dark magic stone. [Activate] [Rest] Produce {w} or {d}.
-Magic Stone of Darkness (CMF)	CMF	CMF-101	CMF-101	Magic Stone							S	[Activate] [Rest] Produce {d}.
-Magic Stone of Flame  (CMF)	CMF	CMF-102	CMF-102	Magic Stone							S	[Activate] [Rest] Produce {r}.
-Magic Stone of Light (CMF)	CMF	CMF-103	CMF-103	Magic Stone							S	[Activate] [Rest] Produce {w}.
-Magic Stone of Water (CMF)	CMF	CMF-104	CMF-104	Magic Stone							S	[Activate] [Rest] Produce {u}.
-Magic Stone of Wind (CMF)	CMF	CMF-105	CMF-105	Magic Stone							S	[Activate] [Rest] Produce {g}.
-Almerius, the Levitating Stone	TAT	TAT-091	TAT-091	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {w}. [Activate] {w}[Rest] Target J/resonator gains [Flying] until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.
-Feethsing, the Holy Wind Stone	TAT	TAT-092	TAT-092	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {g}. [Activate] {g}[Rest] Target J/resonator cannot be targeted by normal spells you opponents control until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.
-Grusbalesta, the Sealing Stone	TAT	TAT-093	TAT-093	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {d}. [Activate] {d}[Rest] Target J/resonator gains [+0/-200] until end of turn. [Continuous] When you control two or more true magic stones with same name, banish all but one of them.
-Magic Stone of Blasting Waves (TAT)	TAT	TAT-094	TAT-094	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and fire magic stone. [Activate] [Rest] Produce {g} or {r}.
-Magic Stone of Dark Depth (TAT)	TAT	TAT-095	TAT-095	Special Magic Stone							SS	[Continuous] Treat this card as darkness magic stone and water magic stone. [Activate] [Rest] Produce {d} and {u}.
-Magic Stone of Gusting Skies (TAT)	TAT	TAT-096	TAT-096	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and wind magic stone. [Activate] [Rest] Produce {w} and {g}.
-Magic Stone of Light Vapors (TAT)	TAT	TAT-097	TAT-097	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and water magic stone. [Activate] [Rest] Produce {w} and {u}.
-Magic Stone of Scorched Bales (TAT)	TAT	TAT-098	TAT-098	Special Magic Stone							SS	[Continuous] Treat this card as darkness magic stone and fire magic stone. [Activate] [Rest] Produce {d} and {r}.
-Milest, the Ghostly Flame Stone	TAT	TAT-099	TAT-099	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {r}. [Activate] {r}[Rest] This turn, if target J/resonator would deal damage, it deals that much +200 instead. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.
-Moojdart, the Fantasy Stone	TAT	TAT-100	TAT-100	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {u}. [Activate] {u}[Rest] Target J/resonator loses all races and gains a race of your choice until end of turn. [Continuous] When you control two or more magic stones with the same name, banish all but one of them.
-Magic Stone of Light (TAT)	TAT	TAT-101	TAT-101	Magic Stone							S	[Activate] [Rest] Produce {w}.
-Magic Stone of Flame (TAT)	TAT	TAT-102	TAT-102	Magic Stone							S	[Activate] [Rest] Produce {r}.
-Magic Stone of Water (TAT)	TAT	TAT-103	TAT-103	Magic Stone							S	[Activate] [Rest] Produce {u}.
-Magic Stone of Wind (TAT)	TAT	TAT-104	TAT-104	Magic Stone							S	[Activate] [Rest] Produce {g}.
-Magic Stone of Darkness (TAT)	TAT	TAT-105	TAT-105	Magic Stone							S	[Activate] [Rest] Produce {d}.
-Little Red, the Pure Stone	MPR	MPR-098	MPR-098	Special Magic Stone/True Magic Stone							SS	As this card comes into a magic stone area, choose an attribute. [Activate] [Rest] Produce one will of the chosen attribute. [Activate] [Rest] Target resonator that shares an attribute with the chosen attribute gains [+200/+200] until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.
-Magic Stone of Moon Light	MPR	MPR-099	MPR-099	Special Magic Stone							SS	[Activate] [Rest] Produce {m}.  [Activate] [Rest] Produce one will of any attribute that a magic stone you control could produce.
-Magic Stone of Moon Shade	MPR	MPR-100	MPR-100	Special Magic Stone							SS	[Activate] [Rest] Produce {m}. [Activate] [Rest] pay 200 life: Produce {w}, {r}, {u}, {g} or {d}.
-Magic Stone of Darkness (MPR)	MPR	MPR-101	MPR-101	Magic Stone							S	[Activate] [Rest] Produce {d}.
-Magic Stone of Flame (MPR)	MPR	MPR-102	MPR-102	Magic Stone							S	[Activate] [Rest] Produce {r}.
-Magic Stone of Light (MPR)	MPR	MPR-103	MPR-103	Magic Stone							S	[Activate] [Rest] Produce {w}.
-Magic Stone of Water (MPR)	MPR	MPR-104	MPR-104	Magic Stone							S	[Activate] [Rest] Produce {u}.
-Magic Stone of Wind (MPR)	MPR	MPR-105	MPR-105	Magic Stone							S	[Activate] [Rest] Produce {g}.
-Fire Magic Stone (VS01)	VS01	VS01-033	VS01-033	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (VS01)	VS01	VS01-034	VS01-034	Magic Stone							S	[Rest] Produce {w}.
-Magic Stone of Black Silence (CFC)	VIN001	VIN001-080.png	VIN001-080	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.
-Magic Stone of Blasting Waves (CFC)	VIN001	VIN001-081.png	VIN001-081	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.
-Magic Stone of Dark Depth (CFC)	VIN001	VIN001-082.png	VIN001-082	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.
-Magic stone of Deep Wood (CFC)	VIN001	VIN001-083.png	VIN001-083	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.
-Magic Stone of Gusting Skies (CFC)	VIN001	VIN001-084.png	VIN001-084	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.
-Magic Stone of Hearth's Core (CFC)	VIN001	VIN001-085.png	VIN001-085	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.
-Magic Stone of Heat Ray (CFC)	VIN001	VIN001-086.png	VIN001-086	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.
-Magic Stone of Heaven's Rift (CFC)	VIN001	VIN001-087.png	VIN001-087	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.
-Magic Stone of Light Vapors (CFC)	VIN001	VIN001-088.png	VIN001-088	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.
-Magic Stone of Scorched Bales (CFC)	VIN001	VIN001-089.png	VIN001-089	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.
-Darkness Magic Stone (VIN001)	VIN001	VIN001-090	VIN001-090	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (VIN001)	VIN001	VIN001-091	VIN001-091	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (VIN001)	VIN001	VIN001-092	VIN001-092	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (VIN001)	VIN001	VIN001-093	VIN001-093	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (VIN001)	VIN001	VIN001-094	VIN001-094	Magic Stone							S	[Rest] Produce {g}.
-Darkness Magic Stone (SKL)	SKL	SKL-101	SKL-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (SKL)	SKL	SKL-102	SKL-102	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (SKL)	SKL	SKL-103	SKL-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (SKL)	SKL	SKL-104	SKL-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (SKL)	SKL	SKL-105	SKL-105	Magic Stone							S	[Rest] Produce {g}.
-Fairy's Memoria	TTW	TTW-101	TTW-101	Special Magic Stone							SS	As this card enters your magic stone area, you may reveal a Fairy from your hand. If you don't, this card enters your magic stone area rested. [Rest] Produce {w}. [Rest] Produce {w}, {r}, {u}, {g}, or {d}. Spend that will only to play Fairy resonators. {w}, [Rest] Target Fairy resonator gains [+200/+200] until end of turn.
-Ruler's Memoria	TTW	TTW-102	TTW-102	Special Magic Stone							SS	If you don't control a regalia, this card enters your magic stone area rested. [Rest] Produce {w}, {r}, {u}, {g}, or {d}.
-Sacred Beast's Memoria	TTW	TTW-103	TTW-103	Special Magic Stone							SS	As this card enters your magic stone area, you may reveal a Beast of Four Sacred Beasts from your hand. If you don't, this card enters your magic stone area rested. [Rest] Produce {g}. {g}, [Rest] Target Four Sacred Beasts or Beast J/resonator gains [+200/+200] until end of turn.
-Shadow's Memoria	TTW	TTW-104	TTW-104	Special Magic Stone							SS	If your J/ruler isn't "Girl in Twilight Garb" or "Dark Alice, Maiden of Slaughter", this card enters your magic stone area rested. [Rest] Produce {d}. Whenever a Shadow resonator enters your field, target resonator gains [-100/0] until end of turn.
-Unyielding Flame's Memoria	TTW	TTW-105	TTW-105	Special Magic Stone							SS	If your opponent's life is exactly 4000, this card enters your magic stone area rested. [Rest] Produce {r}. [Rest] If target resonator would deal damage this turn, it deals that much +200 instead.
-Darkness Magic Stone (TTW)	TTW	TTW-106	TTW-106	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (TTW)	TTW	TTW-107	TTW-107	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (TTW)	TTW	TTW-108	TTW-108	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (TTW)	TTW	TTW-109	TTW-109	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (TTW)	TTW	TTW-110	TTW-110	Magic Stone							S	[Rest] Produce {g}.
-Black Moon's Memoria	TMS	TMS-096	TMS-096	Special Magic Stone							SS	[Rest] Produce {m} or {d}.
-Disaster's Memoria	TMS	TMS-097	TMS-097	Special Magic Stone							SS	If your J/ruler isn't "The Observer" or "Timeline Arsonist, Alisaris", this card enters your magic stone area rested. [Rest] Produce {r}. [Rest] Remove the top card of your main deck from the game.
-Hymnal's Memoria	TMS	TMS-098	TMS-098	Special Magic Stone							SS	If your J/ruler isn't "Songtress of Shangri-La" or "Coup d'Etat Mastermind, Shion", this card enters your magic stone area rested. [Rest] Produce {u}. When this card enters your magic stone area, name a card. Reveal the top card of your main deck, if it's the named card, put it into your hand.
-Moonbreeze's Memoria	TMS	TMS-099	TMS-099	Special Magic Stone							SS	[Rest] Produce {m} or {w}.
-Yggdrasil's Memoria	TMS	TMS-100	TMS-100	Special Magic Stone							SS	When you control a J-ruler, banish this card. [Rest] Produce {g}. {g}, [Rest] Recover target resonator. Play this ability only during your opponent's turn.
-Darkness Magic Stone (TMS)	TMS	TMS-101	TMS-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (TMS)	TMS	TMS-102	TMS-102	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (TMS)	TMS	TMS-103	TMS-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (TMS)	TMS	TMS-104	TMS-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (TMS)	TMS	TMS-105	TMS-105	Magic Stone							S	[Rest] Produce {g}.
-Call to Action's Memoria	BFA	BFA-096	BFA-096	Special Magic Stone							SS	[Rest] Produce {w}. {w}{1}, [Rest] You gain 100 life.
-Brutal Conqueror's Memoria	BFA	BFA-097	BFA-097	Special Magic Stone							SS	[Rest] Produce {r}. {r}{2}, [Rest] This card deals 100 damage to your opponent.
-Aloof Researcher's Memoria	BFA	BFA-098	BFA-098	Special Magic Stone							SS	[Rest] Produce {u}. {u}{1},[Rest] Draw a card, then discards a card.
-First Flight's Memoria	BFA	BFA-099	BFA-099	Special Magic Stone							SS	[Rest] Produce {g}. {g},[Rest] Produce {w}, {r}, {u}, {g} or {d}.
-Sorrowful Necromancy's Memoria	BFA	BFA-100	BFA-100	Special Magic Stone							SS	[Rest] Produce {d}. {d}{1},[Rest] Remove target card in a graveyard from the game.
-Darkness Magic Stone (BFA)	BFA	BFA-101	BFA-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (BFA)	BFA	BFA-102	BFA-102	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (BFA)	BFA	BFA-103	BFA-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (BFA)	BFA	BFA-104	BFA-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (BFA)	BFA	BFA-105	BFA-105	Magic Stone							S	[Rest] Produce {g}.
-Magic Stone of Black Silence (CFC)	VIN002	VIN002-081.png	VIN002-081	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.
-Magic Stone of Blasting Waves (CFC)	VIN002	VIN002-082.png	VIN002-082	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.
-Magic Stone of Dark Depth (CFC)	VIN002	VIN002-083.png	VIN002-083	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.
-Magic stone of Deep Wood (CFC)	VIN002	VIN002-084.png	VIN002-084	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.
-Magic Stone of Gusting Skies (CFC)	VIN002	VIN002-085.png	VIN002-085	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.
-Magic Stone of Hearth's Core (CFC)	VIN002	VIN002-086.png	VIN002-086	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.
-Magic Stone of Heat Ray (CFC)	VIN002	VIN002-087.png	VIN002-087	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.
-Magic Stone of Heaven's Rift (CFC)	VIN002	VIN002-088.png	VIN002-088	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.
-Magic Stone of Light Vapors (CFC)	VIN002	VIN002-089.png	VIN002-089	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.
-Magic Stone of Scorched Bales (CFC)	VIN002	VIN002-090.png	VIN002-090	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.
-Darkness Magic Stone (VIN002)	VIN002	VIN002-091	VIN002-091	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (VIN002)	VIN002	VIN002-092	VIN002-092	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (VIN002)	VIN002	VIN002-093	VIN002-093	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (VIN002)	VIN002	VIN002-094	VIN002-094	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (VIN002)	VIN002	VIN002-095	VIN002-095	Magic Stone							S	[Rest] Produce {g}.
-Light Magic Stone (SDL1)	SDL1	SDL1-012	SDL1-012	Magic Stone							S	[Rest] Produce {w}.
-Fire Magic Stone (SDL2)	SDL2	SDL2-012	SDL2-012	Magic Stone							S	[Rest] Produce {r}.
-Water Magic Stone (SDL3)	SDL3	SDL3-012	SDL3-012	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (SDL4)	SDL4	SDL4-012	SDL4-012	Magic Stone							S	[Rest] Produce {g}.
-Darkness Magic Stone (SDL5)	SDL5	SDL5-012	SDL5-012	Magic Stone							S	[Rest] Produce {d}.
-Magic Stone of Black Silence (CFC)	CFC	CFC-086	CFC-086	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.
-Magic Stone of Blasting Waves (CFC)	CFC	CFC-087	CFC-087	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.
-Magic Stone of Dark Depth (CFC)	CFC	CFC-088	CFC-088	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.
-Magic stone of Deep Wood (CFC)	CFC	CFC-089	CFC-089	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.
-Magic Stone of Gusting Skies (CFC)	CFC	CFC-090	CFC-090	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.
-Magic Stone of Hearth's Core (CFC)	CFC	CFC-091	CFC-091	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.
-Magic Stone of Heat Ray (CFC)	CFC	CFC-092	CFC-092	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.
-Magic Stone of Heaven's Rift (CFC)	CFC	CFC-093	CFC-093	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.
-Magic Stone of Light Vapors (CFC)	CFC	CFC-094	CFC-094	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.
-Magic Stone of Scorched Bales (CFC)	CFC	CFC-095	CFC-095	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.
-Darkness Magic Stone (CFC)	CFC	CFC-096	CFC-096	Magic Stone							S	[Rest]: Produce {d}.
-Fire Magic Stone (CFC)	CFC	CFC-097	CFC-097	Magic Stone							S	[Rest]: Produce {r}.
-Light Magic Stone (CFC)	CFC	CFC-098	CFC-098	Magic Stone							S	[Rest]: Produce {w}.
-Water Magic Stone (CFC)	CFC	CFC-099	CFC-099	Magic Stone							S	[Rest]: Produce {u}.
-Wind Magic Stone (CFC)	CFC	CFC-100	CFC-100	Magic Stone							S	[Rest]: Produce {g}.
-Awakened Magic Stone, the Earth	LEL	LEL-096	LEL-096	Special Magic Stone							SS	If your J/ruler isn't "Lumia, the Fated Rebirth" or "Lumia, Saint of the Crimson Lotus", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a fire magic stone.[Rest] Produce {w} or {r}.When you do judgment of a light ruler => Recover this card.
-Killing Stone	LEL	LEL-097	LEL-097	Special Magic Stone							SS	If your J/ruler isn't "Lilias Petal, Agent of Salvation" or "The Nine-Tailed Fox", this card enters your field rested unless you pay 300 life.Treat this card as a wind magic stone and a darkness magic stone.[Rest] Produce {g} or {d}.When this card is put into a graveyard from your field => Your opponent loses 100 life and you gain 100 life.
-Magic Stone of Vaporization	LEL	LEL-098	LEL-098	Special Magic Stone							SS	If your J/ruler isn't "Sol, Hierphant of the Helio Star" or "Sol, Dark Commander of Steam", this card enters your field rested unless you pay 300 life.Treat this card as a fire magic stone and a water magic stone. [Rest] Produce {r} or {u}. {1}, [Rest] Put a mana counter on your J/ruler.
-Pricia's Memoria	LEL	LEL-099	LEL-099	Special Magic Stone							SS	If your J/ruler isn't "Glorius, Masked Crusader" or "Faria, Ruler of Divine Beasts", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a wind magic stone.[Rest] Produce {w} or {g}. [Rest] As long as your J-ruler is "Faria, Ruler of Divine Beasts", it gains [+200/+200] until end of turn.
-Remains of Attoractia	LEL	LEL-100	LEL-100	Special Magic Stone							SS	If your J/ruler isn't "Invading Demon of Water, Valentina" or "Valentina, Released Terror", this card enters your field rested unless you pay 300 life.Treat this card as a water magic stone and a darkness magic stone. [Rest] Produce {u} or {d}. [Rest] Target resonator token gains [+100/+100] until end of turn.
-Darkness Magic Stone (LEL)	LEL	LEL-101	LEL-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (LEL)	LEL	LEL-102	LEL-102	Magic Stone							S	[Rest] Produce {r}.
-Light Magic Stone (LEL)	LEL	LEL-103	LEL-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (LEL)	LEL	LEL-104	LEL-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (LEL)	LEL	LEL-105	LEL-105	Magic Stone							S	[Rest] Produce {g}.
-Ancient Magic Stone	RDE	RDE-096	RDE-096	Special Magic Stone							SS	If your J/ruler isn't "Gill Alhama'at" or "Ebon Dragon Emperor, Gill Alhama'at", this card enters your field rested unless you pay 300 life. Treat this card as a light magic stone and darkness magic stone. [Rest]: Produce {w} or {d}. [Rest], remove a mana counter from your J/ruler: Produce {w}, {r}, {u}, {g}, or {d}.
-Kaguya's Stone of Sorrow	RDE	RDE-097	RDE-097	Special Magic Stone							SS	If your J/ruler isn't "Kaguya, Tears of the Moon" or "Kaguya, Millenium Prnicess" this card enters your field rested unless you pay 300 life. Treat this card as a water magic stone and a wind magic stone. [Activate] [Rest] Produce {u} or {g}. When this card enters your field -> Look at the top two cards of your deck and put them back in any order.
-Magic Stone of the Ebon Home	RDE	RDE-098	RDE-098	Special Magic Stone							SS	If your J/ruler isn't "Gill Lapis, Conqueror of Attoractia" or "Gill Lapis, Rebel of Darkest Fires" this card enters your field rested unless you pay 300 life. Treat this card as a fire magic stone and a darkness magic stone. [Activate] [Rest] Produce {f} or {d}. When this card enters your field -> Remove the top card of your opponent's decl from the game.
-Memoria of Reincarnation	RDE	RDE-099	RDE-099	Special Magic Stone							SS	If your J/ruler isn't "Pricia, True Beastmaster" or "Reincarnated Maiden of Flame, Pricia" this card enters your field rested unless you pay 300 life. Treat this card as a fire magic stone and a wind magic stone. [Activate] [Rest] Produce {f} or {g}. When this card leaves your field for a non-field zone -> Draw a card.
-Stone of the Dragonoids	RDE	RDE-100	RDE-100	Special Magic Stone							SS	If your J/ruler isn't "Millium, Successor of the Dragon Creast" or "Millium, the Sacred Dragon" this card enters your field rested unless you pay 300 life. Treat this card as a light magic stone and a water magic stone. [Activate] [Rest] Produce {w} or {u}. When this card enters your field -> If your ruler is "Millium, Successor of the Dragon Creast", put a dragon power counter on it.
-Darkness Magic Stone (RDE)	RDE	RDE-101	RDE-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (RDE)	RDE	RDE-102	RDE-102	Magic Stone							S	[Rest] Produce {f}.
-Light Magic Stone (RDE)	RDE	RDE-103	RDE-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (RDE)	RDE	RDE-104	RDE-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (RDE)	RDE	RDE-105	RDE-105	Magic Stone							S	[Rest] Produce {g}.
-Burning Water Magic Stone	VIN003	VIN003-086	VIN003-086	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {u}.
-Gustin Darkness Magic Stone	VIN003	VIN003-087	VIN003-087	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {g}. [Rest] remove a magic counter from this card: Produce {d}.
-Magic Stone of Murky Waters	VIN003	VIN003-088	VIN003-088	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {u}. [Rest] remove a magic counter from this card: Produce {d}.
-Magic Stone of Nature's Beauty	VIN003	VIN003-089	VIN003-089	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {g}. [Rest] remove a magic counter from this card: Produce {w}.
-Magic Stone of Purgatory	VIN003	VIN003-090	VIN003-090	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {f}.
-Magic Stone of Radiant Waves	VIN003	VIN003-091	VIN003-091	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {w}. [Rest] remove a magic counter from this card: Produce {u}.
-Magic Stone of Summer's Breeze	VIN003	VIN003-092	VIN003-092	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {g}.
-Misty Wind Magic Stone	VIN003	VIN003-093	VIN003-093	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {u}. [Rest] remove a magic counter from this card: Produce {g}.
-Shadowy Light Magic Stone	VIN003	VIN003-094	VIN003-094	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {d}. [Rest] remove a magic counter from this card: Produce {w}.
-Sparkling Fire Magic Stone	VIN003	VIN003-095	VIN003-095	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {w}. [Rest] remove a magic counter from this card: Produce {r}.
-Darkness Magic Stone (VIN003)	VIN003	VIN003-096	VIN003-096	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (VIN003)	VIN003	VIN003-097	VIN003-097	Magic Stone							S	[Rest] Produce {f}.
-Light Magic Stone (VIN003)	VIN003	VIN003-098	VIN003-098	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (VIN003)	VIN003	VIN003-099	VIN003-099	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (VIN003)	VIN003	VIN003-100	VIN003-100	Magic Stone							S	[Rest] Produce {g}.
-Star Fragment	ENW	ENW-099	ENW-099	Special Magic Stone							SS	[Rest]: Produce {1}. [Rest]: Produce {w}, {r}, {u}, {g}, or {d}. Spend this will only to play resonators with two or more attributes.
-Time Altering Magic Stone	ENW	ENW-100	ENW-100	Special Magic Stone							SS	[Rest]: Produce {u} [Rest], banish this card: Shuffle up to three target non-magic stone cards from their graveyards into their owners' decks
-Darkness Magic Stone	ENW	ENW-101	ENW-101	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone	ENW	ENW-102	ENW-102	Magic Stone							S	[Rest] Produce {f}.
-Light Magic Stone	ENW	ENW-103	ENW-103	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone	ENW	ENW-104	ENW-104	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone	ENW	ENW-105	ENW-105	Magic Stone							S	[Rest] Produce {g}.
-Ore From The Treasure Mountain	SDR1	SDR1-012	SDR1-012	Special Magic Stone							SS	Treat this card as a light magic stone. [Rest]: Produce {w}. When this card enters the field => Gain a light gem.
-Light Magic Stone (SDR1)	SDR1	SDR1-013	SDR1-013	Magic Stone							S	[Rest] Produce {w}.
-Dragon Ore	SDR2	SDR2-012	SDR2-012	Special Magic Stone							SS	Treat this card as a fire magic stone. [Rest]: Produce {r}. When this card enters the field => Put two strength counters on your J/ruler.
-Fire Magic Stone (SDR2)	SDR2	SDR2-013	SDR2-013	Magic Stone							S	[Rest] Produce {f}.
-Shoal Coral Stone	SDR3	SDR3-012	SDR3-012	Special Magic Stone							SS	Treat this card as a water magic stone. [Rest]: Produce {u}. Banish this card: The weather is rain until end of turn.
-Water Magic Stone (SDR3)	SDR3	SDR3-013	SDR3-013	Magic Stone							S	[Rest] Produce {u}.
-Spirit Stone	SDR4	SDR4-012	SDR4-012	Special Magic Stone							SS	Treat this card as a wind magic stone. [Rest]: Produce {g}. Banish this card: Draw a card.
-Wind Magic Stone (SDR4)	SDR4	SDR4-013	SDR4-013	Magic Stone							S	[Rest] Produce {g}.
-Stone from the Dark Castle	SDR5	SDR5-012	SDR5-012	Special Magic Stone							SS	Treat this card as a darkness magic stone. [Rest]: Produce {d}. When this card enters the field => Put a mystery counter on your J/ruler.
-Darkness Magic Stone (SDR5)	SDR5	SDR5-013	SDR5-013	Magic Stone							S	[Rest]: Produce {d}.
-Demonic Soulstone	ACN	ACN-148	ACN-148	Special Magic Stone							SS	Treat this card as a darkness magic stone. [Rest]: Produce {d}. {2}, [Rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.
-Mysterious Magic Stone	ACN	ACN-149	ACN-149	Special Magic Stone							SS	Treat this card as a light magic stone. [Rest]: Produce {w}. {w}, [Rest], banish this card: Put target Golem from your graveyard into your hand.
-Saintly Elven Stone	ACN	ACN-150	ACN-150	Special Magic Stone							SS	Treat this card as a wind magic stone. [Rest]: Produce {g}. [Rest]: Target Elf gains [+100/+100] until end of turn.
-Darkness Magic Stone (ACN)	ACN	ACN-156	ACN-156	Magic Stone							S	[Rest] Produce {d}.
-Fire Magic Stone (ACN)	ACN	ACN-157	ACN-157	Magic Stone							S	[Rest] Produce {f}.
-Light Magic Stone (ACN)	ACN	ACN-158	ACN-158	Magic Stone							S	[Rest] Produce {w}.
-Water Magic Stone (ACN)	ACN	ACN-159	ACN-159	Magic Stone							S	[Rest] Produce {u}.
-Wind Magic Stone (ACN)	ACN	ACN-160	ACN-160	Magic Stone							S	[Rest] Produce {g}.
+﻿Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Magic Stone of Black Silence (CMF)	CMF	CMF-096	CMF-096	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and dark magic stone. [Activate] [Rest] Produce {g} or {d}.	
+Magic Stone of Deep Wood (CMF)	CMF	CMF-097	CMF-097	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and water magic stone. [Activate] [Rest] Produce {g} or {u}.	
+Magic Stone of Hearth's Core (CMF)	CMF	CMF-098	CMF-098	Special Magic Stone							SS	[Continuous] Treat this card as fire magic stone and water magic stone. [Activate] [Rest] Produce {r} or {u}.	
+Magic Stone of Heat Ray (CMF)	CMF	CMF-099	CMF-099	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and fire magic stone. [Activate] [Rest] Produce {w} or {r}.	
+Magic Stone of Heaven's Rift (CMF)	CMF	CMF-100	CMF-100	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and dark magic stone. [Activate] [Rest] Produce {w} or {d}.	
+Magic Stone of Darkness (CMF)	CMF	CMF-101	CMF-101	Magic Stone							S	[Activate] [Rest] Produce {d}.	
+Magic Stone of Flame  (CMF)	CMF	CMF-102	CMF-102	Magic Stone							S	[Activate] [Rest] Produce {r}.	
+Magic Stone of Light (CMF)	CMF	CMF-103	CMF-103	Magic Stone							S	[Activate] [Rest] Produce {w}.	
+Magic Stone of Water (CMF)	CMF	CMF-104	CMF-104	Magic Stone							S	[Activate] [Rest] Produce {u}.	
+Magic Stone of Wind (CMF)	CMF	CMF-105	CMF-105	Magic Stone							S	[Activate] [Rest] Produce {g}.	
+Almerius, the Levitating Stone	TAT	TAT-091	TAT-091	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {w}. [Activate] {w}[Rest] Target J/resonator gains [Flying] until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.	
+Feethsing, the Holy Wind Stone	TAT	TAT-092	TAT-092	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {g}. [Activate] {g}[Rest] Target J/resonator cannot be targeted by normal spells you opponents control until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.	
+Grusbalesta, the Sealing Stone	TAT	TAT-093	TAT-093	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {d}. [Activate] {d}[Rest] Target J/resonator gains [+0/-200] until end of turn. [Continuous] When you control two or more true magic stones with same name, banish all but one of them.	
+Magic Stone of Blasting Waves (TAT)	TAT	TAT-094	TAT-094	Special Magic Stone							SS	[Continuous] Treat this card as wind magic stone and fire magic stone. [Activate] [Rest] Produce {g} or {r}.	
+Magic Stone of Dark Depth (TAT)	TAT	TAT-095	TAT-095	Special Magic Stone							SS	[Continuous] Treat this card as darkness magic stone and water magic stone. [Activate] [Rest] Produce {d} and {u}.	
+Magic Stone of Gusting Skies (TAT)	TAT	TAT-096	TAT-096	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and wind magic stone. [Activate] [Rest] Produce {w} and {g}.	
+Magic Stone of Light Vapors (TAT)	TAT	TAT-097	TAT-097	Special Magic Stone							SS	[Continuous] Treat this card as light magic stone and water magic stone. [Activate] [Rest] Produce {w} and {u}.	
+Magic Stone of Scorched Bales (TAT)	TAT	TAT-098	TAT-098	Special Magic Stone							SS	[Continuous] Treat this card as darkness magic stone and fire magic stone. [Activate] [Rest] Produce {d} and {r}.	
+Milest, the Ghostly Flame Stone	TAT	TAT-099	TAT-099	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {r}. [Activate] {r}[Rest] This turn, if target J/resonator would deal damage, it deals that much +200 instead. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.	
+Moojdart, the Fantasy Stone	TAT	TAT-100	TAT-100	Special Magic Stone/True Magic Stone							SS	[Activate] [Rest] Produce {u}. [Activate] {u}[Rest] Target J/resonator loses all races and gains a race of your choice until end of turn. [Continuous] When you control two or more magic stones with the same name, banish all but one of them.	
+Magic Stone of Light (TAT)	TAT	TAT-101	TAT-101	Magic Stone							S	[Activate] [Rest] Produce {w}.	
+Magic Stone of Flame (TAT)	TAT	TAT-102	TAT-102	Magic Stone							S	[Activate] [Rest] Produce {r}.	
+Magic Stone of Water (TAT)	TAT	TAT-103	TAT-103	Magic Stone							S	[Activate] [Rest] Produce {u}.	
+Magic Stone of Wind (TAT)	TAT	TAT-104	TAT-104	Magic Stone							S	[Activate] [Rest] Produce {g}.	
+Magic Stone of Darkness (TAT)	TAT	TAT-105	TAT-105	Magic Stone							S	[Activate] [Rest] Produce {d}.	
+Little Red, the Pure Stone	MPR	MPR-098	MPR-098	Special Magic Stone/True Magic Stone							SS	As this card comes into a magic stone area, choose an attribute. [Activate] [Rest] Produce one will of the chosen attribute. [Activate] [Rest] Target resonator that shares an attribute with the chosen attribute gains [+200/+200] until end of turn. [Continuous] When you control two or more true magic stones with the same name, banish all but one of them.	
+Magic Stone of Moon Light	MPR	MPR-099	MPR-099	Special Magic Stone							SS	[Activate] [Rest] Produce {m}.  [Activate] [Rest] Produce one will of any attribute that a magic stone you control could produce.	
+Magic Stone of Moon Shade	MPR	MPR-100	MPR-100	Special Magic Stone							SS	[Activate] [Rest] Produce {m}. [Activate] [Rest] pay 200 life: Produce {w}, {r}, {u}, {g} or {d}.	
+Magic Stone of Darkness (MPR)	MPR	MPR-101	MPR-101	Magic Stone							S	[Activate] [Rest] Produce {d}.	
+Magic Stone of Flame (MPR)	MPR	MPR-102	MPR-102	Magic Stone							S	[Activate] [Rest] Produce {r}.	
+Magic Stone of Light (MPR)	MPR	MPR-103	MPR-103	Magic Stone							S	[Activate] [Rest] Produce {w}.	
+Magic Stone of Water (MPR)	MPR	MPR-104	MPR-104	Magic Stone							S	[Activate] [Rest] Produce {u}.	
+Magic Stone of Wind (MPR)	MPR	MPR-105	MPR-105	Magic Stone							S	[Activate] [Rest] Produce {g}.	
+Fire Magic Stone (VS01)	VS01	VS01-033	VS01-033	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (VS01)	VS01	VS01-034	VS01-034	Magic Stone							S	[Rest] Produce {w}.	
+Magic Stone of Black Silence (VIN001)	VIN001	VIN001-080.png	VIN001-080	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.	
+Magic Stone of Blasting Waves (VIN001)	VIN001	VIN001-081.png	VIN001-081	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.	
+Magic Stone of Dark Depth (VIN001)	VIN001	VIN001-082.png	VIN001-082	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.	
+Magic stone of Deep Wood (VIN001)	VIN001	VIN001-083.png	VIN001-083	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.	
+Magic Stone of Gusting Skies (VIN001)	VIN001	VIN001-084.png	VIN001-084	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.	
+Magic Stone of Hearth's Core (VIN001)	VIN001	VIN001-085.png	VIN001-085	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.	
+Magic Stone of Heat Ray (VIN001)	VIN001	VIN001-086.png	VIN001-086	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.	
+Magic Stone of Heaven's Rift (VIN001)	VIN001	VIN001-087.png	VIN001-087	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.	
+Magic Stone of Light Vapors (VIN001)	VIN001	VIN001-088.png	VIN001-088	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.	
+Magic Stone of Scorched Bales (VIN001)	VIN001	VIN001-089.png	VIN001-089	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.	
+Darkness Magic Stone (VIN001)	VIN001	VIN001-090	VIN001-090	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (VIN001)	VIN001	VIN001-091	VIN001-091	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (VIN001)	VIN001	VIN001-092	VIN001-092	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (VIN001)	VIN001	VIN001-093	VIN001-093	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (VIN001)	VIN001	VIN001-094	VIN001-094	Magic Stone							S	[Rest] Produce {g}.	
+Darkness Magic Stone (SKL)	SKL	SKL-101	SKL-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (SKL)	SKL	SKL-102	SKL-102	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (SKL)	SKL	SKL-103	SKL-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (SKL)	SKL	SKL-104	SKL-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (SKL)	SKL	SKL-105	SKL-105	Magic Stone							S	[Rest] Produce {g}.	
+Fairy's Memoria	TTW	TTW-101	TTW-101	Special Magic Stone							SS	As this card enters your magic stone area, you may reveal a Fairy from your hand. If you don't, this card enters your magic stone area rested. [Rest] Produce {w}. [Rest] Produce {w}, {r}, {u}, {g}, or {d}. Spend that will only to play Fairy resonators. {w}, [Rest] Target Fairy resonator gains [+200/+200] until end of turn.	
+Ruler's Memoria	TTW	TTW-102	TTW-102	Special Magic Stone							SS	If you don't control a regalia, this card enters your magic stone area rested. [Rest] Produce {w}, {r}, {u}, {g}, or {d}.	
+Sacred Beast's Memoria	TTW	TTW-103	TTW-103	Special Magic Stone							SS	As this card enters your magic stone area, you may reveal a Beast of Four Sacred Beasts from your hand. If you don't, this card enters your magic stone area rested. [Rest] Produce {g}. {g}, [Rest] Target Four Sacred Beasts or Beast J/resonator gains [+200/+200] until end of turn.	
+Shadow's Memoria	TTW	TTW-104	TTW-104	Special Magic Stone							SS	If your J/ruler isn't "Girl in Twilight Garb" or "Dark Alice, Maiden of Slaughter", this card enters your magic stone area rested. [Rest] Produce {d}. Whenever a Shadow resonator enters your field, target resonator gains [-100/0] until end of turn.	
+Unyielding Flame's Memoria	TTW	TTW-105	TTW-105	Special Magic Stone							SS	If your opponent's life is exactly 4000, this card enters your magic stone area rested. [Rest] Produce {r}. [Rest] If target resonator would deal damage this turn, it deals that much +200 instead.	
+Darkness Magic Stone (TTW)	TTW	TTW-106	TTW-106	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (TTW)	TTW	TTW-107	TTW-107	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (TTW)	TTW	TTW-108	TTW-108	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (TTW)	TTW	TTW-109	TTW-109	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (TTW)	TTW	TTW-110	TTW-110	Magic Stone							S	[Rest] Produce {g}.	
+Black Moon's Memoria	TMS	TMS-096	TMS-096	Special Magic Stone							SS	[Rest] Produce {m} or {d}.	
+Disaster's Memoria	TMS	TMS-097	TMS-097	Special Magic Stone							SS	If your J/ruler isn't "The Observer" or "Timeline Arsonist, Alisaris", this card enters your magic stone area rested. [Rest] Produce {r}. [Rest] Remove the top card of your main deck from the game.	
+Hymnal's Memoria	TMS	TMS-098	TMS-098	Special Magic Stone							SS	If your J/ruler isn't "Songtress of Shangri-La" or "Coup d'Etat Mastermind, Shion", this card enters your magic stone area rested. [Rest] Produce {u}. When this card enters your magic stone area, name a card. Reveal the top card of your main deck, if it's the named card, put it into your hand.	
+Moonbreeze's Memoria	TMS	TMS-099	TMS-099	Special Magic Stone							SS	[Rest] Produce {m} or {w}.	
+Yggdrasil's Memoria	TMS	TMS-100	TMS-100	Special Magic Stone							SS	When you control a J-ruler, banish this card. [Rest] Produce {g}. {g}, [Rest] Recover target resonator. Play this ability only during your opponent's turn.	
+Darkness Magic Stone (TMS)	TMS	TMS-101	TMS-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (TMS)	TMS	TMS-102	TMS-102	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (TMS)	TMS	TMS-103	TMS-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (TMS)	TMS	TMS-104	TMS-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (TMS)	TMS	TMS-105	TMS-105	Magic Stone							S	[Rest] Produce {g}.	
+Call to Action's Memoria	BFA	BFA-096	BFA-096	Special Magic Stone							SS	[Rest] Produce {w}. {w}{1}, [Rest] You gain 100 life.	
+Brutal Conqueror's Memoria	BFA	BFA-097	BFA-097	Special Magic Stone							SS	[Rest] Produce {r}. {r}{2}, [Rest] This card deals 100 damage to your opponent.	
+Aloof Researcher's Memoria	BFA	BFA-098	BFA-098	Special Magic Stone							SS	[Rest] Produce {u}. {u}{1},[Rest] Draw a card, then discards a card.	
+First Flight's Memoria	BFA	BFA-099	BFA-099	Special Magic Stone							SS	[Rest] Produce {g}. {g},[Rest] Produce {w}, {r}, {u}, {g} or {d}.	
+Sorrowful Necromancy's Memoria	BFA	BFA-100	BFA-100	Special Magic Stone							SS	[Rest] Produce {d}. {d}{1},[Rest] Remove target card in a graveyard from the game.	
+Darkness Magic Stone (BFA)	BFA	BFA-101	BFA-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (BFA)	BFA	BFA-102	BFA-102	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (BFA)	BFA	BFA-103	BFA-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (BFA)	BFA	BFA-104	BFA-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (BFA)	BFA	BFA-105	BFA-105	Magic Stone							S	[Rest] Produce {g}.	
+Magic Stone of Black Silence (VIN002)	VIN002	VIN002-081.png	VIN002-081	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.	
+Magic Stone of Blasting Waves (VIN002)	VIN002	VIN002-082.png	VIN002-082	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.	
+Magic Stone of Dark Depth (VIN002)	VIN002	VIN002-083.png	VIN002-083	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.	
+Magic stone of Deep Wood (VIN002)	VIN002	VIN002-084.png	VIN002-084	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.	
+Magic Stone of Gusting Skies (VIN002)	VIN002	VIN002-085.png	VIN002-085	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.	
+Magic Stone of Hearth's Core (VIN002)	VIN002	VIN002-086.png	VIN002-086	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.	
+Magic Stone of Heat Ray (VIN002)	VIN002	VIN002-087.png	VIN002-087	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.	
+Magic Stone of Heaven's Rift (VIN002)	VIN002	VIN002-088.png	VIN002-088	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.	
+Magic Stone of Light Vapors (VIN002)	VIN002	VIN002-089.png	VIN002-089	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.	
+Magic Stone of Scorched Bales (VIN002)	VIN002	VIN002-090.png	VIN002-090	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.	
+Darkness Magic Stone (VIN002)	VIN002	VIN002-091	VIN002-091	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (VIN002)	VIN002	VIN002-092	VIN002-092	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (VIN002)	VIN002	VIN002-093	VIN002-093	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (VIN002)	VIN002	VIN002-094	VIN002-094	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (VIN002)	VIN002	VIN002-095	VIN002-095	Magic Stone							S	[Rest] Produce {g}.	
+Light Magic Stone (SDL1)	SDL1	SDL1-012	SDL1-012	Magic Stone							S	[Rest] Produce {w}.	
+Fire Magic Stone (SDL2)	SDL2	SDL2-012	SDL2-012	Magic Stone							S	[Rest] Produce {r}.	
+Water Magic Stone (SDL3)	SDL3	SDL3-012	SDL3-012	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (SDL4)	SDL4	SDL4-012	SDL4-012	Magic Stone							S	[Rest] Produce {g}.	
+Darkness Magic Stone (SDL5)	SDL5	SDL5-012	SDL5-012	Magic Stone							S	[Rest] Produce {d}.	
+Magic Stone of Black Silence (CFC)	CFC	CFC-086	CFC-086	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce {g} or {d}.	
+Magic Stone of Blasting Waves (CFC)	CFC	CFC-087	CFC-087	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce {g} or {r}.	
+Magic Stone of Dark Depth (CFC)	CFC	CFC-088	CFC-088	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce {d} or {u}.	
+Magic stone of Deep Wood (CFC)	CFC	CFC-089	CFC-089	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce {g} or {u}.	
+Magic Stone of Gusting Skies (CFC)	CFC	CFC-090	CFC-090	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce {w} or {g}.	
+Magic Stone of Hearth's Core (CFC)	CFC	CFC-091	CFC-091	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce {r} or {u}.	
+Magic Stone of Heat Ray (CFC)	CFC	CFC-092	CFC-092	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce {w} or {r}.	
+Magic Stone of Heaven's Rift (CFC)	CFC	CFC-093	CFC-093	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce {w} or {d}.	
+Magic Stone of Light Vapors (CFC)	CFC	CFC-094	CFC-094	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce {w} or {u}.	
+Magic Stone of Scorched Bales (CFC)	CFC	CFC-095	CFC-095	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce {d} or {r}.	
+Darkness Magic Stone (CFC)	CFC	CFC-096	CFC-096	Magic Stone							S	[Rest]: Produce {d}.	
+Fire Magic Stone (CFC)	CFC	CFC-097	CFC-097	Magic Stone							S	[Rest]: Produce {r}.	
+Light Magic Stone (CFC)	CFC	CFC-098	CFC-098	Magic Stone							S	[Rest]: Produce {w}.	
+Water Magic Stone (CFC)	CFC	CFC-099	CFC-099	Magic Stone							S	[Rest]: Produce {u}.	
+Wind Magic Stone (CFC)	CFC	CFC-100	CFC-100	Magic Stone							S	[Rest]: Produce {g}.	
+Awakened Magic Stone, the Earth	LEL	LEL-096	LEL-096	Special Magic Stone							SS	If your J/ruler isn't "Lumia, the Fated Rebirth" or "Lumia, Saint of the Crimson Lotus", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a fire magic stone.[Rest] Produce {w} or {r}.When you do judgment of a light ruler => Recover this card.	
+Killing Stone	LEL	LEL-097	LEL-097	Special Magic Stone							SS	If your J/ruler isn't "Lilias Petal, Agent of Salvation" or "The Nine-Tailed Fox", this card enters your field rested unless you pay 300 life.Treat this card as a wind magic stone and a darkness magic stone.[Rest] Produce {g} or {d}.When this card is put into a graveyard from your field => Your opponent loses 100 life and you gain 100 life.	
+Magic Stone of Vaporization	LEL	LEL-098	LEL-098	Special Magic Stone							SS	If your J/ruler isn't "Sol, Hierphant of the Helio Star" or "Sol, Dark Commander of Steam", this card enters your field rested unless you pay 300 life.Treat this card as a fire magic stone and a water magic stone. [Rest] Produce {r} or {u}. {1}, [Rest] Put a mana counter on your J/ruler.	
+Pricia's Memoria	LEL	LEL-099	LEL-099	Special Magic Stone							SS	If your J/ruler isn't "Glorius, Masked Crusader" or "Faria, Ruler of Divine Beasts", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a wind magic stone.[Rest] Produce {w} or {g}. [Rest] As long as your J-ruler is "Faria, Ruler of Divine Beasts", it gains [+200/+200] until end of turn.	
+Remains of Attoractia	LEL	LEL-100	LEL-100	Special Magic Stone							SS	If your J/ruler isn't "Invading Demon of Water, Valentina" or "Valentina, Released Terror", this card enters your field rested unless you pay 300 life.Treat this card as a water magic stone and a darkness magic stone. [Rest] Produce {u} or {d}. [Rest] Target resonator token gains [+100/+100] until end of turn.	
+Darkness Magic Stone (LEL)	LEL	LEL-101	LEL-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (LEL)	LEL	LEL-102	LEL-102	Magic Stone							S	[Rest] Produce {r}.	
+Light Magic Stone (LEL)	LEL	LEL-103	LEL-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (LEL)	LEL	LEL-104	LEL-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (LEL)	LEL	LEL-105	LEL-105	Magic Stone							S	[Rest] Produce {g}.	
+Ancient Magic Stone	RDE	RDE-096	RDE-096	Special Magic Stone							SS	If your J/ruler isn't "Gill Alhama'at" or "Ebon Dragon Emperor, Gill Alhama'at", this card enters your field rested unless you pay 300 life. Treat this card as a light magic stone and darkness magic stone. [Rest]: Produce {w} or {d}. [Rest], remove a mana counter from your J/ruler: Produce {w}, {r}, {u}, {g}, or {d}.	
+Kaguya's Stone of Sorrow	RDE	RDE-097	RDE-097	Special Magic Stone							SS	If your J/ruler isn't "Kaguya, Tears of the Moon" or "Kaguya, Millenium Prnicess" this card enters your field rested unless you pay 300 life. Treat this card as a water magic stone and a wind magic stone. [Activate] [Rest] Produce {u} or {g}. When this card enters your field -> Look at the top two cards of your deck and put them back in any order.	
+Magic Stone of the Ebon Home	RDE	RDE-098	RDE-098	Special Magic Stone							SS	If your J/ruler isn't "Gill Lapis, Conqueror of Attoractia" or "Gill Lapis, Rebel of Darkest Fires" this card enters your field rested unless you pay 300 life. Treat this card as a fire magic stone and a darkness magic stone. [Activate] [Rest] Produce {f} or {d}. When this card enters your field -> Remove the top card of your opponent's decl from the game.	
+Memoria of Reincarnation	RDE	RDE-099	RDE-099	Special Magic Stone							SS	If your J/ruler isn't "Pricia, True Beastmaster" or "Reincarnated Maiden of Flame, Pricia" this card enters your field rested unless you pay 300 life. Treat this card as a fire magic stone and a wind magic stone. [Activate] [Rest] Produce {f} or {g}. When this card leaves your field for a non-field zone -> Draw a card.	
+Stone of the Dragonoids	RDE	RDE-100	RDE-100	Special Magic Stone							SS	If your J/ruler isn't "Millium, Successor of the Dragon Creast" or "Millium, the Sacred Dragon" this card enters your field rested unless you pay 300 life. Treat this card as a light magic stone and a water magic stone. [Activate] [Rest] Produce {w} or {u}. When this card enters your field -> If your ruler is "Millium, Successor of the Dragon Creast", put a dragon power counter on it.	
+Darkness Magic Stone (RDE)	RDE	RDE-101	RDE-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (RDE)	RDE	RDE-102	RDE-102	Magic Stone							S	[Rest] Produce {f}.	
+Light Magic Stone (RDE)	RDE	RDE-103	RDE-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (RDE)	RDE	RDE-104	RDE-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (RDE)	RDE	RDE-105	RDE-105	Magic Stone							S	[Rest] Produce {g}.	
+Burning Water Magic Stone	VIN003	VIN003-086	VIN003-086	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {u}.	
+Gustin Darkness Magic Stone	VIN003	VIN003-087	VIN003-087	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {g}. [Rest] remove a magic counter from this card: Produce {d}.	
+Magic Stone of Murky Waters	VIN003	VIN003-088	VIN003-088	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {u}. [Rest] remove a magic counter from this card: Produce {d}.	
+Magic Stone of Nature's Beauty	VIN003	VIN003-089	VIN003-089	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {g}. [Rest] remove a magic counter from this card: Produce {w}.	
+Magic Stone of Purgatory	VIN003	VIN003-090	VIN003-090	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {f}.	
+Magic Stone of Radiant Waves	VIN003	VIN003-091	VIN003-091	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {w}. [Rest] remove a magic counter from this card: Produce {u}.	
+Magic Stone of Summer's Breeze	VIN003	VIN003-092	VIN003-092	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {r}. [Rest] remove a magic counter from this card: Produce {g}.	
+Misty Wind Magic Stone	VIN003	VIN003-093	VIN003-093	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {u}. [Rest] remove a magic counter from this card: Produce {g}.	
+Shadowy Light Magic Stone	VIN003	VIN003-094	VIN003-094	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {d}. [Rest] remove a magic counter from this card: Produce {w}.	
+Sparkling Fire Magic Stone	VIN003	VIN003-095	VIN003-095	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce {w}. [Rest] remove a magic counter from this card: Produce {r}.	
+Darkness Magic Stone (VIN003)	VIN003	VIN003-096	VIN003-096	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (VIN003)	VIN003	VIN003-097	VIN003-097	Magic Stone							S	[Rest] Produce {f}.	
+Light Magic Stone (VIN003)	VIN003	VIN003-098	VIN003-098	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (VIN003)	VIN003	VIN003-099	VIN003-099	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (VIN003)	VIN003	VIN003-100	VIN003-100	Magic Stone							S	[Rest] Produce {g}.	
+Star Fragment	ENW	ENW-099	ENW-099	Special Magic Stone							SS	[Rest]: Produce {1}. [Rest]: Produce {w}, {r}, {u}, {g}, or {d}. Spend this will only to play resonators with two or more attributes.	
+Time Altering Magic Stone	ENW	ENW-100	ENW-100	Special Magic Stone							SS	[Rest]: Produce {u} [Rest], banish this card: Shuffle up to three target non-magic stone cards from their graveyards into their owners' decks	
+Darkness Magic Stone	ENW	ENW-101	ENW-101	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone	ENW	ENW-102	ENW-102	Magic Stone							S	[Rest] Produce {f}.	
+Light Magic Stone	ENW	ENW-103	ENW-103	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone	ENW	ENW-104	ENW-104	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone	ENW	ENW-105	ENW-105	Magic Stone							S	[Rest] Produce {g}.	
+Ore From The Treasure Mountain	SDR1	SDR1-012	SDR1-012	Special Magic Stone							SS	Treat this card as a light magic stone. [Rest]: Produce {w}. When this card enters the field => Gain a light gem.	
+Light Magic Stone (SDR1)	SDR1	SDR1-013	SDR1-013	Magic Stone							S	[Rest] Produce {w}.	
+Dragon Ore	SDR2	SDR2-012	SDR2-012	Special Magic Stone							SS	Treat this card as a fire magic stone. [Rest]: Produce {r}. When this card enters the field => Put two strength counters on your J/ruler.	
+Fire Magic Stone (SDR2)	SDR2	SDR2-013	SDR2-013	Magic Stone							S	[Rest] Produce {f}.	
+Shoal Coral Stone	SDR3	SDR3-012	SDR3-012	Special Magic Stone							SS	Treat this card as a water magic stone. [Rest]: Produce {u}. Banish this card: The weather is rain until end of turn.	
+Water Magic Stone (SDR3)	SDR3	SDR3-013	SDR3-013	Magic Stone							S	[Rest] Produce {u}.	
+Spirit Stone	SDR4	SDR4-012	SDR4-012	Special Magic Stone							SS	Treat this card as a wind magic stone. [Rest]: Produce {g}. Banish this card: Draw a card.	
+Wind Magic Stone (SDR4)	SDR4	SDR4-013	SDR4-013	Magic Stone							S	[Rest] Produce {g}.	
+Stone from the Dark Castle	SDR5	SDR5-012	SDR5-012	Special Magic Stone							SS	Treat this card as a darkness magic stone. [Rest]: Produce {d}. When this card enters the field => Put a mystery counter on your J/ruler.	
+Darkness Magic Stone (SDR5)	SDR5	SDR5-013	SDR5-013	Magic Stone							S	[Rest]: Produce {d}.	
+Demonic Soulstone	ACN	ACN-148	ACN-148	Special Magic Stone							SS	Treat this card as a darkness magic stone. [Rest]: Produce {d}. {2}, [Rest]: This card deals 100 damage multiplied by the number of Dark Elves you control to each player.	
+Mysterious Magic Stone	ACN	ACN-149	ACN-149	Special Magic Stone							SS	Treat this card as a light magic stone. [Rest]: Produce {w}. {w}, [Rest], banish this card: Put target Golem from your graveyard into your hand.	
+Saintly Elven Stone	ACN	ACN-150	ACN-150	Special Magic Stone							SS	Treat this card as a wind magic stone. [Rest]: Produce {g}. [Rest]: Target Elf gains [+100/+100] until end of turn.	
+Darkness Magic Stone (ACN)	ACN	ACN-156	ACN-156	Magic Stone							S	[Rest] Produce {d}.	
+Fire Magic Stone (ACN)	ACN	ACN-157	ACN-157	Magic Stone							S	[Rest] Produce {f}.	
+Light Magic Stone (ACN)	ACN	ACN-158	ACN-158	Magic Stone							S	[Rest] Produce {w}.	
+Water Magic Stone (ACN)	ACN	ACN-159	ACN-159	Magic Stone							S	[Rest] Produce {u}.	
+Wind Magic Stone (ACN)	ACN	ACN-160	ACN-160	Magic Stone							S	[Rest] Produce {g}.	

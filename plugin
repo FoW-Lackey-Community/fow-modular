@@ -1,16 +1,20 @@
-fow-modular	08-08-17
+fow-modular	11-03-17
 
-images/backgrounds/modular_default.png	https://downloads.heihachi.pw/lackey_files/MiscImages/modular_default.png	-4230670
-images/backgrounds/TBH-alice.png	https://downloads.heihachi.pw/lackey_files/MiscImages/TBH-alice.png	-4230670
+images/backgrounds/modular_default.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/modular_default.jpg	-426148
+images/backgrounds/acn_background.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/acn_background.jpg	-60425
+images/backgrounds/ashynyuu_enveloping_light_mat.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/ashynyuu_enveloping_light_mat.jpg	-426148
+images/backgrounds/ashynyuu_flute_mat.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/ashynyuu_flute_mat.jpg	-410183
+images/backgrounds/ashynyuu_phoenix_pricia_mat.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/ashynyuu_phoenix_pricia_mat.jpg	-377411
+images/backgrounds/ashynyuu_pokemon_mat.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/ashynyuu_pokemon_mat.jpg	-476460
 
-plugins/fow-modular/plugininfo.txt	https://downloads.heihachi.pw/lackey_files/plugininfo.txt	540242
+plugins/fow-modular/plugininfo.txt	https://downloads.heihachi.pw/lackey_files/plugininfo.txt	637628
 plugins/fow-modular/uninstall.txt	https://downloads.heihachi.pw/lackey_files/uninstall.txt	13724
-plugins/fow-modular/formats.txt	https://downloads.heihachi.pw/lackey_files/formats.txt	224904
-plugins/fow-modular/version.txt	https://downloads.heihachi.pw/lackey_files/version.txt	25189
+plugins/fow-modular/formats.txt	https://downloads.heihachi.pw/lackey_files/formats.txt	223072
+plugins/fow-modular/version.txt	https://downloads.heihachi.pw/lackey_files/version.txt	25373
 plugins/fow-modular/sets/setimages/general/cardback.jpg	https://downloads.heihachi.pw/lackey_files/general/cardback.jpg	-34432
 plugins/fow-modular/bot.jpg	https://downloads.heihachi.pw/lackey_files/MiscImages/FOW-EmperorValentina.jpg	6064
-plugins/fow-modular/pluginpreferences.txt	https://downloads.heihachi.pw/lackey_files/pluginpreferences.txt	267157
-plugins/fow-modular/updatelist.txt	https://downloads.heihachi.pw/lackey_files/updatelist.txt	17997
+plugins/fow-modular/pluginpreferences.txt	https://downloads.heihachi.pw/lackey_files/pluginpreferences.txt	286393
+plugins/fow-modular/updatelist.txt	https://downloads.heihachi.pw/lackey_files/updatelist.txt	17993
 
 images/backgrounds/fow_mat_double.png	https://downloads.heihachi.pw/lackey_files/MiscImages/fow_mat_double.png	-229439
 images/backgrounds/fow_mat_double2.png	https://downloads.heihachi.pw/lackey_files/MiscImages/fow_mat_double2.png	-169753
@@ -66,33 +70,33 @@ plugins/fow-modular/decks/SDR1.dek	https://downloads.heihachi.pw/lackey_files/de
 plugins/fow-modular/decks/SDR2.dek	https://downloads.heihachi.pw/lackey_files/decks/SDR2.dek	315248
 plugins/fow-modular/decks/SDR3.dek	https://downloads.heihachi.pw/lackey_files/decks/SDR3.dek	326076
 
-plugins/fow-modular/packs/packdefinitions1.xml	https://downloads.heihachi.pw/lackey_files/packs/packdefinitions1.xml	942566
-plugins/fow-modular/packs/packdefinitions2.xml	https://downloads.heihachi.pw/lackey_files/packs/packdefinitions2.xml	450813
-plugins/fow-modular/packs/CFC_pack.png	https://downloads.heihachi.pw/lackey_files/packs/CFC_pack.png	-76221
-plugins/fow-modular/packs/LEL_pack.jpg	https://downloads.heihachi.pw/lackey_files/packs/LEL_pack.jpg	25918
-plugins/fow-modular/packs/RDE_pack.png	https://downloads.heihachi.pw/lackey_files/packs/RDE_pack.png	-59459
+plugins/fow-modular/packs/packdefinitions1.xml	https://downloads.heihachi.pw/lackey_files/packs/packdefinitions1.xml	1789954
+plugins/fow-modular/packs/packdefinitions2.xml	https://downloads.heihachi.pw/lackey_files/packs/packdefinitions2.xml	396333
+plugins/fow-modular/packs/pack_lapis_CFC.jpg	https://downloads.heihachi.pw/lackey_files/packs/pack_lapis_CFC.jpg	-76221
+plugins/fow-modular/packs/pack_lapis_LEL.jpg	https://downloads.heihachi.pw/lackey_files/packs/pack_lapis_LEL.jpg	25918
+plugins/fow-modular/packs/pack_lapis_RDE.jpg	https://downloads.heihachi.pw/lackey_files/packs/pack_lapis_RDE.jpg	-63078
+plugins/fow-modular/packs/pack_lapis_ENW.jpg	https://downloads.heihachi.pw/lackey_files/packs/pack_lapis_ENW.jpg	-408481
 
-plugins/fow-modular/sets/Alice.txt	https://downloads.heihachi.pw/lackey_files/sets/Alice.txt	11514434
-plugins/fow-modular/sets/Extras.txt	https://downloads.heihachi.pw/lackey_files/sets/Extras.txt	158127
-plugins/fow-modular/sets/Grimm.txt	https://downloads.heihachi.pw/lackey_files/sets/Grimm.txt	8582630
-plugins/fow-modular/sets/Lapis.txt	https://downloads.heihachi.pw/lackey_files/sets/Lapis.txt	11432823
-plugins/fow-modular/sets/Promo.txt	https://downloads.heihachi.pw/lackey_files/sets/Promo.txt	1874344
-plugins/fow-modular/sets/Reiya.txt	https://downloads.heihachi.pw/lackey_files/sets/Reiya.txt	1218961
-plugins/fow-modular/sets/Stones.txt	https://downloads.heihachi.pw/lackey_files/sets/Stones.txt	2217507
-plugins/fow-modular/sets/Vahalla.txt	https://downloads.heihachi.pw/lackey_files/sets/Vahalla.txt	10635658
+plugins/fow-modular/sets/Alice.txt	https://downloads.heihachi.pw/lackey_files/sets/Alice.txt	11534901
+plugins/fow-modular/sets/Extras.txt	https://downloads.heihachi.pw/lackey_files/sets/Extras.txt	160379
+plugins/fow-modular/sets/Grimm.txt	https://downloads.heihachi.pw/lackey_files/sets/Grimm.txt	8587284
+plugins/fow-modular/sets/Lapis.txt	https://downloads.heihachi.pw/lackey_files/sets/Lapis.txt	11500639
+plugins/fow-modular/sets/Promo.txt	https://downloads.heihachi.pw/lackey_files/sets/Promo.txt	1874989
+plugins/fow-modular/sets/Reiya.txt	https://downloads.heihachi.pw/lackey_files/sets/Reiya.txt	4852471
+plugins/fow-modular/sets/Stones.txt	https://downloads.heihachi.pw/lackey_files/sets/Stones.txt	2368480
+plugins/fow-modular/sets/Vahalla.txt	https://downloads.heihachi.pw/lackey_files/sets/Vahalla.txt	10637164
 
 plugins/fow-modular/CardImageURLsAlice.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsAlice.txt	4500114
 plugins/fow-modular/CardImageURLsExtras.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsExtras.txt	127128
 plugins/fow-modular/CardImageURLsGrimm.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsGrimm.txt	3675564
 plugins/fow-modular/CardImageURLsLapis.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsLapis.txt	4584682
 plugins/fow-modular/CardImageURLsPromo.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsPromo.txt	635909
-plugins/fow-modular/CardImageURLsReiya.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsReiya.txt	449130
+plugins/fow-modular/CardImageURLsReiya.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsReiya.txt	3062223
 plugins/fow-modular/CardImageURLsValhalla.txt	https://downloads.heihachi.pw/lackey_files/CardImageURLsValhalla.txt	3678654
 
-plugins/fow-modular/sounds/welcome.wav	https://downloads.heihachi.pw/lackey_files/sounds/welcome.wav	-1
-
-plugins/fow-modular/README.txt	https://downloads.heihachi.pw/lackey_files/README.txt	275019
-plugins/fow-modular/public-sync.bat https://downloads.heihachi.pw/lackey_files/public-sync.txt  123412
+plugins/fow-modular/sounds/welcome.wav	https://downloads.heihachi.pw/lackey_files/sounds/welcome.wav	314
+plugins/fow-modular/README.txt	https://downloads.heihachi.pw/lackey_files/README.txt	318440
+plugins/fow-modular/public-sync.bat	https://downloads.heihachi.pw/lackey_files/public-sync.txt	16496
 
 
 CardURLFiles:

@@ -24,46 +24,15 @@
 		<set>RDE</set>
 		<set>ENW</set>
 		<set>SDR1</set>
-    <set>SDR2</set>
+		<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>
 		<set>ACN</set>
+		<set>ADK</set>
 	</format>
 	<format>
-    	<label>Genesis</label>
-		<set>T</set>
-		<set>VAH</set>
-		<set>CMF</set>
-		<set>TAT</set>
-		<set>MPR</set>
-		<set>MOA</set>
-		<set>VIN001</set>
-		<set>VS01</set>
-		<set>SKL</set>
-		<set>TTW</set>
-		<set>TMS</set>
-		<set>BFA</set>
-		<set>VIN002</set>
-		<set>CFC</set>
-		<set>SDL1</set>
-		<set>SDL2</set>
-		<set>SDL3</set>
-		<set>SDL4</set>
-		<set>SDL5</set>
-		<set>LEL</set>
-		<set>VIN003</set>
-		<set>RDE</set>
-		<set>ENW</set>
-    <set>SDR1</set>
-    <set>SDR2</set>
-		<set>SDR3</set>
-		<set>SDR4</set>
-		<set>SDR5</set>
-		<set>ACN</set>
-	</format>
-	<format>
-    	<label>Origin</label>
+		<label>Genesis</label>
 		<set>T</set>
 		<set>VAH</set>
 		<set>CMF</set>
@@ -88,11 +57,45 @@
 		<set>RDE</set>
 		<set>ENW</set>
 		<set>SDR1</set>
-   		<set>SDR2</set>
+		<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>
 		<set>ACN</set>
+		<set>ADK</set>
+	</format>
+	<format>
+		<label>Origin</label>
+		<set>T</set>
+		<set>VAH</set>
+		<set>CMF</set>
+		<set>TAT</set>
+		<set>MPR</set>
+		<set>MOA</set>
+		<set>VIN001</set>
+		<set>VS01</set>
+		<set>SKL</set>
+		<set>TTW</set>
+		<set>TMS</set>
+		<set>BFA</set>
+		<set>VIN002</set>
+		<set>CFC</set>
+		<set>SDL1</set>
+		<set>SDL2</set>
+		<set>SDL3</set>
+		<set>SDL4</set>
+		<set>SDL5</set>
+		<set>LEL</set>
+		<set>VIN003</set>
+		<set>RDE</set>
+		<set>ENW</set>
+		<set>SDR1</set>
+		<set>SDR2</set>
+		<set>SDR3</set>
+		<set>SDR4</set>
+		<set>SDR5</set>
+		<set>ACN</set>
+		<set>ADK</set>
 	</format>
 	<format>
 		<label>Vahalla cluster</label>
@@ -139,6 +142,7 @@
 		<set>SDR4</set>
 		<set>SDR5</set>
 		<set>ACN</set>
+		<set>ADK</set>
 	</format>
 	<format>
 		<label>New Frontiers</label>
@@ -154,11 +158,12 @@
 		<set>RDE</set>
 		<set>ENW</set>
 		<set>SDR1</set>
-    	<set>SDR2</set>
+		<set>SDR2</set>
 		<set>SDR3</set>
 		<set>SDR4</set>
 		<set>SDR5</set>
 		<set>ACN</set>
+		<set>ADK</set>
 	</format>
 	<format>
 		<label>Promo Cards</label>

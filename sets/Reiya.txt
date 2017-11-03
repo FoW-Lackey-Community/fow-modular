@@ -1,213 +1,378 @@
-Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext
-Diamond, the One-Eyed Treasury Magician	SDR1	SDR1-001	SDR1-001	Resonator	Panda	{w}{w}{w}{1}	4	1000	1000	Light	SR	Whenever you gain a gem => Resonators you control gain [+200/+200] until end of turn. {w}{w}: Target J/resonator you control gains [Barrier] until end of turn. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)
-Gem Blade Onyx	SDR1	SDR1-002	SDR1-002	Resonator	Panda	{w}{1}	2	600	600	Light	SR	This card gains [Precision] as long as you control a darkness gem. (This card can attack recovered J/resonators.)
-Gem Blade Ruby	SDR1	SDR1-003	SDR1-003	Resonator	Panda	{w}{2}	3	800	800	Light	U	This card gains [Swiftness] as long as you control a fire gem. (This card can attack and you can play its [Rest] abilities the same turn it enters the field.)
-Gem Blade Sapphire	SDR1	SDR1-004	SDR1-004	Resonator	Panda	{w}{1}	2	600	600	Light	U	This card gains [Flying] as long as you control a water gem. (This card cannot be blocked by J/resonators without [Flying].)
-Gem Craftsman	SDR1	SDR1-005	SDR1-005	Resonator	Human	{w}{w}{1}	3	800	800	Light	R	When this card enters the field => Gain a gem of any attribute. This card gains [+200/+200] as long as there are three or more different attributes among all gems you control.
-Gem Trader	SDR1	SDR1-006	SDR1-006	Resonator	Human	{w}	1	300	300	Light	C	When this card enters the field => Gain a light gem.
-Jewel Burst	SDR1	SDR1-007	SDR1-007	Chant		{w}{w}	2			Light	R	As an additional cost to play this card, banish two gems. Remove target resonator from the game.
-Jewel Shield	SDR1	SDR1-008	SDR1-008	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [0/+200] until end of turn. Gain a gem of any attribute. Then that resonator gains [0/+100] for each different attribute among all gems you control until end of turn.
-Jewel Sword	SDR1	SDR1-009	SDR1-009	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [+200/0] until end of turn. Gain a gem of any attribute. Then that resonator gains [+100/0] for each different attribute among all gems you control until end of turn.
-Taegrus Pearlshine | Taegrus Pearlshine, Lord of the Mountain	SDR1	SDR1-010-r,SDR1-010-j	SDR1-010	Ruler | J-Ruler	Panda	{w}{w}{1}	3	800	800	Light	JR	{w}{w}{1} (Pay {w}{w}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{w} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {w}.") At the beginning of the game => Gain a gem of any attribute. Sealed Item: <<???>> | When this card enters the field => Gain two gems of any one attribute. Banish a light gem: This card gains [+500/+500] until end of turn. Play this ability only once per turn. Banish a water gem: This card gains [Flying] until end of turn. (This card cannot be blocked by J/resonators without [Flying].) Sealed Item: <<???>>
-White Raven	SDR1	SDR1-011	SDR1-011	Resonator	Bird	{w}	1	300	300	Light	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => You may banish a gem. If you do, draw a card.
-Apprentice Cook	SDR2	SDR2-001	SDR2-001	Resonator	Dragonoid	{r}	1	300	400	Fire	C	When this card enters the field => Put two strength counters on your J/ruler.
-Burning Awakening	SDR2	SDR2-002	SDR2-002	Chant	Battle Arts	{r}{r}	2			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove five strength counters from your J/ruler. Target J/resonator gains [+1000/+1000] until end of turn.
-Dragon Breath	SDR2	SDR2-003	SDR2-003	Chant	Battle Arts	{r}{2}	3			Fire	C	As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to each J/resonator without [Flying].
-Dragon of Mt. Hoelle	SDR2	SDR2-004	SDR2-004	Resonator	Dragonoid	{r}{r}{r}{1}	4	1500	1500	Fire	SR	[Flying] (This card cannot be blocked by J/resonators without [Flying].) This card cannot attack unless you remove two strength counters from your J/ruler. This card cannot block unless you remove two strength counters from your J/ruler. {r}{r}: This card deals 300 damage to target J/resonator.
-Elia Rua, the Combat Chef	SDR2	SDR2-005	SDR2-005	Resonator	Dragonoid	{r}{r}{1}	3	800	800	Fire	SR	[Rest]: Recover your ruler.
-Hell Flame	SDR2	SDR2-006	SDR2-006	Chant	Battle Arts	{r}	1			Fire	R	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to target J/resonator.
-Hoelle Pig	SDR2	SDR2-007	SDR2-007	Resonator	Beast	{r}	1	400	300	Fire	C	Banish this card: Recover your ruler.
-Hoellesaurus	SDR2	SDR2-008	SDR2-008	Resonator	Dinosaur	{r}{r}	2	600	600	Fire	U	When this card enters the field => It deals 300 damage to target J/resonator.
-Kirik Rerik | Kirik Rerik, the Draconic Warrior	SDR2	SDR2-009-r,SDR2-009-j	SDR2-009	Ruler | J-Ruler	Dragonoid	{r}{r}{1}	3	1200	1000	Fire	JR	{r}{r}{1} (Pay {r}{r}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{r} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {r}.") At the beginning of the game => Put ten strength counters on this card. [Rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card. Sealed Item: <<???>>
-Kirik's Partner	SDR2	SDR2-010	SDR2-010	Resonator	Dragon	{r}{2}	3	600	600	Fire	R	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => Put target Battle Arts chant from your graveyard into your hand. Your J-ruler gains [Flying].
-Mad Boar of Mt. Hoelle	SDR2	SDR2-011	SDR2-011	Resonator	Beast	{r}{r}	2	700	300	Fire	U	[Swiftness] (This card can attack and you can play its [Rest] abilities the same turn it enters the field.) [Bloodlust] （This card must attack if able.）[First Strike] (While attacking, this card deals battle damage first to the blocker or attacked object.)
-Angelic Voice Mermaid	SDR3	SDR3-001	SDR3-001	Resonator	Mermaid	{u}	1	300	300	Water	C	When this card enters the field => Draw a card if the weather is rain.
-Aqua Rifle Mermaid	SDR3	SDR3-002	SDR3-002	Resonator	Mermaid	{u}{u}{1}	3	700	700	Water	R	When this card enters the field => Rest target resonator. If the weather is rain, return it to its owner's hand instead.
-Cleansing Rain	SDR3	SDR3-003	SDR3-003	Chant		{u}{1}	2			Water	R	[Quickcast] (You may play this card anytime you have priority.) Return target resonator to its owner's hand. If the weather is rain, put it on top of its owner's deck instead.
-Giant Sea Jelly	SDR3	SDR3-004	SDR3-004	Resonator	Jellyfish	{u}{1}	2	500	500	Water	U	This card gains [+200/+200] as long as the weather is rain.
-Peko, the Wise Dolphin	SDR3	SDR3-005	SDR3-005	Resonator	Dolphin	{u}{u}	2	600	600	Water	SR	This card gains [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].)
-Princess Shaela's Attendant	SDR3	SDR3-006	SDR3-006	Resonator	Mermaid	{u}	1	300	300	Water	C	This card gains [+200/+200] as long as the weather is rain.
-Shaela | Shaela, the Mermaid Princess	SDR3	SDR3-007-r,SDR3-007-j	SDR3-007	Ruler | J-Ruler	Mermaid	{u}{u}{1}	3	1000	1200	Water	JR	{u}{u}{1} (Pay {u}{u}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{u} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {u}.") The weather is rain during your turn. [Rest]: Search your deck for a card named "Weather Change: Rain", reveal it and put it into your hand. Then shuffle your deck. Sealed Item: <<???>> | The weather is rain. When this card enters the field => Draw a card. Sealed Item: <<???>>
-Stormbolt	SDR3	SDR3-008	SDR3-008	Chant		{u}{1}	2			Water	C	Choose one, if the weather is rain, you may choose up to three - Draw a card; or prevent all damage that would be dealt by target J/resonator until end of turn; or rest target J/resonator.
-The White Whale	SDR3	SDR3-009	SDR3-009	Resonator	Whale	{u}{2}	3	1000	1000	Water	U	This card cannot attack or block unless the weather is rain.
-Wave Rider Mermaid	SDR3	SDR3-010	SDR3-010	Resonator	Mermaid	{u}{u}{u}{1}	4	1000	1000	Water	SR	This card gains [+200/+200] and [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].) {u}{u}: Rest target resonator. Play this ability only if the weather is rain.
-Weather Change: Rain	SDR3	SDR3-011	SDR3-011	Chant		{u}	1			Water	C	[Quickcast] (You may play this card anytime you have priority.) The weather is rain until end of turn. Draw a card.
-Cecil Letoliel, Elven Prince	SDR4	SDR4-001	SDR4-001	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	SR	You may pay {1} less to play this card for each Elemental in your graveyard. Elemental resonators you control gain [+200/+200].
-Elven Guide	SDR4	SDR4-002	SDR4-002	Resonator	Elf	{g}{1}	2	600	600	Wind	R	When this card enters the field => Look at the top three cards of your deck. Put one from among them in your graveyard and the rest on the bottom of your deck in any order.
-Gentle Breeze Elemental	SDR4	SDR4-003	SDR4-003	Chant	Spirit Magic/Elemental	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Draw a card.
-Gill | Gill, the Gifted Conjurer	SDR4	SDR4-004-r,SDR4-004-j	SDR4-004	Ruler | J-Ruler	Human	{g}{g}{1}	3	1100	1100	Wind	JR	[Judgment] {g}{g}{1} (Pay {g}{g}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{g} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {g}") Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. [Rest]: Search your deck for a card named "Gentle Breeze Elemental", reveal it and put it into your hand. Then shuffle your deck. Sealed Item: <<???>> | [Barrier] (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.) Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. Sealed Item: <<???>>
-Guardian of the Portal	SDR4	SDR4-005	SDR4-005	Resonator	Elf	{g}{g}	2	600	600	Wind	U	Rest another recovered resonator you control: This card gains [+100/+100] until end of turn.
-Leaf Fighter	SDR4	SDR4-006	SDR4-006	Resonator	Elemental	{g}	1	400	400	Wind	C	
-Leaf Magician	SDR4	SDR4-007	SDR4-007	Resonator	Elemental	{g}{g}{1}	3	700	700	Wind	U	When this card is put into a graveyard from the field => Draw a card.
-Travelling Trader	SDR4	SDR4-008	SDR4-008	Resonator	Human	{g}	1	300	400	Wind	C	When this card enters the field => Draw a card, then discard a card.
-Tree Root Sprite	SDR4	SDR4-009	SDR4-009	Resonator	Fairy	{g}{2}	3	800	800	Wind	SR	When this card enters the field => Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.
-Vanish	SDR4	SDR4-010	SDR4-010	Chant	Spirit Magic	{g}{g}{g}	3			Wind	R	[Quickcast] (You may play this card anytime you have priority.) Cancel target spell.
-Winds of Vitality	SDR4	SDR4-011	SDR4-011	Chant	Spirit Magic	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [+600/+600] until end of turn.
-Ahriman, Malicious Eye in the Dark	SDR5	SDR5-001	SDR5-001	Resonator	Familiar	{d}{1}	2	600	600	Darkness	SR	When this card is put into a graveyard from the field => Put a mystery counter on your J/ruler.
-Alucard, the Vampiric Noble	SDR5	SDR5-002	SDR5-002	Resonator	Vampire	{d}{d}{1}	3	600	600	Darkness	U	Other Vampires you control gain [+200/+200].
-Ashen Snow White	SDR5	SDR5-003	SDR5-003	Resonator	Fairy Tale	{d}{d}	2	500	700	Darkness	R	Remove a mystery counter from your J/ruler: This card gains [+200/+200] and [Precision] until end of turn. Play this ability only once per turn.
-Bats from the Dark Castle	SDR5	SDR5-004	SDR5-004	Resonator	Bat	{d}	1	0	400	Darkness	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) This card gains [+200/0] for each mystery counter on your J/ruler.
-Dark Night Butterfly	SDR5	SDR5-005	SDR5-005	Chant	Mystery	{d}	1			Darkness	C	Your opponent discards a card. If this card was awakened, your opponent discards two cards instead. [Awakening] Remove two mystery counters from your J/ruler.
-Empress Carmilla	SDR5	SDR5-006	SDR5-006	Resonator	Vampire	{d}{2}	3	600	600	Darkness	U	When this card enters the field => Destroy target resonator with total cost 1.
-Grimm, the Pitch Black Vampire	SDR5	SDR5-007	SDR5-007	Resonator	Vampire/Fairy Tale	{d}{d}{2}	4	900	900	Darkness	SR	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => Put target resonator from your graveyard into your hand. {d}{d}: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.
-Moonlight Shadow	SDR5	SDR5-008	SDR5-008	Resonator	Vampire	{d}	1	400	400	Darkness	C	
-Reiya, Fourth Daughter of the Mikage | Reiya, Fourth Daughter of the Mikage	SDR5	SDR5-009-r,SDR5-009-j	SDR5-009	Ruler | J-Ruler	Vampire	{d}{d}{1}	3	1200	1200	Darkness	JR	[Judgment] {d}{d}{1} (Pay {d}{d}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{d} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {d}.") At the beginning of the game => Put a mystery counter on this card. [Rest]: Put a mystery counter on this card. Sealed Item: <<???>> | [Flying] When this card enters the field => Put three mystery counters on it. [Rest], remove a mystery counter from this card: Destroy target resonator. Sealed Item: <<???>>
-Sword of the Half Moon	SDR5	SDR5-010	SDR5-010	Chant	Mystery	{d}{d}	2			Darkness	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [-600/-600] until end of turn. If this card was awakened, put it into its owner's hand as it resolves. [Awakening] Remove two mystery counters from your J/ruler.
-Sword of the New Moon	SDR5	SDR5-011	SDR5-011	Chant	Mystery	{d}	1			Darkness	R	[Quickcast] (You may play this card anytime you have priority.) Choose one - Destroy target resonator with total cost 1 or less; or destroy target resonator with total cost 4 or less if this card was awakened. [Awakening] Remove a mystery counter from your J/ruler.
-Conjure Constructs	ACN	ACN-001	ACN-001	Chant		{w}{w}{1}	3			Light	R	Put three [500/500] light Golem resonator tokens with [Mobilize]{2} into the field.
-Crippling Light	ACN	ACN-002	ACN-002	Chant		{w}{w}{3}	5			Light	SR	Destroy all non-Golem resonators.
-Discovery	ACN	ACN-003	ACN-003	Chant		{w}	1			Light	C	[Quickcast] Gain a gem of any attribute. Draw a card.
-Gem Beast	ACN	ACN-004	ACN-004	Resonator	Beast	{w}{1}	2	600	600	Light	U	When this card leaves the field => Gain a gem of any attribute.
-Gem Blade Emerald	ACN	ACN-005	ACN-005	Resonator	Panda	{w}{w}{2}	4	800	800	Light	U	When this card enters the field => Recover up to four target magic stones if you control a wind gem.
-Gem Minister Garnet	ACN	ACN-006	ACN-006	Resonator	Panda	{w}{w}{w}	3	500	900	Light	R	When this card enters the field => Gain a gem of any attribute. Draw a card.
-Gem Trader	ACN	ACN-007	ACN-007	Resonator	Human	{w}	1	300	300	Light	C	When this card enters the field => Gain a light gem.
-Heavy Arms Panda	ACN	ACN-008	ACN-008	Resonator	Panda	{w}{w}{2}	4	800	800	Light	C	This card gains [+400/+400] as long as there are three or more different attributes among all gems you control.
-Jewel Bullet	ACN	ACN-009	ACN-009	Chant		{w}	1			Light	R	This card deals 400 damage to target non-Panda resonator. If this card was awakened, it deals 800 damage instead. [Awakening] Banish a gem.
-Jewel Protection	ACN	ACN-010	ACN-010	Chant		{w}	1			Light	C	Gain a gem of any attribute. Then you may banish a gem. If you do, prevent all damage that would be dealt to target resonator by sources that share an attribute with the gem banished this way until end of turn. That resonator gains [Barrier](Banished gem's attributes) until end of turn.
-Jewel Shield	ACN	ACN-011	ACN-011	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [0/+200] until end of turn. Gain a gem of any attribute. Then that resonator gains [0/+100] for each different attribute among all gems you control until end of turn.
-Jewel Sword	ACN	ACN-012	ACN-012	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [+200/0] until end of turn. Gain a gem of any attribute. Then that resonator gains [+100/0] for each different attribute among all gems you control until end of turn.
-Jeweler of Sasaru Palace	ACN	ACN-013	ACN-013	Resonator	Panda	{w}{2}	3	300	800	Light	U	[Rest], banish a light gem: Gain a gem of any attribute.
-Light of Transmigration	ACN	ACN-014	ACN-014	Chant		{w}{1}	2			Light	U	[Remnant] Remove target resonator you control from the game. At the next end of turn => Put it into the field under its owner's control.
-Magic Light Warrior	ACN	ACN-015	ACN-015	Resonator	Golem	{w}	1	600	600	Light	C	[Mobilize]{w} (This card cannot attack or block unless its controller pays {w}.)
-Magic Shield Warrior	ACN	ACN-016	ACN-016	Resonator	Golem	{w}{1}	2	0	1500	Light	C	[Mobilize]{1} (This card cannot attack or block unless its controller pays {1}.)
-Magic Sword Warrior	ACN	ACN-017	ACN-017	Resonator	Golem	{w}{w}	2	800	600	Light	U	[First Strike] [Mobilize]{w}
-Orphica, Dancer in the White Mist	ACN	ACN-018	ACN-018	Resonator	Dragonoid	{w}{w}	2	400	400	Light	SR	Pandas you control gain [+200/+200]. When this card enters the field => Remove another target resonator from the game. At the next end of turn => Put it into the field under its owner's control. When this card is put into a graveyard from the field => Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.
-Panda Acrobat	ACN	ACN-019	ACN-019	Resonator	Panda	{w}{w}{3}	5	1200	1200	Light	C	When this card enters the field => You may banish a gem. If you do, rest target resonator.
-Pandora | Pandora, Guardian of the Sacred Temple	ACN	ACN-020-r,ACN-020-j	ACN-020	Ruler | J-Ruler	Guardian	{w}	1	1000	2000	Light	JR	[Judgement] {w}. Play this ability only if you control three or more Golems. [Energize]{w} [Hair Ornament of Light]{0}: Target Golem you control is mobilized until end of turn. Play this ability only once per turn. | Golems you control are mobilized. If damage would be dealt to a Golem you control, it's dealt to this card instead. [Hair Ornament of Light]{w}{w}{2}: Golems you control gain [+400/+400] until end of turn.
-Profitable Transactions	ACN	ACN-021	ACN-021	Chant		{w}	1			Light	U	[Quickcast] Choose up to five - Banish a light gem. If you do, rest target resonator; or banish a fire gem. If you do, this card deals 600 damage to target resonator; or banish a water gem. If you do, return target resonator to its owner's hand; or banish a wind gem. If you do, draw a card; or banish a darkness gem. If you do, your opponent discards a card.
-Reduction	ACN	ACN-022	ACN-022	Chant		{w}{1}	2			Light	C	[Quickcast] Target resonator becomes a [0/100] until end of turn.
-Sacred Temple of Light	ACN	ACN-023	ACN-023	Addition		{w}{2}	3			Light	U	At end of turn => If you don't control a resonator, you may banish this card. If you do, search your deck for a Golem and put it into the field. Then shuffle your deck.
-Shin-Shin&Rei-Rei, Acrobatic Twins	ACN	ACN-024	ACN-024	Resonator	Panda	{w}{w}{3}	5	1000	1000	Light	R	When this card enters the field => You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.
-Summon Magic Warriors	ACN	ACN-025	ACN-025	Chant		{w}{w}{1}	3			Light	U	Look at the top seven cards of your deck. Put up to two Golems with a combined total cost of 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.
-Ultimate Magic Warrior, Gear Atmos	ACN	ACN-026	ACN-026	Resonator	Golem	{w}{w}{5}	7	2000	2000	Light	R	[Mobilize]{3} You may banish three Golems rather than pay this card's cost. When this card enters the field => Destroy target resonator your opponent controls.
-White Cat of Sasaru Palace	ACN	ACN-027	ACN-027	Resonator	Cat	{w}	1	200	200	Light	C	When this card is put into a graveyard from the field => Gain a gem of any attribute.
-White Raven	ACN	ACN-028	ACN-028	Resonator	Bird	{w}	1	300	300	Light	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => You may banish a gem. If you do, draw a card.
-Wing Rider Panda	ACN	ACN-029	ACN-029	Resonator	Panda	{w}{3}	4	600	1200	Light	C	This card gains [Flying] as long as you control a water gem.
-Apprentice Beast Tamer	ACN	ACN-030	ACN-030	Resonator	Dragonoid	{r}{2}	3	700	700	Fire	C	When this card enters the field => Target Beast gains [+400/+400] and [Swiftness] until end of turn.
-Archaeopteryx	ACN	ACN-031	ACN-031	Resonator	Dinosaur	{r}{r}{2}	4	800	800	Fire	U	[Flying] [First Strike]
-Beast Den on Mt. Hoelle	ACN	ACN-032	ACN-032	Addition		{r}{1}	2			Fire	U	Dragonoids you control gain [+200/+200]. {r}{r}, banish this card: Search your deck for a Dragonoid, reveal it and put it into your hand. Then shuffle your deck.
-Burning Awakening	ACN	ACN-033	ACN-033	Chant	Battle Arts	{r}{r}	2			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove five strength counters from your J/ruler. Target J/resonator gains [+1000/+1000] until end of turn.
-Demon Watcher	ACN	ACN-034	ACN-034	Resonator	Demon	{r}{r}{3}	5	800	600	Fire	U	[Flying] When this card is put into a graveyard from the field => It deals 600 damage to target resonator.
-Devil's Advocate	ACN	ACN-035	ACN-035	Chant		{r}{r}{3}	5			Fire	U	Recover target resonator. Gain control of it until end of turn. It gains [Swiftness] until end of turn.
-Dino-Rush	ACN	ACN-036	ACN-036	Chant		{r}{1}	2			Fire	C	Target J/resonator you control deals damage equal to its ATK to another target J/resonator.
-Dragon Call	ACN	ACN-037	ACN-037	Chant		{r}	1			Fire	R	Search your deck for a Dragon, Dragonoid, or Dinosaur, reveal it and put it into your hand. Then shuffle your deck.
-Dragonoid Martial Artist	ACN	ACN-038	ACN-038	Resonator	Dragonoid	{r}{r}{3}	5	1400	800	Fire	C	
-Environmental Researcher, Fabre	ACN	ACN-039	ACN-039	Resonator	Dragonoid	{r}{r}{3}	5	400	400	Fire	R	[Flying] When this card enters the field => Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.
-Eruptiphant	ACN	ACN-040	ACN-040	Resonator	Beast	{r}{r}{r}	3	700	700	Fire	R	Beasts you control gain [Swiftness]. Whenever another resonator you control attacks => This card gains [+100/+100] until end of turn.
-Explorer on Mt. Hoelle	ACN	ACN-041	ACN-041	Resonator	Human	{r}{1}	2	700	500	Fire	C	When this card enters the field => Reveal the top card of your deck. If it's a chant, put it into your hand.
-Fiend Fire	ACN	ACN-042	ACN-042	Chant		{r}{x}	1			Fire	SR	This card deals 200 damage multiplied by X to target player or resonator. If you spent {d} to play this card, you gain that much life.
-Fire Dragon's Egg	ACN	ACN-043	ACN-043	Resonator	Dragon	{r}{r}{2}	4	0	100	Fire	C	This card cannot attack or block. When this card is put into a graveyard from the field => Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.
-Flame Style	ACN	ACN-044	ACN-044	Chant		{r}{r}{2}	4			Fire	U	This card deals 700 damage to each resonator.
-Flying Drill	ACN	ACN-045	ACN-045	Chant	Battle Arts	{r}	1			Fire	C	[Quickcast] This card deals 1000 damage to target resonator with [Flying]. This card deals 1000 damage to up to one second target resonator with [Flying] if this card was awakened. [Awakening] Remove three strength counters from your J/ruler.
-Food Supply	ACN	ACN-046	ACN-046	Chant		{r}	1			Fire	C	[Quickcast] Put five strength counters on your J/ruler. Draw a card.
-Gourmet Chef, Sherry Shera	ACN	ACN-047	ACN-047	Resonator	Dragonoid	{r}{r}{2}	4	1000	1000	Fire	R	When this card enters the field => Put ten strength counters on your J/ruler.
-Hell Flame	ACN	ACN-048	ACN-048	Chant	Battle Arts	{r}	1			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to target J/resonator.
-High Speed	ACN	ACN-049	ACN-049	Chant	Battle Arts	{r}	1			Fire	U	[Remnant] Target resonator gains [+200/+200] and [Swiftness] until end of turn. [Awakening] Remove four strength counters from your J/ruler: This card deals 400 damage to your opponent.
-Hoelle Pig	ACN	ACN-050	ACN-050	Resonator	Beast	{r}	1	400	300	Fire	C	Banish this card: Recover your ruler.
-Hoellesaurus	ACN	ACN-051	ACN-051	Resonator	Dinosaur	{r}{r}	2	600	600	Fire	C	When this card enters the field => It deals 300 damage to target J/resonator.
-Kaim, Demon of Vice	ACN	ACN-052	ACN-052	Resonator	Demon	{r}{r}{2}	4	1000	1000	Fire	SR	When this card enters the field => Recover target resonator with total cost 2 or less your opponent controls. Gain control of it until end of turn. It gains [Swiftness] until end of turn. Whenever a resonator you control attacks => This card deals 200 damage to your opponent. {r}, banish a resonator: This card gains [Swiftness] until end of turn.
-Master of Faithful Beasts	ACN	ACN-053	ACN-053	Resonator	Dragonoid	{r}{r}{1}	3	700	700	Fire	U	When this card enters the field => Search your deck for a Beast, reveal it and put it into your hand. Then shuffle your deck.
-Red Cap	ACN	ACN-054	ACN-054	Resonator	Evil Spirit	{r}	1	200	200	Fire	C	[Swiftness] When this card is put into a graveyard from the field => Search your deck for a card named "Red Cap", reveal it and put it into your hand. Then shuffle your deck.
-Stone Tongued Basilisk	ACN	ACN-055	ACN-055	Resonator	Beast	{r}{r}	2	600	500	Fire	C	Whenever this card attacks => It gains [+200/0] until end of turn.
-Two-Horned Almiraj	ACN	ACN-056	ACN-056	Resonator	Beast	{r}	1	500	500	Fire	U	When this card enters the field => It deals 500 damage to you.
-Vanish in Fire	ACN	ACN-057	ACN-057	Chant	Battle Arts	{r}{r}{r}{r}{r}	5			Fire	R	As an additional cost to play this card, you may remove any number of strength counters from your J/ruler. This card deals X00 damage to each resonator your opponent controls, where X is the number of counters removed. If a resonator dealt damage by this card this turn would be put into a graveyard, remove it from the game instead.
-Alternating Current Crystal	ACN	ACN-058	ACN-058	Resonator	Magic Lifeform	{u}{u}{2}	4	0	1000	Water	R	Golems you control are mobilized. {u}{1}, [Rest]: You may put a Golem from your hand into the field.
-Aqua Rifle Mermaid	ACN	ACN-059	ACN-059	Resonator	Mermaid	{u}{u}{1}	3	700	700	Water	C	When this card enters the field => Rest target resonator. If the weather is rain, return it to its owner's hand instead.
-Aquamarine, Panda Diplomat	ACN	ACN-060	ACN-060	Resonator	Panda	{u}{1}	2	500	700	Water	U	hen this card enters the field => You may banish a water gem. If you do, search your deck for a Mermaid, reveal it and put it into your hand. Then shuffle your deck.
-Bubble Golem	ACN	ACN-061	ACN-061	Resonator	Golem	{u}{u}	2	1000	1000	Water	C	[Mobilize]{1} (This card cannot attack or block unless its controller pays {1}.) At end of battle => Banish this card if it attacked or blocked.
-Cleansing Rain	ACN	ACN-062	ACN-062	Chant		{u}{1}	2			Water	C	[Quickcast] (You may play this card anytime you have priority.) Return target resonator to its owner's hand. If the weather is rain, put it on top of its owner's deck instead.
-Confinement	ACN	ACN-063	ACN-063	Chant		{u}	1			Water	U	[Remnant] [Quickcast] Target resonator cannot attack this turn.
-Coral Reef Mermaid	ACN	ACN-064	ACN-064	Resonator	Mermaid	{u}{2}	3	700	700	Water	C	When this card is put into a graveyard from the field => Return target resonator your opponent controls to its owner's hand.
-Electrical Discharge	ACN	ACN-065	ACN-065	Chant		{u}{u}{2}	4			Water	C	Up to two target resonators don't recover during their controller's next recovery phase. This card deals 600 damage to them if the weather is rain.
-Giant Squid	ACN	ACN-066	ACN-066	Resonator	Squid	{u}{2}	3	500	1000	Water	C	
-Guard at the Coral Palace	ACN	ACN-067	ACN-067	Resonator	Mermaid	{u}{u}{1}	3	400	1200	Water	U	Whenever this card attacks or blocks => Look at the top card of your deck. You may put it on the bottom of your deck.
-Keez, the Wise Dolphin	ACN	ACN-068	ACN-068	Resonator	Dolphin	{u}{3}	4	700	1000	Water	R	{u}: This card gains [Flying] until end of turn.
-Keez's Call	ACN	ACN-069	ACN-069	Chant		{u}	1			Water	C	[Quickcast] Cancel target automatic ability of a resonator. Draw a card.
-Magic Sound Warrior	ACN	ACN-070	ACN-070	Resonator	Golem	{u}{u}{3}	5	1200	1200	Water	U	[Mobilize]{2} Whenever your opponent plays a chant => Recover this card.
-Magic Water Warrior	ACN	ACN-071	ACN-071	Resonator	Golem	{u}{3}	4	900	900	Water	C	[Flying] [Mobilize] {2}
-Magical Tidal Surge	ACN	ACN-072	ACN-072	Chant		{u}{u}{u}{2}	5			Water	SR	Return all non-water resonators to their owners' hands.
-Mega Thunderfish	ACN	ACN-073	ACN-073	Resonator	Fish	{u}{u}{1}	3	800	800	Water	SR	When this card is put into a graveyard from the field => Return target resonator your opponent controls to its owner's hand. If the weather is rain, put it on top of its owner's deck instead. This card gains [+200/+200] and [Swiftness] as long as the weather is thunderstorm.
-Ocean Floor Archelon	ACN	ACN-074	ACN-074	Resonator	Dinosaur	{u}{u}{4}	6	600	2000	Water	U	Blocking does not cause this card to rest. {u}{u}{u}{u}: This card gains [+400/+1000] until end of turn. This card cannot be blocked until end of turn.
-Pandora's Order	ACN	ACN-075	ACN-075	Chant		{u}{u}{2}	4			Water	U	[Quickcast] Put target Golem from your graveyard into the field. It is mobilized until end of turn. At the next end of turn => Return it to its owner's hand.
-Princess Shaela's Attendant	ACN	ACN-076	ACN-076	Resonator	Mermaid	{u}	1			Water	C	This card gains [+200/+200] as long as the weather is rain.
-Seabed Investigation	ACN	ACN-077	ACN-077	Chant		{u}{u}	2			Water	U	Look at the top four cards of your deck. Put a card from among them into your hand and the rest on the bottom of your deck in any order. If you control a Mermaid, put two cards into your hand and the rest on the bottom of your deck in any order instead.
-Shaela's Elite	ACN	ACN-078	ACN-078	Resonator	Mermaid	{u}{u}	2	600	600	Water	R	When this card enters the field => Search your deck for a Mermaid not named "Shaela's Elite", reveal it and put it into your hand. Then shuffle your deck.
-Shaela's Foresight	ACN	ACN-079	ACN-079	Chant		{u}{u}	2			Water	R	[Quickcast] Choose one, if your J/ruler is "Shaela" or "Shaela, the Mermaid Princess", choose up to three instead - Put target attacking resonator on top of its owner's deck; or put target addition on top of its owner's deck; or target player shuffles all magic stones from their graveyard into their magic stone deck, then shuffles all other cards from their graveyard into their deck; or draw a card.
-Song of Sympathy	ACN	ACN-080	ACN-080	Chant		{u}{u}{u}{u}	4			Water	R	Play this card only if you control two or more Mermaids. Gain control of target resonator.
-Spinning Aquasol	ACN	ACN-081	ACN-081	Chant		{u}	1			Water	C	[Quickcast] Put target chant from your graveyard into your hand.
-The Coral Palace	ACN	ACN-082	ACN-082	Addition		{u}{u}	2			Water	U	{u}{u}{2}: Draw a card.
-Thunderfish	ACN	ACN-083	ACN-083	Resonator	Fish	{u}	1	200	200	Water	C	When this card enters the field => Target resonator doesn't recover during its controller's next recovery phase. When this card is put into a graveyard from the field => Draw a card if the weather is rain.
-Waterfowl	ACN	ACN-084	ACN-084	Resonator	Bird	{u}{1}	2	400	600	Water	C	[Flying] This card gains [+100/+200] as long as the weather is rain.
-Weather Change: Rain	ACN	ACN-085	ACN-085	Chant		{u}	1			Water		[Quickcast] (You may play this card anytime you have priority.) The weather is rain until end of turn. Draw a card.
-Absolute Awareness	ACN	ACN-086	ACN-086	Chant	Spirit Magic	{g}{g}	2			Wind	C	Search your magic stone deck for a basic magic stone and put it into the field rested. Then shuffle your magic stone deck.
-Arrow Trap	ACN	ACN-087	ACN-087	Chant		{g}	1			Wind	U	[Quickcast] This card deals 600 damage to target attacking resonator. If that resonator has [Flying] this card deals 1200 damage instead.
-Bullseye Bow	ACN	ACN-088	ACN-088	Chant		{g}{g}{2}	4			Wind	C	Choose one - Destroy target resonator with total cost 4 or less; or destroy target resonator. Choose the second only if you control an Elf.
-Commander of the Crowd	ACN	ACN-089	ACN-089	Resonator	Elf	{g}{g}{g}	3	700	700	Wind	U	When this card enters the field => Put two [100/100] wind Elf resonator tokens into the field. Whenever this card attacks => Other Elves you control gain [+100/+100] until end of turn.
-Elemental Blast	ACN	ACN-090	ACN-090	Chant	Spirit Magic	{g}	1			Wind	R	This card deals 400 damage to target resonator. [Torrent] This card deals 700 damage instead.
-Elf in the Trees	ACN	ACN-091	ACN-091	Resonator	Elf	{g}{2}	3	0	800	Wind	C	At the beginning of your main phase => Produce {g}.
-Elvish Hunter	ACN	ACN-092	ACN-092	Resonator	Elf	{g}{g}{2}	4	600	700	Wind	C	When this card enters the field => It deals 100 damage multiplied by the number of Elves you control to target resonator.
-Faerur Letoliel | Faerur Letoliel, King of Wind	ACN	ACN-093-r,ACN-093-j	ACN-093	Ruler | J-Ruler	Elf	{g}{g}{1}	3	800	1000	Wind	JR	[Judgement] {g}{g}{1} [Energize] {g} Rest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn. | This card enters the field with four gale protection counters. When this card enters the field => Search your deck for an Elf resonator with total cost 4 or less and put it into the field. Then shuffle your deck. Remove a gale protection counter from this card: Target Elf gains [Barrier] until end of turn. Remove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn
-Faerur's Command	ACN	ACN-094	ACN-094	Chant		{g}{g}{g}{4}	7			Wind	R	Recover all resonators you control. Resonators you control gain [+1000/+1000] and [Pierce] until end of turn.
-Faerur's Escort	ACN	ACN-095	ACN-095	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	C	When this card enters the field => Target an Elf. At the next end of turn => Recover it.
-Faerur's Spell	ACN	ACN-096	ACN-096	Chant		{g}	1			Wind	U	[Quickcast] Cancel target spell with [Quickcast].
-Gentle Breeze Elemental	ACN	ACN-097	ACN-097	Chant	Spirit Magic/Elemental	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Draw a card.
-Great Tornado	ACN	ACN-098	ACN-098	Chant		{g}{6}	7			Wind	SR	As you play this card, you may rest up to six resonators you control. You pay {1} less to play this card for each resonator rested this way. Destroy two target non-magic stone entities.
-Leaf Archer	ACN	ACN-099	ACN-099	Resonator	Elemental	{g}{3}	4	600	1200	Wind	U	This card can block J/resonators with [Flying]. {g}{g}, [Rest]: This card deals 600 damage to target resonator with [Flying].
-Leaf Fighter	ACN	ACN-100	ACN-100	Resonator	Elemental	{g}	1	400	400	Wind	C	
-Leaf Guard	ACN	ACN-101	ACN-101	Resonator	Elemental	{g}{1}	2	400	800	Wind	C	Remove an Elemental in your graveyard from the game: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn. Remove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.
-Leaf Healer	ACN	ACN-102	ACN-102	Resonator	Elemental	{g}{g}{3}	5	0	1500	Wind	U	At the end of your turn => Recover all resonators you control.
-Leaf Knight	ACN	ACN-103	ACN-103	Resonator	Elemental	{g}{g}	2	600	600	Wind	R	
-Messenger of the King	ACN	ACN-104	ACN-104	Resonator	Elf	{g}{g}	2	600	600	Wind	U	When this card enters the field => Up to two target Elves gain [+200/+200] until end of turn.
-Portal in the Woods	ACN	ACN-105	ACN-105	Addition		{g}{g}	2			Wind	U	When this card enters the field => Put five guidance counters on it. At the end of your turn => Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.
-Spirit Caller Elf	ACN	ACN-106	ACN-106	Resonator	Elf	{g}	1	100	100	Wind	C	When this card enters the field => Put a [100/100] wind Elf resonator token into the field.
-Spiritual Guidance	ACN	ACN-107	ACN-107	Chant	Spirit Magic	{g}{g}{1}	3			Wind	U	Draw two cards. Then you gain 100 life for each card in your hand.
-Tia Letoliel, Archer Princess of Elves	ACN	ACN-108	ACN-108	Resonator	Elf	{g}{g}{2}	4	900	900	Wind	SR	When this card enters the field => Search your deck for a card named "Tia's White Falcon", reveal it and put it into your hand. Then shuffle your deck. When this card enters the field => Target resonator gains "When damage is dealt to this card => Destroy it." until end of turn. {g}{g}{g}{3}, [Rest]: This card deals 1000 damage to target player.
-Tia's White Falcon	ACN	ACN-109	ACN-109	Resonator	Beast	{g}	1	200	200	Wind	R	[Flying] As long as you control "Tia Letoliel, Archer Princess of Elves", this card gains [Swiftness]. Whenever this card attacks => It deals 200 damage to target player or resonator.
-Trap Master Lemuria	ACN	ACN-110	ACN-110	Resonator	Elf	{g}{g}{2}	4	800	1000	Wind	R	[Quickcast] If resonators your opponent controls attacked a total of three times or more this turn, you may pay {g}{g}{2} less to play this card. When this card enters the field => It deals 800 damage to target attacking resonator.
-Tree Root Sprite	ACN	ACN-111	ACN-111	Resonator	Fairy	{g}{2}	3	800	800	Wind	C	When this card enters the field => Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.
-Wind Blade	ACN	ACN-112	ACN-112	Chant	Elemental	{g}{1}	2			Wind	C	[Quickcast] This card deals 300 damage to target resonator, plus an additional 100 damage for each wind magic stone you control.
-Wind Ferryman	ACN	ACN-113	ACN-113	Resonator	Human	{g}	1	200	200	Wind	C	When this card enters the field => Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.
-Winds of Vitality	ACN	ACN-114	ACN-114	Chant	Spirit Magic	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [+600/+600] until end of turn.
-Ahriman, Malicious Eye in the Dark	ACN	ACN-115	ACN-115	Resonator	Familiar	{d}{1}	2	600	600	Darkness	C	When this card is put into a graveyard from the field => Put a mystery counter on your J/ruler.
-Black Blood Knight	ACN	ACN-116	ACN-116	Resonator	Vampire	{d}{d}{1}	3	800	800	Darkness	U	Whenever this card deals damage => You gain that much life.
-Bloodspray	ACN	ACN-117	ACN-117	Chant	Mystery	{d}{d}	2			Darkness	C	Draw two cards. This card deals 300 damage to you. [Awakening] Remove a mystery counter from your J/ruler: Destroy target resonator with total cost 2 or less.
-Dark Elf of the Murky Grove	ACN	ACN-118	ACN-118	Resonator	Dark Elf	{d}{d}{2}	4	800	800	Darkness	C	Whenever damage is dealt to you => Put a [+100/+100] counter on this card.
-Dark Elf Sorcerer	ACN	ACN-119	ACN-119	Resonator	Dark Elf	{d}{d}{1}	3	700	700	Darkness	U	Whenever a ruler or resonator you control deals damage to you => This card deals that much damage to your opponent.
-Dark Elf Spy	ACN	ACN-120	ACN-120	Resonator	Dark Elf	{d}	1	400	400	Darkness	C	At the end of your turn => This card deals 100 damage to each player.
-Dark Night Butterfly	ACN	ACN-121	ACN-121	Chant		{d}	1			Darkness	C	Your opponent discards a card. If this card was awakened, your opponent discards two cards instead. [Awakening] Remove two mystery counters from your J/ruler.
-Dark Revolution	ACN	ACN-122	ACN-122	Chant		{d}{d}{2}	4			Darkness	R	Put target resonator from your graveyard into the field.
-Dark Riding Hood	ACN	ACN-123	ACN-123	Resonator	Fairy Tale	{d}{d}{d}	3	700	800	Darkness	SR	This card gains "Whenever this card deals damage to a resonator => Destroy that resonator." as long as your life is 2000 or less. This card gains [Swiftness] as long as your life is 1000 or less. When this card enters the field => You may remove two mystery counters from your J/ruler. If you do, remove target resonator from the game. Whenever this card attacks => It deals 200 damage to target player or resonator. You gain 200 life.
-Demonic Rabbit	ACN	ACN-124	ACN-124	Resonator	Rabbit/Demon	{d}{2}	3	900	900	Darkness	C	When this card is put into a graveyard from the field => It deals 500 damage to you.
-Feast on Mortals	ACN	ACN-125	ACN-125	Chant		{d}{d}{2}	4			Darkness	C	As an additional cost to play this card, banish a resonator. This card deals damage equal to the banished resonator's ATK to your opponent. You gain life equal to the banished resonator's DEF.
-Frayla | Frayla, the Revolutionist	ACN	ACN-126-r,ACN-126-j	ACN-126	Ruler | J-Ruler	Dark Elf	{d}{d}{1}	3	1000	800	Darkness	JR	[Judgment]{d}{d}{1} [Energize]{d} At the end of your turn => You may put target Dark Elf from your graveyard into your hand. If you do, this card deals 300 damage to you. | When this card enters the field => Put target Dark Elf from your graveyard into the field. Whenever this card attacks => Another target Dark Elf you control gains [+400/+400] and [Swiftness] until end of turn. {r}: This card gains [Swiftness] until end of turn. {r}{d}: This card deals 100 damage multiplied by the number of Dark Elves you control to your opponent.
-Gate to Outer World	ACN	ACN-127	ACN-127	Addition		{d}{d}{2}	4			Darkness	R	When this card enters the field => Your opponent removes a resonator they control from the game. [Rest], [X]: Put a resonator with total cost X from a removed area that was removed by this card into the field.
-Hilda, Frayla's Left Hand	ACN	ACN-128	ACN-128	Resonator	Dark Elf	{d}{d}	2	400	500	Darkness	R	When this card enters the field => If you do not control a card named "Saffina, Frayla's Right Hand", put target card with that name from your graveyard into the field. This card gains [+300/+200] as long as your life is 2000 or less.
-Lethal Arrow	ACN	ACN-129	ACN-129	Chant		{d}	1			Darkness	C	[Quickcast] Destroy target damaged resonator.
-Moon in the Mist	ACN	ACN-130	ACN-130	Chant	Mystery	{d}{d}{2}	4			Darkness	U	[Quickcast] Destroy target resonator. Put a mystery counter on your J/ruler.
-Moonlight Shadow	ACN	ACN-131	ACN-131	Resonator	Vampire	{d}	1	400	400	Darkness	C	
-Saffina, Frayla's Right Hand	ACN	ACN-132	ACN-132	Resonator	Dark Elf	{d}{d}	2	500	400	Darkness	R	When this card enters the field => If you don't control a card named "Hilda, Frayla's Left Hand", search your deck for a card with that name, reveal it and put it into your hand. Then shuffle your deck. This card gains [+200/+300] as long as your life is 2000 or less.
-Shade Assassin	ACN	ACN-133	ACN-133	Resonator	Dark Elf	{d}	1	200	200	Darkness	U	Whenever this card deals damage to a resonator => Destroy that resonator. This card gains [Swiftness] as long as you control another Dark Elf.
-Stealth Demon	ACN	ACN-134	ACN-134	Resonator	Demon	{d}{d}{3}	5	800	600	Darkness	U	[Flying] When this card is put into a graveyard from the field => It deals 600 damage to your opponent.
-Sword of the New Moon	ACN	ACN-135	ACN-135	Chant	Mystery	{d}	1			Darkness	C	[Quickcast] (You may play this card anytime you have priority.) Choose one - Destroy target resonator with total cost 1 or less; or destroy target resonator with total cost 4 or less if this card was awakened. [Awakening] Remove a mystery counter from your J/ruler.
-Tactics of the Dark Elves	ACN	ACN-136	ACN-136	Chant		{d}{d}{1}	3			Darkness	U	Up to two target resonators cannot be destroyed until end of turn and gain "Whenever this card deals damage to a resonator => Destroy that resonator." until end of turn.
-The Three Evil Little Pigs	ACN	ACN-137	ACN-137	Resonator	Fairy Tale	{d}{d}{3}	5	400	400	Darkness	U	When this card enters the field => Put a [400/400] darkness Pig resonator token with "When this card is put into a graveyard from the field => It deals 400 damage to your opponent." and a [400/400] darkness Pig resonator token with "When this card is put into a graveyard from the field => You gain 400 life." into the field.
-Transforming Vampire	ACN	ACN-138	ACN-138	Resonator	Vampire	{d}{1}	2	500	400	Darkness	C	Whenever this card deals damage => You gain that much life.
-Treasonous Guard	ACN	ACN-139	ACN-139	Resonator	Dark Elf	{d}{1}	2	600	600	Darkness	C	When this card enters the field => It deals 200 damage to each player.
-Truth Amongst Darkness	ACN	ACN-140	ACN-140	Chant		{d}{2}	3			Darkness	U	[Remnant] Look at target opponent's hand and choose a card. They remove that card from the game.
-Vicious Wounded Beast	ACN	ACN-141	ACN-141	Resonator	Dinosaur	{d}{d}{3}	5	1000	1000	Darkness	C	When this card enters the field => Put two mystery counters on your J/ruler.
-Vitality Drain	ACN	ACN-142	ACN-142	Chant	Mystery	{d}{d}{3}	5			Darkness	SR	[Quickcast] Target player loses 1000 life. You gain 1000 life. [Awakening] Remove a mystery counter from your J/ruler: This card deals 1000 damage to target resonator.
-Wolf's Rain	ACN	ACN-143	ACN-143	Chant		{d}{2}	2			Darkness	R	Put three [300/300] darkness Beast/Wolf resonator tokens with [Swiftness] and [Precision] into the field. At the next end of turn => Remove them from the game
-Idol of Magic	ACN	ACN-144	ACN-144	Addition		{1}	1			Void	C	{1}, banish this card: Produce {w}, {r}, {u}, {g}, or {d}. When this card is put into a graveyard from the field => Draw a card.
-Idol of Vitality	ACN	ACN-145	ACN-145	Addition		{1}	1			Void	C	{1}, banish this card: Target J/resonator gains [+200/+200] until end of turn. Draw a card.
-Idol of Willpower	ACN	ACN-146	ACN-146	Addition		{1}	1			Void	C	{1}, banish this card: You gain 500 life. Draw a card.
-Statue in the Sacred Temple	ACN	ACN-147	ACN-147	Addition		{2}	2			Void	C	Magic stones you control gain "[Rest]: Produce {w}, {r}, {u}, {g}, or {d}.". {w}{r}{u}{g}{d}, banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.
-[Variant] Wing Rider Panda	ACN	ACN-151	ACN-151	Resonator	Panda	{w}{3}	4	800	1000	Light	C	This card gains [Flying] as long as you control a water gem.
-[Variant] Stone Tongued Basilisk	ACN	ACN-152	ACN-152	Resonator	Beast	{r}{r}	2	500	500	Fire	C	Whenever this card attacks => Target resonator can't block this turn.
-[Variant] Giant Squid	ACN	ACN-153	ACN-153	Resonator	Squid	{u}{2}	3	600	1000	Water	C	
-[Variant] Faerur's Escort	ACN	ACN-154	ACN-154	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	C	When this card enters the field ⇒ Target Elf can't be destroyed until the beginning of your next turn.
-[Variant] Vicious Wounded Beast	ACN	ACN-155	ACN-155	Resonator	Dinosaur	{d}{d}{3}	4	1000	900	Darkness	C	[First Strike] When this card enters the field => Put two mystery counters on your J/ruler.
-Treasure Hunter Fierica | Treasure Hunter Fierica (J)	ACN	ACN-161-br,ACN-161-bjr	ACN-161	Basic Ruler | Basic J-Ruler	Human	{w}{w}{2}	4	1000	1000	Light	BJR	[Judgement] {w}{w}{2} At the beginning of the game => Gain a gem of any attribute. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Gain two gems of any one attribute. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.
-Martial Artist Pialle Eille | Martial Artist Pialle Eille(J)	ACN	ACN-162-br,ACN-162-bjr	ACN-162	Basic Ruler | Basic J-Ruler	Dragonoid	{r}{r}{2}	4	1000	1000	Fire	BJR	[Judgment] {r}{r}{2} At the beginning of the game => Put ten strength counters on this card. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Put X strength counters on it, where X is fifteen minus the number of strength counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.
-Mephina, Mermaid Shaman | Mephina, Mermaid Shaman(J)	ACN	ACN-163-br,ACN-163-bjr	ACN-163	Basic Ruler | Basic J-Ruler	Mermaid	{u}{u}{2}	4	1000	1000	Water	BJR	[Judgment] {u}{u}{2} The weather is rain during your turn. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | The weather is rain. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.
-Leaf Elder | Leaf Elder(J)	ACN	ACN-164-br,ACN-164-bjr	ACN-164	Basic Ruler | Basic J-Ruler	Elemental	{g}{g}{2}	4	1000	1000	Wind	BJR	[Judgment] {g}{g}{2} Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.
-Bloodsucking Butler | Bloodsucking Butler(J)	ACN	ACN-165-br,ACN-165-bjr	ACN-165	Basic Ruler | Basic J-Ruler	Vampire	{d}{d}{2}	4	1000	1000	Darkness	BJR	[Judgment] {d}{d}{2} At the beginning of the game => Put a mystery counter on this card. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Put three mystery counters on it. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.
+Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Diamond, the One-Eyed Treasury Magician	SDR1	SDR1-001	SDR1-001	Resonator	Panda	{w}{w}{w}{1}	4	1000	1000	Light	SR	Whenever you gain a gem => Resonators you control gain [+200/+200] until end of turn. {w}{w}: Target J/resonator you control gains [Barrier] until end of turn. (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.)	
+Gem Blade Onyx	SDR1	SDR1-002	SDR1-002	Resonator	Panda	{w}{1}	2	600	600	Light	SR	This card gains [Precision] as long as you control a darkness gem. (This card can attack recovered J/resonators.)	
+Gem Blade Ruby	SDR1	SDR1-003	SDR1-003	Resonator	Panda	{w}{2}	3	800	800	Light	U	This card gains [Swiftness] as long as you control a fire gem. (This card can attack and you can play its [Rest] abilities the same turn it enters the field.)	
+Gem Blade Sapphire	SDR1	SDR1-004	SDR1-004	Resonator	Panda	{w}{1}	2	600	600	Light	U	This card gains [Flying] as long as you control a water gem. (This card cannot be blocked by J/resonators without [Flying].)	
+Gem Craftsman	SDR1	SDR1-005	SDR1-005	Resonator	Human	{w}{w}{1}	3	800	800	Light	R	When this card enters the field => Gain a gem of any attribute. This card gains [+200/+200] as long as there are three or more different attributes among all gems you control.	
+Gem Trader	SDR1	SDR1-006	SDR1-006	Resonator	Human	{w}	1	300	300	Light	C	When this card enters the field => Gain a light gem.	
+Jewel Burst	SDR1	SDR1-007	SDR1-007	Chant		{w}{w}	2			Light	R	As an additional cost to play this card, banish two gems. Remove target resonator from the game.	
+Jewel Shield	SDR1	SDR1-008	SDR1-008	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [0/+200] until end of turn. Gain a gem of any attribute. Then that resonator gains [0/+100] for each different attribute among all gems you control until end of turn.	
+Jewel Sword	SDR1	SDR1-009	SDR1-009	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [+200/0] until end of turn. Gain a gem of any attribute. Then that resonator gains [+100/0] for each different attribute among all gems you control until end of turn.	
+Taegrus Pearlshine | Taegrus Pearlshine, Lord of the Mountain	SDR1	SDR1-010-r,SDR1-010-j	SDR1-010	Ruler | J-Ruler	Panda	{w}{w}{1}	3	800	800	Light	JR	{w}{w}{1} (Pay {w}{w}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{w} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {w}.") At the beginning of the game => Gain a gem of any attribute. Sealed Item: <<???>> | When this card enters the field => Gain two gems of any one attribute. Banish a light gem: This card gains [+500/+500] until end of turn. Play this ability only once per turn. Banish a water gem: This card gains [Flying] until end of turn. (This card cannot be blocked by J/resonators without [Flying].) Sealed Item: <<???>>	<s><l>Add a light gem</l><f>/ccwhite+1</f></s> <s><l>Add a fire gem</l><f>/ccorange+1</f></s> <s><l>Add a water gem</l><f>/ccblue+1</f></s> <s><l>Add a wind gem</l><f>/ccindigo</f></s> <s><l>Add a darkness gem</l><f>/ccblack+1</f></s>  
+White Raven	SDR1	SDR1-011	SDR1-011	Resonator	Bird	{w}	1	300	300	Light	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => You may banish a gem. If you do, draw a card.	
+Apprentice Cook	SDR2	SDR2-001	SDR2-001	Resonator	Dragonoid	{r}	1	300	400	Fire	C	When this card enters the field => Put two strength counters on your J/ruler.	
+Burning Awakening	SDR2	SDR2-002	SDR2-002	Chant	Battle Arts	{r}{r}	2			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove five strength counters from your J/ruler. Target J/resonator gains [+1000/+1000] until end of turn.	
+Dragon Breath	SDR2	SDR2-003	SDR2-003	Chant	Battle Arts	{r}{2}	3			Fire	C	As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to each J/resonator without [Flying].	
+Dragon of Mt. Hoelle	SDR2	SDR2-004	SDR2-004	Resonator	Dragonoid	{r}{r}{r}{1}	4	1500	1500	Fire	SR	[Flying] (This card cannot be blocked by J/resonators without [Flying].) This card cannot attack unless you remove two strength counters from your J/ruler. This card cannot block unless you remove two strength counters from your J/ruler. {r}{r}: This card deals 300 damage to target J/resonator.	
+Elia Rua, the Combat Chef	SDR2	SDR2-005	SDR2-005	Resonator	Dragonoid	{r}{r}{1}	3	800	800	Fire	SR	[Rest]: Recover your ruler.	
+Hell Flame	SDR2	SDR2-006	SDR2-006	Chant	Battle Arts	{r}	1			Fire	R	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to target J/resonator.	
+Hoelle Pig	SDR2	SDR2-007	SDR2-007	Resonator	Beast	{r}	1	400	300	Fire	C	Banish this card: Recover your ruler.	
+Hoellesaurus	SDR2	SDR2-008	SDR2-008	Resonator	Dinosaur	{r}{r}	2	600	600	Fire	U	When this card enters the field => It deals 300 damage to target J/resonator.	
+Kirik Rerik | Kirik Rerik, the Draconic Warrior	SDR2	SDR2-009-r,SDR2-009-j	SDR2-009	Ruler | J-Ruler	Dragonoid	{r}{r}{1}	3	1200	1000	Fire	JR	{r}{r}{1} (Pay {r}{r}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{r} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {r}.") At the beginning of the game => Put ten strength counters on this card. [Rest]: Put X strength counters on this card, where X is ten minus the number of strength counters on this card. Sealed Item: <<???>>	<s><a>y</a><l>Set Initial Loyalty</l><f>/ccr=10</f></s>
+Kirik's Partner	SDR2	SDR2-010	SDR2-010	Resonator	Dragon	{r}{2}	3	600	600	Fire	R	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => Put target Battle Arts chant from your graveyard into your hand. Your J-ruler gains [Flying].	
+Mad Boar of Mt. Hoelle	SDR2	SDR2-011	SDR2-011	Resonator	Beast	{r}{r}	2	700	300	Fire	U	[Swiftness] (This card can attack and you can play its [Rest] abilities the same turn it enters the field.) [Bloodlust] （This card must attack if able.）[First Strike] (While attacking, this card deals battle damage first to the blocker or attacked object.)	
+Angelic Voice Mermaid	SDR3	SDR3-001	SDR3-001	Resonator	Mermaid	{u}	1	300	300	Water	C	When this card enters the field => Draw a card if the weather is rain.	
+Aqua Rifle Mermaid	SDR3	SDR3-002	SDR3-002	Resonator	Mermaid	{u}{u}{1}	3	700	700	Water	R	When this card enters the field => Rest target resonator. If the weather is rain, return it to its owner's hand instead.	
+Cleansing Rain	SDR3	SDR3-003	SDR3-003	Chant		{u}{1}	2			Water	R	[Quickcast] (You may play this card anytime you have priority.) Return target resonator to its owner's hand. If the weather is rain, put it on top of its owner's deck instead.	
+Giant Sea Jelly	SDR3	SDR3-004	SDR3-004	Resonator	Jellyfish	{u}{1}	2	500	500	Water	U	This card gains [+200/+200] as long as the weather is rain.	
+Peko, the Wise Dolphin	SDR3	SDR3-005	SDR3-005	Resonator	Dolphin	{u}{u}	2	600	600	Water	SR	This card gains [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].)	
+Princess Shaela's Attendant	SDR3	SDR3-006	SDR3-006	Resonator	Mermaid	{u}	1	300	300	Water	C	This card gains [+200/+200] as long as the weather is rain.	
+Shaela | Shaela, the Mermaid Princess	SDR3	SDR3-007-r,SDR3-007-j	SDR3-007	Ruler | J-Ruler	Mermaid	{u}{u}{1}	3	1000	1200	Water	JR	{u}{u}{1} (Pay {u}{u}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{u} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {u}.") The weather is rain during your turn. [Rest]: Search your deck for a card named "Weather Change: Rain", reveal it and put it into your hand. Then shuffle your deck. Sealed Item: <<???>> | The weather is rain. When this card enters the field => Draw a card. Sealed Item: <<???>>	
+Stormbolt	SDR3	SDR3-008	SDR3-008	Chant		{u}{1}	2			Water	C	Choose one, if the weather is rain, you may choose up to three - Draw a card; or prevent all damage that would be dealt by target J/resonator until end of turn; or rest target J/resonator.	
+The White Whale	SDR3	SDR3-009	SDR3-009	Resonator	Whale	{u}{2}	3	1000	1000	Water	U	This card cannot attack or block unless the weather is rain.	
+Wave Rider Mermaid	SDR3	SDR3-010	SDR3-010	Resonator	Mermaid	{u}{u}{u}{1}	4	1000	1000	Water	SR	This card gains [+200/+200] and [Flying] as long as the weather is rain. (This card cannot be blocked by J/resonators without [Flying].) {u}{u}: Rest target resonator. Play this ability only if the weather is rain.	
+Weather Change: Rain	SDR3	SDR3-011	SDR3-011	Chant		{u}	1			Water	C	[Quickcast] (You may play this card anytime you have priority.) The weather is rain until end of turn. Draw a card.	
+Cecil Letoliel, Elven Prince	SDR4	SDR4-001	SDR4-001	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	SR	You may pay {1} less to play this card for each Elemental in your graveyard. Elemental resonators you control gain [+200/+200].	
+Elven Guide	SDR4	SDR4-002	SDR4-002	Resonator	Elf	{g}{1}	2	600	600	Wind	R	When this card enters the field => Look at the top three cards of your deck. Put one from among them in your graveyard and the rest on the bottom of your deck in any order.	
+Gentle Breeze Elemental	SDR4	SDR4-003	SDR4-003	Chant	Spirit Magic/Elemental	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Draw a card.	
+Gill | Gill, the Gifted Conjurer	SDR4	SDR4-004-r,SDR4-004-j	SDR4-004	Ruler | J-Ruler	Human	{g}{g}{1}	3	1100	1100	Wind	JR	[Judgment] {g}{g}{1} (Pay {g}{g}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{g} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {g}") Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. [Rest]: Search your deck for a card named "Gentle Breeze Elemental", reveal it and put it into your hand. Then shuffle your deck. Sealed Item: <<???>> | [Barrier] (Cards you control with [Barrier] cannot be targeted by spells or abilities your opponent controls.) Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. Sealed Item: <<???>>	
+Guardian of the Portal	SDR4	SDR4-005	SDR4-005	Resonator	Elf	{g}{g}	2	600	600	Wind	U	Rest another recovered resonator you control: This card gains [+100/+100] until end of turn.	
+Leaf Fighter	SDR4	SDR4-006	SDR4-006	Resonator	Elemental	{g}	1	400	400	Wind	C		
+Leaf Magician	SDR4	SDR4-007	SDR4-007	Resonator	Elemental	{g}{g}{1}	3	700	700	Wind	U	When this card is put into a graveyard from the field => Draw a card.	
+Travelling Trader	SDR4	SDR4-008	SDR4-008	Resonator	Human	{g}	1	300	400	Wind	C	When this card enters the field => Draw a card, then discard a card.	
+Tree Root Sprite	SDR4	SDR4-009	SDR4-009	Resonator	Fairy	{g}{2}	3	800	800	Wind	SR	When this card enters the field => Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.	
+Vanish	SDR4	SDR4-010	SDR4-010	Chant	Spirit Magic	{g}{g}{g}	3			Wind	R	[Quickcast] (You may play this card anytime you have priority.) Cancel target spell.	
+Winds of Vitality	SDR4	SDR4-011	SDR4-011	Chant	Spirit Magic	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [+600/+600] until end of turn.	
+Ahriman, Malicious Eye in the Dark	SDR5	SDR5-001	SDR5-001	Resonator	Familiar	{d}{1}	2	600	600	Darkness	SR	When this card is put into a graveyard from the field => Put a mystery counter on your J/ruler.	
+Alucard, the Vampiric Noble	SDR5	SDR5-002	SDR5-002	Resonator	Vampire	{d}{d}{1}	3	600	600	Darkness	U	Other Vampires you control gain [+200/+200].	
+Ashen Snow White	SDR5	SDR5-003	SDR5-003	Resonator	Fairy Tale	{d}{d}	2	500	700	Darkness	R	Remove a mystery counter from your J/ruler: This card gains [+200/+200] and [Precision] until end of turn. Play this ability only once per turn.	
+Bats from the Dark Castle	SDR5	SDR5-004	SDR5-004	Resonator	Bat	{d}	1	0	400	Darkness	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) This card gains [+200/0] for each mystery counter on your J/ruler.	
+Dark Night Butterfly	SDR5	SDR5-005	SDR5-005	Chant	Mystery	{d}	1			Darkness	C	Your opponent discards a card. If this card was awakened, your opponent discards two cards instead. [Awakening] Remove two mystery counters from your J/ruler.	
+Empress Carmilla	SDR5	SDR5-006	SDR5-006	Resonator	Vampire	{d}{2}	3	600	600	Darkness	U	When this card enters the field => Destroy target resonator with total cost 1.	
+Grimm, the Pitch Black Vampire	SDR5	SDR5-007	SDR5-007	Resonator	Vampire/Fairy Tale	{d}{d}{2}	4	900	900	Darkness	SR	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => Put target resonator from your graveyard into your hand. {d}{d}: J/resonators your opponent controls gain [-X00/-X00] until end of turn, where X is the number of Fairy Tales you control.	
+Moonlight Shadow	SDR5	SDR5-008	SDR5-008	Resonator	Vampire	{d}	1	400	400	Darkness	C		
+Reiya, Fourth Daughter of the Mikage | Reiya, Fourth Daughter of the Mikage	SDR5	SDR5-009-r,SDR5-009-j	SDR5-009	Ruler | J-Ruler	Vampire	{d}{d}{1}	3	1200	1200	Darkness	JR	[Judgment] {d}{d}{1} (Pay {d}{d}{1} to flip this card and put it into the field as a J-ruler.) [Energize]{d} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {d}.") At the beginning of the game => Put a mystery counter on this card. [Rest]: Put a mystery counter on this card. Sealed Item: <<???>> | [Flying] When this card enters the field => Put three mystery counters on it. [Rest], remove a mystery counter from this card: Destroy target resonator. Sealed Item: <<???>>	
+Sword of the Half Moon	SDR5	SDR5-010	SDR5-010	Chant	Mystery	{d}{d}	2			Darkness	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [-600/-600] until end of turn. If this card was awakened, put it into its owner's hand as it resolves. [Awakening] Remove two mystery counters from your J/ruler.	
+Sword of the New Moon	SDR5	SDR5-011	SDR5-011	Chant	Mystery	{d}	1			Darkness	R	[Quickcast] (You may play this card anytime you have priority.) Choose one - Destroy target resonator with total cost 1 or less; or destroy target resonator with total cost 4 or less if this card was awakened. [Awakening] Remove a mystery counter from your J/ruler.	
+Conjure Constructs	ACN	ACN-001	ACN-001	Chant		{w}{w}{1}	3			Light	R	Put three [500/500] light Golem resonator tokens with [Mobilize]{2} into the field.	
+Crippling Light	ACN	ACN-002	ACN-002	Chant		{w}{w}{3}	5			Light	SR	Destroy all non-Golem resonators.	
+Discovery	ACN	ACN-003	ACN-003	Chant		{w}	1			Light	C	[Quickcast] Gain a gem of any attribute. Draw a card.	
+Gem Beast	ACN	ACN-004	ACN-004	Resonator	Beast	{w}{1}	2	600	600	Light	U	When this card leaves the field => Gain a gem of any attribute.	
+Gem Blade Emerald	ACN	ACN-005	ACN-005	Resonator	Panda	{w}{w}{2}	4	800	800	Light	U	When this card enters the field => Recover up to four target magic stones if you control a wind gem.	
+Gem Minister Garnet	ACN	ACN-006	ACN-006	Resonator	Panda	{w}{w}{w}	3	500	900	Light	R	When this card enters the field => Gain a gem of any attribute. Draw a card.	
+Gem Trader	ACN	ACN-007	ACN-007	Resonator	Human	{w}	1	300	300	Light	C	When this card enters the field => Gain a light gem.	
+Heavy Arms Panda	ACN	ACN-008	ACN-008	Resonator	Panda	{w}{w}{2}	4	800	800	Light	C	This card gains [+400/+400] as long as there are three or more different attributes among all gems you control.	
+Jewel Bullet	ACN	ACN-009	ACN-009	Chant		{w}	1			Light	R	This card deals 400 damage to target non-Panda resonator. If this card was awakened, it deals 800 damage instead. [Awakening] Banish a gem.	
+Jewel Protection	ACN	ACN-010	ACN-010	Chant		{w}	1			Light	C	Gain a gem of any attribute. Then you may banish a gem. If you do, prevent all damage that would be dealt to target resonator by sources that share an attribute with the gem banished this way until end of turn. That resonator gains [Barrier](Banished gem's attributes) until end of turn.	
+Jewel Shield	ACN	ACN-011	ACN-011	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [0/+200] until end of turn. Gain a gem of any attribute. Then that resonator gains [0/+100] for each different attribute among all gems you control until end of turn.	
+Jewel Sword	ACN	ACN-012	ACN-012	Chant		{w}	1			Light	C	[Quickcast] (You may play this card anytime you have priority.) Target resonator gains [+200/0] until end of turn. Gain a gem of any attribute. Then that resonator gains [+100/0] for each different attribute among all gems you control until end of turn.	
+Jeweler of Sasaru Palace	ACN	ACN-013	ACN-013	Resonator	Panda	{w}{2}	3	300	800	Light	U	[Rest], banish a light gem: Gain a gem of any attribute.	
+Light of Transmigration	ACN	ACN-014	ACN-014	Chant		{w}{1}	2			Light	U	[Remnant] Remove target resonator you control from the game. At the next end of turn => Put it into the field under its owner's control.	
+Magic Light Warrior	ACN	ACN-015	ACN-015	Resonator	Golem	{w}	1	600	600	Light	C	[Mobilize]{w} (This card cannot attack or block unless its controller pays {w}.)	
+Magic Shield Warrior	ACN	ACN-016	ACN-016	Resonator	Golem	{w}{1}	2	0	1500	Light	C	[Mobilize]{1} (This card cannot attack or block unless its controller pays {1}.)	
+Magic Sword Warrior	ACN	ACN-017	ACN-017	Resonator	Golem	{w}{w}	2	800	600	Light	U	[First Strike] [Mobilize]{w}	
+Orphica, Dancer in the White Mist	ACN	ACN-018	ACN-018	Resonator	Dragonoid	{w}{w}	2	400	400	Light	SR	Pandas you control gain [+200/+200]. When this card enters the field => Remove another target resonator from the game. At the next end of turn => Put it into the field under its owner's control. When this card is put into a graveyard from the field => Search your deck for a Panda, reveal it and put it into your hand. Then shuffle your deck.	
+Panda Acrobat	ACN	ACN-019	ACN-019	Resonator	Panda	{w}{w}{3}	5	1200	1200	Light	C	When this card enters the field => You may banish a gem. If you do, rest target resonator.	
+Pandora | Pandora, Guardian of the Sacred Temple	ACN	ACN-020-r,ACN-020-j	ACN-020	Ruler | J-Ruler	Guardian	{w}	1	1000	2000	Light	JR	[Judgement] {w}. Play this ability only if you control three or more Golems. [Energize]{w} [Hair Ornament of Light]{0}: Target Golem you control is mobilized until end of turn. Play this ability only once per turn. | Golems you control are mobilized. If damage would be dealt to a Golem you control, it's dealt to this card instead. [Hair Ornament of Light]{w}{w}{2}: Golems you control gain [+400/+400] until end of turn.	
+Profitable Transactions	ACN	ACN-021	ACN-021	Chant		{w}	1			Light	U	[Quickcast] Choose up to five - Banish a light gem. If you do, rest target resonator; or banish a fire gem. If you do, this card deals 600 damage to target resonator; or banish a water gem. If you do, return target resonator to its owner's hand; or banish a wind gem. If you do, draw a card; or banish a darkness gem. If you do, your opponent discards a card.	
+Reduction	ACN	ACN-022	ACN-022	Chant		{w}{1}	2			Light	C	[Quickcast] Target resonator becomes a [0/100] until end of turn.	
+Sacred Temple of Light	ACN	ACN-023	ACN-023	Addition		{w}{2}	3			Light	U	At end of turn => If you don't control a resonator, you may banish this card. If you do, search your deck for a Golem and put it into the field. Then shuffle your deck.	
+Shin-Shin&Rei-Rei, Acrobatic Twins	ACN	ACN-024	ACN-024	Resonator	Panda	{w}{w}{3}	5	1000	1000	Light	R	When this card enters the field => You may banish two light gems. If you do, search your deck for a Panda and put it into the field. Then shuffle your deck.	
+Summon Magic Warriors	ACN	ACN-025	ACN-025	Chant		{w}{w}{1}	3			Light	U	Look at the top seven cards of your deck. Put up to two Golems with a combined total cost of 5 or less from among them into the field. Put the rest on the bottom of your deck in a random order.	
+Ultimate Magic Warrior, Gear Atmos	ACN	ACN-026	ACN-026	Resonator	Golem	{w}{w}{5}	7	2000	2000	Light	R	[Mobilize]{3} You may banish three Golems rather than pay this card's cost. When this card enters the field => Destroy target resonator your opponent controls.	
+White Cat of Sasaru Palace	ACN	ACN-027	ACN-027	Resonator	Cat	{w}	1	200	200	Light	C	When this card is put into a graveyard from the field => Gain a gem of any attribute.	
+White Raven	ACN	ACN-028	ACN-028	Resonator	Bird	{w}	1	300	300	Light	C	[Flying] (This card cannot be blocked by J/resonators without [Flying].) When this card enters the field => You may banish a gem. If you do, draw a card.	
+Wing Rider Panda	ACN	ACN-029	ACN-029	Resonator	Panda	{w}{3}	4	600	1200	Light	C	This card gains [Flying] as long as you control a water gem.	
+Apprentice Beast Tamer	ACN	ACN-030	ACN-030	Resonator	Dragonoid	{r}{2}	3	700	700	Fire	C	When this card enters the field => Target Beast gains [+400/+400] and [Swiftness] until end of turn.	
+Archaeopteryx	ACN	ACN-031	ACN-031	Resonator	Dinosaur	{r}{r}{2}	4	800	800	Fire	U	[Flying] [First Strike]	
+Beast Den on Mt. Hoelle	ACN	ACN-032	ACN-032	Addition		{r}{1}	2			Fire	U	Dragonoids you control gain [+200/+200]. {r}{r}, banish this card: Search your deck for a Dragonoid, reveal it and put it into your hand. Then shuffle your deck.	
+Burning Awakening	ACN	ACN-033	ACN-033	Chant	Battle Arts	{r}{r}	2			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove five strength counters from your J/ruler. Target J/resonator gains [+1000/+1000] until end of turn.	
+Demon Watcher	ACN	ACN-034	ACN-034	Resonator	Demon	{r}{r}{3}	5	800	600	Fire	U	[Flying] When this card is put into a graveyard from the field => It deals 600 damage to target resonator.	
+Devil's Advocate	ACN	ACN-035	ACN-035	Chant		{r}{r}{3}	5			Fire	U	Recover target resonator. Gain control of it until end of turn. It gains [Swiftness] until end of turn.	
+Dino-Rush	ACN	ACN-036	ACN-036	Chant		{r}{1}	2			Fire	C	Target J/resonator you control deals damage equal to its ATK to another target J/resonator.	
+Dragon Call	ACN	ACN-037	ACN-037	Chant		{r}	1			Fire	R	Search your deck for a Dragon, Dragonoid, or Dinosaur, reveal it and put it into your hand. Then shuffle your deck.	
+Dragonoid Martial Artist	ACN	ACN-038	ACN-038	Resonator	Dragonoid	{r}{r}{3}	5	1400	800	Fire	C		
+Environmental Researcher, Fabre	ACN	ACN-039	ACN-039	Resonator	Dragonoid	{r}{r}{3}	5	400	400	Fire	R	[Flying] When this card enters the field => Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.	
+Eruptiphant	ACN	ACN-040	ACN-040	Resonator	Beast	{r}{r}{r}	3	700	700	Fire	R	Beasts you control gain [Swiftness]. Whenever another resonator you control attacks => This card gains [+100/+100] until end of turn.	
+Explorer on Mt. Hoelle	ACN	ACN-041	ACN-041	Resonator	Human	{r}{1}	2	700	500	Fire	C	When this card enters the field => Reveal the top card of your deck. If it's a chant, put it into your hand.	
+Fiend Fire	ACN	ACN-042	ACN-042	Chant		{r}{x}	1			Fire	SR	This card deals 200 damage multiplied by X to target player or resonator. If you spent {d} to play this card, you gain that much life.	
+Fire Dragon's Egg	ACN	ACN-043	ACN-043	Resonator	Dragon	{r}{r}{2}	4	0	100	Fire	C	This card cannot attack or block. When this card is put into a graveyard from the field => Put a [1000/1000] fire Dragon resonator token with [Flying] into the field.	
+Flame Style	ACN	ACN-044	ACN-044	Chant		{r}{r}{2}	4			Fire	U	This card deals 700 damage to each resonator.	
+Flying Drill	ACN	ACN-045	ACN-045	Chant	Battle Arts	{r}	1			Fire	C	[Quickcast] This card deals 1000 damage to target resonator with [Flying]. This card deals 1000 damage to up to one second target resonator with [Flying] if this card was awakened. [Awakening] Remove three strength counters from your J/ruler.	
+Food Supply	ACN	ACN-046	ACN-046	Chant		{r}	1			Fire	C	[Quickcast] Put five strength counters on your J/ruler. Draw a card.	
+Gourmet Chef, Sherry Shera	ACN	ACN-047	ACN-047	Resonator	Dragonoid	{r}{r}{2}	4	1000	1000	Fire	R	When this card enters the field => Put ten strength counters on your J/ruler.	
+Hell Flame	ACN	ACN-048	ACN-048	Chant	Battle Arts	{r}	1			Fire	C	[Quickcast] (You may play this card anytime you have priority.) As an additional cost to play this card, remove X strength counters from your J/ruler. This card deals X00 damage to target J/resonator.	
+High Speed	ACN	ACN-049	ACN-049	Chant	Battle Arts	{r}	1			Fire	U	[Remnant] Target resonator gains [+200/+200] and [Swiftness] until end of turn. [Awakening] Remove four strength counters from your J/ruler: This card deals 400 damage to your opponent.	
+Hoelle Pig	ACN	ACN-050	ACN-050	Resonator	Beast	{r}	1	400	300	Fire	C	Banish this card: Recover your ruler.	
+Hoellesaurus	ACN	ACN-051	ACN-051	Resonator	Dinosaur	{r}{r}	2	600	600	Fire	C	When this card enters the field => It deals 300 damage to target J/resonator.	
+Kaim, Demon of Vice	ACN	ACN-052	ACN-052	Resonator	Demon	{r}{r}{2}	4	1000	1000	Fire	SR	When this card enters the field => Recover target resonator with total cost 2 or less your opponent controls. Gain control of it until end of turn. It gains [Swiftness] until end of turn. Whenever a resonator you control attacks => This card deals 200 damage to your opponent. {r}, banish a resonator: This card gains [Swiftness] until end of turn.	
+Master of Faithful Beasts	ACN	ACN-053	ACN-053	Resonator	Dragonoid	{r}{r}{1}	3	700	700	Fire	U	When this card enters the field => Search your deck for a Beast, reveal it and put it into your hand. Then shuffle your deck.	
+Red Cap	ACN	ACN-054	ACN-054	Resonator	Evil Spirit	{r}	1	200	200	Fire	C	[Swiftness] When this card is put into a graveyard from the field => Search your deck for a card named "Red Cap", reveal it and put it into your hand. Then shuffle your deck.	
+Stone Tongued Basilisk	ACN	ACN-055	ACN-055	Resonator	Beast	{r}{r}	2	600	500	Fire	C	Whenever this card attacks => It gains [+200/0] until end of turn.	
+Two-Horned Almiraj	ACN	ACN-056	ACN-056	Resonator	Beast	{r}	1	500	500	Fire	U	When this card enters the field => It deals 500 damage to you.	
+Vanish in Fire	ACN	ACN-057	ACN-057	Chant	Battle Arts	{r}{r}{r}{r}{r}	5			Fire	R	As an additional cost to play this card, you may remove any number of strength counters from your J/ruler. This card deals X00 damage to each resonator your opponent controls, where X is the number of counters removed. If a resonator dealt damage by this card this turn would be put into a graveyard, remove it from the game instead.	
+Alternating Current Crystal	ACN	ACN-058	ACN-058	Resonator	Magic Lifeform	{u}{u}{2}	4	0	1000	Water	R	Golems you control are mobilized. {u}{1}, [Rest]: You may put a Golem from your hand into the field.	
+Aqua Rifle Mermaid	ACN	ACN-059	ACN-059	Resonator	Mermaid	{u}{u}{1}	3	700	700	Water	C	When this card enters the field => Rest target resonator. If the weather is rain, return it to its owner's hand instead.	
+Aquamarine, Panda Diplomat	ACN	ACN-060	ACN-060	Resonator	Panda	{u}{1}	2	500	700	Water	U	hen this card enters the field => You may banish a water gem. If you do, search your deck for a Mermaid, reveal it and put it into your hand. Then shuffle your deck.	
+Bubble Golem	ACN	ACN-061	ACN-061	Resonator	Golem	{u}{u}	2	1000	1000	Water	C	[Mobilize]{1} (This card cannot attack or block unless its controller pays {1}.) At end of battle => Banish this card if it attacked or blocked.	
+Cleansing Rain	ACN	ACN-062	ACN-062	Chant		{u}{1}	2			Water	C	[Quickcast] (You may play this card anytime you have priority.) Return target resonator to its owner's hand. If the weather is rain, put it on top of its owner's deck instead.	
+Confinement	ACN	ACN-063	ACN-063	Chant		{u}	1			Water	U	[Remnant] [Quickcast] Target resonator cannot attack this turn.	
+Coral Reef Mermaid	ACN	ACN-064	ACN-064	Resonator	Mermaid	{u}{2}	3	700	700	Water	C	When this card is put into a graveyard from the field => Return target resonator your opponent controls to its owner's hand.	
+Electrical Discharge	ACN	ACN-065	ACN-065	Chant		{u}{u}{2}	4			Water	C	Up to two target resonators don't recover during their controller's next recovery phase. This card deals 600 damage to them if the weather is rain.	
+Giant Squid	ACN	ACN-066	ACN-066	Resonator	Squid	{u}{2}	3	500	1000	Water	C		
+Guard at the Coral Palace	ACN	ACN-067	ACN-067	Resonator	Mermaid	{u}{u}{1}	3	400	1200	Water	U	Whenever this card attacks or blocks => Look at the top card of your deck. You may put it on the bottom of your deck.	
+Keez, the Wise Dolphin	ACN	ACN-068	ACN-068	Resonator	Dolphin	{u}{3}	4	700	1000	Water	R	{u}: This card gains [Flying] until end of turn.	
+Keez's Call	ACN	ACN-069	ACN-069	Chant		{u}	1			Water	C	[Quickcast] Cancel target automatic ability of a resonator. Draw a card.	
+Magic Sound Warrior	ACN	ACN-070	ACN-070	Resonator	Golem	{u}{u}{3}	5	1200	1200	Water	U	[Mobilize]{2} Whenever your opponent plays a chant => Recover this card.	
+Magic Water Warrior	ACN	ACN-071	ACN-071	Resonator	Golem	{u}{3}	4	900	900	Water	C	[Flying] [Mobilize] {2}	
+Magical Tidal Surge	ACN	ACN-072	ACN-072	Chant		{u}{u}{u}{2}	5			Water	SR	Return all non-water resonators to their owners' hands.	
+Mega Thunderfish	ACN	ACN-073	ACN-073	Resonator	Fish	{u}{u}{1}	3	800	800	Water	SR	When this card is put into a graveyard from the field => Return target resonator your opponent controls to its owner's hand. If the weather is rain, put it on top of its owner's deck instead. This card gains [+200/+200] and [Swiftness] as long as the weather is thunderstorm.	
+Ocean Floor Archelon	ACN	ACN-074	ACN-074	Resonator	Dinosaur	{u}{u}{4}	6	600	2000	Water	U	Blocking does not cause this card to rest. {u}{u}{u}{u}: This card gains [+400/+1000] until end of turn. This card cannot be blocked until end of turn.	
+Pandora's Order	ACN	ACN-075	ACN-075	Chant		{u}{u}{2}	4			Water	U	[Quickcast] Put target Golem from your graveyard into the field. It is mobilized until end of turn. At the next end of turn => Return it to its owner's hand.	
+Princess Shaela's Attendant	ACN	ACN-076	ACN-076	Resonator	Mermaid	{u}	1			Water	C	This card gains [+200/+200] as long as the weather is rain.	
+Seabed Investigation	ACN	ACN-077	ACN-077	Chant		{u}{u}	2			Water	U	Look at the top four cards of your deck. Put a card from among them into your hand and the rest on the bottom of your deck in any order. If you control a Mermaid, put two cards into your hand and the rest on the bottom of your deck in any order instead.	
+Shaela's Elite	ACN	ACN-078	ACN-078	Resonator	Mermaid	{u}{u}	2	600	600	Water	R	When this card enters the field => Search your deck for a Mermaid not named "Shaela's Elite", reveal it and put it into your hand. Then shuffle your deck.	
+Shaela's Foresight	ACN	ACN-079	ACN-079	Chant		{u}{u}	2			Water	R	[Quickcast] Choose one, if your J/ruler is "Shaela" or "Shaela, the Mermaid Princess", choose up to three instead - Put target attacking resonator on top of its owner's deck; or put target addition on top of its owner's deck; or target player shuffles all magic stones from their graveyard into their magic stone deck, then shuffles all other cards from their graveyard into their deck; or draw a card.	
+Song of Sympathy	ACN	ACN-080	ACN-080	Chant		{u}{u}{u}{u}	4			Water	R	Play this card only if you control two or more Mermaids. Gain control of target resonator.	
+Spinning Aquasol	ACN	ACN-081	ACN-081	Chant		{u}	1			Water	C	[Quickcast] Put target chant from your graveyard into your hand.	
+The Coral Palace	ACN	ACN-082	ACN-082	Addition		{u}{u}	2			Water	U	{u}{u}{2}: Draw a card.	
+Thunderfish	ACN	ACN-083	ACN-083	Resonator	Fish	{u}	1	200	200	Water	C	When this card enters the field => Target resonator doesn't recover during its controller's next recovery phase. When this card is put into a graveyard from the field => Draw a card if the weather is rain.	
+Waterfowl	ACN	ACN-084	ACN-084	Resonator	Bird	{u}{1}	2	400	600	Water	C	[Flying] This card gains [+100/+200] as long as the weather is rain.	
+Weather Change: Rain	ACN	ACN-085	ACN-085	Chant		{u}	1			Water	R	[Quickcast] (You may play this card anytime you have priority.) The weather is rain until end of turn. Draw a card.	
+Absolute Awareness	ACN	ACN-086	ACN-086	Chant	Spirit Magic	{g}{g}	2			Wind	C	Search your magic stone deck for a basic magic stone and put it into the field rested. Then shuffle your magic stone deck.	
+Arrow Trap	ACN	ACN-087	ACN-087	Chant		{g}	1			Wind	U	[Quickcast] This card deals 600 damage to target attacking resonator. If that resonator has [Flying] this card deals 1200 damage instead.	
+Bullseye Bow	ACN	ACN-088	ACN-088	Chant		{g}{g}{2}	4			Wind	C	Choose one - Destroy target resonator with total cost 4 or less; or destroy target resonator. Choose the second only if you control an Elf.	
+Commander of the Crowd	ACN	ACN-089	ACN-089	Resonator	Elf	{g}{g}{g}	3	700	700	Wind	U	When this card enters the field => Put two [100/100] wind Elf resonator tokens into the field. Whenever this card attacks => Other Elves you control gain [+100/+100] until end of turn.	
+Elemental Blast	ACN	ACN-090	ACN-090	Chant	Spirit Magic	{g}	1			Wind	R	This card deals 400 damage to target resonator. [Torrent] This card deals 700 damage instead.	
+Elf in the Trees	ACN	ACN-091	ACN-091	Resonator	Elf	{g}{2}	3	0	800	Wind	C	At the beginning of your main phase => Produce {g}.	
+Elvish Hunter	ACN	ACN-092	ACN-092	Resonator	Elf	{g}{g}{2}	4	600	700	Wind	C	When this card enters the field => It deals 100 damage multiplied by the number of Elves you control to target resonator.	
+Faerur Letoliel | Faerur Letoliel, King of Wind	ACN	ACN-093-r,ACN-093-j	ACN-093	Ruler | J-Ruler	Elf	{g}{g}{1}	3	800	1000	Wind	JR	[Judgement] {g}{g}{1} [Energize] {g} Rest two recovered Elf resonators you control: Recover target magic stone. Play this ability only once per turn. | This card enters the field with four gale protection counters. When this card enters the field => Search your deck for an Elf resonator with total cost 4 or less and put it into the field. Then shuffle your deck. Remove a gale protection counter from this card: Target Elf gains [Barrier] until end of turn. Remove a gale protection counter from this card: Target Elf gains [+300/+300] until end of turn	
+Faerur's Command	ACN	ACN-094	ACN-094	Chant		{g}{g}{g}{4}	7			Wind	R	Recover all resonators you control. Resonators you control gain [+1000/+1000] and [Pierce] until end of turn.	
+Faerur's Escort	ACN	ACN-095	ACN-095	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	C	When this card enters the field => Target an Elf. At the next end of turn => Recover it.	
+Faerur's Spell	ACN	ACN-096	ACN-096	Chant		{g}	1			Wind	U	[Quickcast] Cancel target spell with [Quickcast].	
+Gentle Breeze Elemental	ACN	ACN-097	ACN-097	Chant	Spirit Magic/Elemental	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Draw a card.	
+Great Tornado	ACN	ACN-098	ACN-098	Chant		{g}{6}	7			Wind	SR	As you play this card, you may rest up to six resonators you control. You pay {1} less to play this card for each resonator rested this way. Destroy two target non-magic stone entities.	
+Leaf Archer	ACN	ACN-099	ACN-099	Resonator	Elemental	{g}{3}	4	600	1200	Wind	U	This card can block J/resonators with [Flying]. {g}{g}, [Rest]: This card deals 600 damage to target resonator with [Flying].	
+Leaf Fighter	ACN	ACN-100	ACN-100	Resonator	Elemental	{g}	1	400	400	Wind	C		
+Leaf Guard	ACN	ACN-101	ACN-101	Resonator	Elemental	{g}{1}	2	400	800	Wind	C	Remove an Elemental in your graveyard from the game: This card gains [+200/+200] until end of turn. Play this ability up to two times per turn. Remove an Elemental in your graveyard from the game: This card gains [Barrier] until end of turn.	
+Leaf Healer	ACN	ACN-102	ACN-102	Resonator	Elemental	{g}{g}{3}	5	0	1500	Wind	U	At the end of your turn => Recover all resonators you control.	
+Leaf Knight	ACN	ACN-103	ACN-103	Resonator	Elemental	{g}{g}	2	600	600	Wind	R		
+Messenger of the King	ACN	ACN-104	ACN-104	Resonator	Elf	{g}{g}	2	600	600	Wind	U	When this card enters the field => Up to two target Elves gain [+200/+200] until end of turn.	
+Portal in the Woods	ACN	ACN-105	ACN-105	Addition		{g}{g}	2			Wind	U	When this card enters the field => Put five guidance counters on it. At the end of your turn => Remove a guidance counter from this card. If you do, put a [100/100] wind Elf resonator token into the field.	
+Spirit Caller Elf	ACN	ACN-106	ACN-106	Resonator	Elf	{g}	1	100	100	Wind	C	When this card enters the field => Put a [100/100] wind Elf resonator token into the field.	
+Spiritual Guidance	ACN	ACN-107	ACN-107	Chant	Spirit Magic	{g}{g}{1}	3			Wind	U	Draw two cards. Then you gain 100 life for each card in your hand.	
+Tia Letoliel, Archer Princess of Elves	ACN	ACN-108	ACN-108	Resonator	Elf	{g}{g}{2}	4	900	900	Wind	SR	When this card enters the field => Search your deck for a card named "Tia's White Falcon", reveal it and put it into your hand. Then shuffle your deck. When this card enters the field => Target resonator gains "When damage is dealt to this card => Destroy it." until end of turn. {g}{g}{g}{3}, [Rest]: This card deals 1000 damage to target player.	
+Tia's White Falcon	ACN	ACN-109	ACN-109	Resonator	Beast	{g}	1	200	200	Wind	R	[Flying] As long as you control "Tia Letoliel, Archer Princess of Elves", this card gains [Swiftness]. Whenever this card attacks => It deals 200 damage to target player or resonator.	
+Trap Master Lemuria	ACN	ACN-110	ACN-110	Resonator	Elf	{g}{g}{2}	4	800	1000	Wind	R	[Quickcast] If resonators your opponent controls attacked a total of three times or more this turn, you may pay {g}{g}{2} less to play this card. When this card enters the field => It deals 800 damage to target attacking resonator.	
+Tree Root Sprite	ACN	ACN-111	ACN-111	Resonator	Fairy	{g}{2}	3	800	800	Wind	C	When this card enters the field => Choose one - Destroy target non-magic stone, non-J/resonator entity; or search your deck for an Elemental and put it into your graveyard. Then shuffle your deck.	
+Wind Blade	ACN	ACN-112	ACN-112	Chant	Elemental	{g}{1}	2			Wind	C	[Quickcast] This card deals 300 damage to target resonator, plus an additional 100 damage for each wind magic stone you control.	
+Wind Ferryman	ACN	ACN-113	ACN-113	Resonator	Human	{g}	1	200	200	Wind	C	When this card enters the field => Look at the top three cards of your deck. You may reveal an Elemental or Spirit Magic from among them and put it into your hand. Put the rest on the bottom of your deck in any order.	
+Winds of Vitality	ACN	ACN-114	ACN-114	Chant	Spirit Magic	{g}	1			Wind	C	[Quickcast] (You may play this card anytime you have priority.) Target J/resonator gains [+600/+600] until end of turn.	
+Ahriman, Malicious Eye in the Dark	ACN	ACN-115	ACN-115	Resonator	Familiar	{d}{1}	2	600	600	Darkness	C	When this card is put into a graveyard from the field => Put a mystery counter on your J/ruler.	
+Black Blood Knight	ACN	ACN-116	ACN-116	Resonator	Vampire	{d}{d}{1}	3	800	800	Darkness	U	Whenever this card deals damage => You gain that much life.	
+Bloodspray	ACN	ACN-117	ACN-117	Chant	Mystery	{d}{d}	2			Darkness	C	Draw two cards. This card deals 300 damage to you. [Awakening] Remove a mystery counter from your J/ruler: Destroy target resonator with total cost 2 or less.	
+Dark Elf of the Murky Grove	ACN	ACN-118	ACN-118	Resonator	Dark Elf	{d}{d}{2}	4	800	800	Darkness	C	Whenever damage is dealt to you => Put a [+100/+100] counter on this card.	
+Dark Elf Sorcerer	ACN	ACN-119	ACN-119	Resonator	Dark Elf	{d}{d}{1}	3	700	700	Darkness	U	Whenever a ruler or resonator you control deals damage to you => This card deals that much damage to your opponent.	
+Dark Elf Spy	ACN	ACN-120	ACN-120	Resonator	Dark Elf	{d}	1	400	400	Darkness	C	At the end of your turn => This card deals 100 damage to each player.	
+Dark Night Butterfly	ACN	ACN-121	ACN-121	Chant		{d}	1			Darkness	C	Your opponent discards a card. If this card was awakened, your opponent discards two cards instead. [Awakening] Remove two mystery counters from your J/ruler.	
+Dark Revolution	ACN	ACN-122	ACN-122	Chant		{d}{d}{2}	4			Darkness	R	Put target resonator from your graveyard into the field.	
+Dark Riding Hood	ACN	ACN-123	ACN-123	Resonator	Fairy Tale	{d}{d}{d}	3	700	800	Darkness	SR	This card gains "Whenever this card deals damage to a resonator => Destroy that resonator." as long as your life is 2000 or less. This card gains [Swiftness] as long as your life is 1000 or less. When this card enters the field => You may remove two mystery counters from your J/ruler. If you do, remove target resonator from the game. Whenever this card attacks => It deals 200 damage to target player or resonator. You gain 200 life.	
+Demonic Rabbit	ACN	ACN-124	ACN-124	Resonator	Rabbit/Demon	{d}{2}	3	900	900	Darkness	C	When this card is put into a graveyard from the field => It deals 500 damage to you.	
+Feast on Mortals	ACN	ACN-125	ACN-125	Chant		{d}{d}{2}	4			Darkness	C	As an additional cost to play this card, banish a resonator. This card deals damage equal to the banished resonator's ATK to your opponent. You gain life equal to the banished resonator's DEF.	
+Frayla | Frayla, the Revolutionist	ACN	ACN-126-r,ACN-126-j	ACN-126	Ruler | J-Ruler	Dark Elf	{d}{d}{1}	3	1000	800	Darkness	JR	[Judgment]{d}{d}{1} [Energize]{d} At the end of your turn => You may put target Dark Elf from your graveyard into your hand. If you do, this card deals 300 damage to you. | When this card enters the field => Put target Dark Elf from your graveyard into the field. Whenever this card attacks => Another target Dark Elf you control gains [+400/+400] and [Swiftness] until end of turn. {r}: This card gains [Swiftness] until end of turn. {r}{d}: This card deals 100 damage multiplied by the number of Dark Elves you control to your opponent.	
+Gate to Outer World	ACN	ACN-127	ACN-127	Addition		{d}{d}{2}	4			Darkness	R	When this card enters the field => Your opponent removes a resonator they control from the game. [Rest], [X]: Put a resonator with total cost X from a removed area that was removed by this card into the field.	
+Hilda, Frayla's Left Hand	ACN	ACN-128	ACN-128	Resonator	Dark Elf	{d}{d}	2	400	500	Darkness	R	When this card enters the field => If you do not control a card named "Saffina, Frayla's Right Hand", put target card with that name from your graveyard into the field. This card gains [+300/+200] as long as your life is 2000 or less.	
+Lethal Arrow	ACN	ACN-129	ACN-129	Chant		{d}	1			Darkness	C	[Quickcast] Destroy target damaged resonator.	
+Moon in the Mist	ACN	ACN-130	ACN-130	Chant	Mystery	{d}{d}{2}	4			Darkness	U	[Quickcast] Destroy target resonator. Put a mystery counter on your J/ruler.	
+Moonlight Shadow	ACN	ACN-131	ACN-131	Resonator	Vampire	{d}	1	400	400	Darkness	C		
+Saffina, Frayla's Right Hand	ACN	ACN-132	ACN-132	Resonator	Dark Elf	{d}{d}	2	500	400	Darkness	R	When this card enters the field => If you don't control a card named "Hilda, Frayla's Left Hand", search your deck for a card with that name, reveal it and put it into your hand. Then shuffle your deck. This card gains [+200/+300] as long as your life is 2000 or less.	
+Shade Assassin	ACN	ACN-133	ACN-133	Resonator	Dark Elf	{d}	1	200	200	Darkness	U	Whenever this card deals damage to a resonator => Destroy that resonator. This card gains [Swiftness] as long as you control another Dark Elf.	
+Stealth Demon	ACN	ACN-134	ACN-134	Resonator	Demon	{d}{d}{3}	5	800	600	Darkness	U	[Flying] When this card is put into a graveyard from the field => It deals 600 damage to your opponent.	
+Sword of the New Moon	ACN	ACN-135	ACN-135	Chant	Mystery	{d}	1			Darkness	C	[Quickcast] (You may play this card anytime you have priority.) Choose one - Destroy target resonator with total cost 1 or less; or destroy target resonator with total cost 4 or less if this card was awakened. [Awakening] Remove a mystery counter from your J/ruler.	
+Tactics of the Dark Elves	ACN	ACN-136	ACN-136	Chant		{d}{d}{1}	3			Darkness	U	Up to two target resonators cannot be destroyed until end of turn and gain "Whenever this card deals damage to a resonator => Destroy that resonator." until end of turn.	
+The Three Evil Little Pigs	ACN	ACN-137	ACN-137	Resonator	Fairy Tale	{d}{d}{3}	5	400	400	Darkness	U	When this card enters the field => Put a [400/400] darkness Pig resonator token with "When this card is put into a graveyard from the field => It deals 400 damage to your opponent." and a [400/400] darkness Pig resonator token with "When this card is put into a graveyard from the field => You gain 400 life." into the field.	
+Transforming Vampire	ACN	ACN-138	ACN-138	Resonator	Vampire	{d}{1}	2	500	400	Darkness	C	Whenever this card deals damage => You gain that much life.	
+Treasonous Guard	ACN	ACN-139	ACN-139	Resonator	Dark Elf	{d}{1}	2	600	600	Darkness	C	When this card enters the field => It deals 200 damage to each player.	
+Truth Amongst Darkness	ACN	ACN-140	ACN-140	Chant		{d}{2}	3			Darkness	U	[Remnant] Look at target opponent's hand and choose a card. They remove that card from the game.	
+Vicious Wounded Beast	ACN	ACN-141	ACN-141	Resonator	Dinosaur	{d}{d}{3}	5	1000	1000	Darkness	C	When this card enters the field => Put two mystery counters on your J/ruler.	
+Vitality Drain	ACN	ACN-142	ACN-142	Chant	Mystery	{d}{d}{3}	5			Darkness	SR	[Quickcast] Target player loses 1000 life. You gain 1000 life. [Awakening] Remove a mystery counter from your J/ruler: This card deals 1000 damage to target resonator.	
+Wolf's Rain	ACN	ACN-143	ACN-143	Chant		{d}{2}	2			Darkness	R	Put three [300/300] darkness Beast/Wolf resonator tokens with [Swiftness] and [Precision] into the field. At the next end of turn => Remove them from the game	
+Idol of Magic	ACN	ACN-144	ACN-144	Addition		{1}	1			Void	C	{1}, banish this card: Produce {w}, {r}, {u}, {g}, or {d}. When this card is put into a graveyard from the field => Draw a card.	
+Idol of Vitality	ACN	ACN-145	ACN-145	Addition		{1}	1			Void	C	{1}, banish this card: Target J/resonator gains [+200/+200] until end of turn. Draw a card.	
+Idol of Willpower	ACN	ACN-146	ACN-146	Addition		{1}	1			Void	C	{1}, banish this card: You gain 500 life. Draw a card.	
+Statue in the Sacred Temple	ACN	ACN-147	ACN-147	Addition		{2}	2			Void	C	Magic stones you control gain "[Rest]: Produce {w}, {r}, {u}, {g}, or {d}.". {w}{r}{u}{g}{d}, banish this card: Put a [1000/1000] light Angel resonator token with [Flying] into the field.	
+[Variant] Wing Rider Panda	ACN	ACN-151	ACN-151	Resonator	Panda	{w}{3}	4	800	1000	Light	C	This card gains [Flying] as long as you control a water gem.	
+[Variant] Stone Tongued Basilisk	ACN	ACN-152	ACN-152	Resonator	Beast	{r}{r}	2	500	500	Fire	C	Whenever this card attacks => Target resonator can't block this turn.	
+[Variant] Giant Squid	ACN	ACN-153	ACN-153	Resonator	Squid	{u}{2}	3	600	1000	Water	C		
+[Variant] Faerur's Escort	ACN	ACN-154	ACN-154	Resonator	Elf	{g}{g}{3}	5	1000	1000	Wind	C	When this card enters the field ⇒ Target Elf can't be destroyed until the beginning of your next turn.	
+[Variant] Vicious Wounded Beast	ACN	ACN-155	ACN-155	Resonator	Dinosaur	{d}{d}{3}	4	1000	900	Darkness	C	[First Strike] When this card enters the field => Put two mystery counters on your J/ruler.	
+Treasure Hunter Fierica | Treasure Hunter Fierica (J)	ACN	ACN-161-br,ACN-161-bjr	ACN-161	Basic Ruler | Basic J-Ruler	Human	{w}{w}{2}	4	1000	1000	Light	BJR	[Judgement] {w}{w}{2} At the beginning of the game => Gain a gem of any attribute. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Gain two gems of any one attribute. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
+Martial Artist Pialle Eille | Martial Artist Pialle Eille(J)	ACN	ACN-162-br,ACN-162-bjr	ACN-162	Basic Ruler | Basic J-Ruler	Dragonoid	{r}{r}{2}	4	1000	1000	Fire	BJR	[Judgment] {r}{r}{2} At the beginning of the game => Put ten strength counters on this card. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Put X strength counters on it, where X is fifteen minus the number of strength counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
+Mephina, Mermaid Shaman | Mephina, Mermaid Shaman(J)	ACN	ACN-163-br,ACN-163-bjr	ACN-163	Basic Ruler | Basic J-Ruler	Mermaid	{u}{u}{2}	4	1000	1000	Water	BJR	[Judgment] {u}{u}{2} The weather is rain during your turn. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | The weather is rain. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
+Leaf Elder | Leaf Elder(J)	ACN	ACN-164-br,ACN-164-bjr	ACN-164	Basic Ruler | Basic J-Ruler	Elemental	{g}{g}{2}	4	1000	1000	Wind	BJR	[Judgment] {g}{g}{2} Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
+Bloodsucking Butler | Bloodsucking Butler(J)	ACN	ACN-165-br,ACN-165-bjr	ACN-165	Basic Ruler | Basic J-Ruler	Vampire	{d}{d}{2}	4	1000	1000	Darkness	BJR	[Judgment] {d}{d}{2} At the beginning of the game => Put a mystery counter on this card. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Put three mystery counters on it. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
+	ADK	ADK-001	ADK-001										
+	ADK	ADK-002	ADK-002										
+	ADK	ADK-003	ADK-003										
+	ADK	ADK-004	ADK-004										
+	ADK	ADK-005	ADK-005										
+	ADK	ADK-006	ADK-006										
+	ADK	ADK-007	ADK-007										
+	ADK	ADK-008	ADK-008										
+	ADK	ADK-009	ADK-009										
+	ADK	ADK-010	ADK-010										
+	ADK	ADK-011	ADK-011										
+Light Majin	ADK	ADK-012	ADK-012	Resonator	Wicked Spirit	{w}{1}	2	600	600	Light	U	[Crest]{w}（This card gains the following text as long as you control a light Magic Crest.）--When this card enters the field => Put four [+100/+100] counters on it.	
+Magic Crest of Light	ADK	ADK-013	ADK-013	Addition	Magic Crest	{w}	1			Light	C	When this card enters the field => Distribute four [+100/+100] counters on up to four target resonators.	
+	ADK	ADK-014	ADK-014										
+	ADK	ADK-015	ADK-015										
+	ADK	ADK-016	ADK-016										
+Ra, the Golden Bird	ADK	ADK-017	ADK-017	Resonator	Guardian	{w}{w}	2	200	800	Light	SR	[Quickcast][Flying] When this card enters the field => Change the target of target spell or ability with a single target to this card. Whenever this card is targeted by a spell or ability your opponent controls => Draw a card. {w}{w}: Change the target of target spell or ability targeting only this card.	
+	ADK	ADK-018	ADK-018										
+	ADK	ADK-019	ADK-019										
+	ADK	ADK-020	ADK-020										
+	ADK	ADK-021	ADK-021										
+	ADK	ADK-022	ADK-022										
+	ADK	ADK-023	ADK-023										
+	ADK	ADK-024	ADK-024										
+	ADK	ADK-025	ADK-025										
+	ADK	ADK-026	ADK-026										
+	ADK	ADK-027	ADK-027										
+	ADK	ADK-028	ADK-028										
+Winds of Gold	ADK	ADK-029	ADK-029	Chant		{w}	1			Light	R	[Quickcast] You may pay {w} less to play this card if you control a card named "Ra, the Golden Bird". Target J/resonator or yourself gains [Barrier] until end of turn.	
+	ADK	ADK-030	ADK-030										
+	ADK	ADK-031	ADK-031										
+	ADK	ADK-032	ADK-032										
+	ADK	ADK-033	ADK-033										
+	ADK	ADK-034	ADK-034										
+	ADK	ADK-035	ADK-035										
+	ADK	ADK-036	ADK-036										
+	ADK	ADK-037	ADK-037										
+	ADK	ADK-038	ADK-038										
+	ADK	ADK-039	ADK-039										
+	ADK	ADK-040	ADK-040										
+	ADK	ADK-041	ADK-041										
+Fire Majin	ADK	ADK-042	ADK-042	Resonator	Wicked Spirit	{r}	1	400	400	Fire	U	[Crest]{r} (This card gains the following text as long as you control a fire Magic Crest.) --When this card enters the field => It deals 600 damage to target player or J/resonator.	
+	ADK	ADK-043	ADK-043										
+	ADK	ADK-044	ADK-044										
+	ADK	ADK-045	ADK-045										
+	ADK	ADK-046	ADK-046										
+	ADK	ADK-047	ADK-047										
+	ADK	ADK-048	ADK-048										
+Magic Crest of Fire	ADK	ADK-049	ADK-049	Addition	Magic Crest	{r}{1}	2			Fire	C	When this card enters the field => It deals 600 damage to target resonator.	
+	ADK	ADK-050	ADK-050										
+	ADK	ADK-051	ADK-051										
+	ADK	ADK-052	ADK-052										
+	ADK	ADK-053	ADK-053										
+	ADK	ADK-054	ADK-054										
+	ADK	ADK-055	ADK-055										
+	ADK	ADK-056	ADK-056										
+	ADK	ADK-057	ADK-057										
+Welser, the Archmage | Welser, King of Demons	ADK	ADK-058-r,ADK-058-j	ADK-058	Ruler | J-Ruler	Wizard | Wicked Spirit	{w}{r}{u}{g}{b}	5	1500	1500	Fire	JR	[Judgment] {w}{r}{u}{g}{b} [Energize]{r} Rest a recovered Magic Crest you control: Produce one will of an attribute shared with the Magic Crest rested this way. Spend this will only to do this card's judgment. You may pay the attribute cost of Wicked Spirits and Magic Crests with fire will. | When this card enters the field => You may put a Wicked Spirit resonator from your hand into the field. This card gains [Swiftness] as long as there are three or more different attributes among all Magic Crests you control, and [Imperishable] and [Precision] as long as there are five or more different attributes among all Magic Crests you control. When this card enters the field or whenever it attacks => Your opponent puts three [-100/-100] counters on each J/resonator they control.	
+	ADK	ADK-059	ADK-059										
+	ADK	ADK-060	ADK-060										
+	ADK	ADK-061	ADK-061										
+	ADK	ADK-062	ADK-062										
+	ADK	ADK-063	ADK-063										
+	ADK	ADK-064	ADK-064										
+	ADK	ADK-065	ADK-065										
+	ADK	ADK-066	ADK-066										
+Duplication Mirror	ADK	ADK-067	ADK-067	Addition	Treasury Item	{u}{3}	4			Water	SR	As this card enters the field, choose a non-magic stone, non-J-ruler entity. This card enters the field as a copy of that entity.	
+	ADK	ADK-068	ADK-068										
+	ADK	ADK-069	ADK-069										
+	ADK	ADK-070	ADK-070										
+Magic Crest of Water	ADK	ADK-071	ADK-071	Addition	Magic Crest	{u}	1			Water	C	When this card enters the field => Draw a card.	
+	ADK	ADK-072	ADK-072										
+	ADK	ADK-073	ADK-073										
+	ADK	ADK-074	ADK-074										
+	ADK	ADK-075	ADK-075										
+	ADK	ADK-076	ADK-076										
+	ADK	ADK-077	ADK-077										
+	ADK	ADK-078	ADK-078										
+Shaela's Return	ADK	ADK-079	ADK-079	Chant		{u}	1			Water	C	[Quickcast] Return target resonator with total cost 4 or less to its owner's hand.	
+	ADK	ADK-080	ADK-080										
+	ADK	ADK-081	ADK-081										
+	ADK	ADK-082	ADK-082										
+	ADK	ADK-083	ADK-083										
+	ADK	ADK-084	ADK-084										
+	ADK	ADK-085	ADK-085										
+Water Majin	ADK	ADK-086	ADK-086	Resonator	Wicked Spirit	{u}{1}	2	600	600	Water	U	[Crest]{u} (This card gains the following text as long as you control a water Magic Crest.) --When this card enters the field => Draw a card.	
+	ADK	ADK-087	ADK-087										
+	ADK	ADK-088	ADK-088										
+	ADK	ADK-089	ADK-089										
+	ADK	ADK-090	ADK-090										
+Destruction of the Portal	ADK	ADK-091	ADK-091	Chant		{g}{1}	2			Wind	U	[Quickcast][Remnant] Destroy target addition.	
+	ADK	ADK-092	ADK-092										
+	ADK	ADK-093	ADK-093										
+	ADK	ADK-094	ADK-094										
+	ADK	ADK-095	ADK-095										
+	ADK	ADK-096	ADK-096										
+	ADK	ADK-097	ADK-097										
+	ADK	ADK-098	ADK-098										
+	ADK	ADK-099	ADK-099										
+	ADK	ADK-100	ADK-100										
+	ADK	ADK-101	ADK-101										
+	ADK	ADK-102	ADK-102										
+	ADK	ADK-103	ADK-103										
+	ADK	ADK-104	ADK-104										
+Magic Crest of Wind	ADK	ADK-105	ADK-105	Addition	Magic Crest	{g}{2}	3			Wind	C	When this card enters the field => Put the top card of your magic stone deck into the field.	
+Otherworld Dreams	ADK	ADK-106	ADK-106	Chant		{g}	1			Wind	U	[Quickcast] Cancel target spell your opponent controls. Then your opponent may play a card with total cost equal to or less than the total cost of the card cancelled this way from their hand without paying its cost.	
+	ADK	ADK-107	ADK-107										
+	ADK	ADK-108	ADK-108										
+	ADK	ADK-109	ADK-109										
+	ADK	ADK-110	ADK-110										
+	ADK	ADK-111	ADK-111										
+	ADK	ADK-112	ADK-112										
+	ADK	ADK-113	ADK-113										
+	ADK	ADK-114	ADK-114										
+	ADK	ADK-115	ADK-115										
+Wind Majin	ADK	ADK-116	ADK-116	Resonator	Wicked Spirit	{g}{g}{2}	4	900	900	Wind	C	[Crest]{g} (This card gains the following text as long as you control a wind Magic Crest.) --When this card enters the field => Search your magic stone deck for a card and put it into the field. Then shuffle your magic stone deck.	
+Advent of the Demon King	ADK	ADK-117	ADK-117	Chant		{b}{b}{1}	3			Darkness	U	Choose one - J/resonators gain [-500/-500] until end of turn; or if your ruler is "Welser, the Archmage", you may pay {0} to do judgment until end of turn.	
+	ADK	ADK-118	ADK-118										
+Beelzebub, Lord of Flies	ADK	ADK-119	ADK-119	Resonator	Wicked Spirit	{b}{b}{3}	5	1500	1500	Darkness	SR	[Flying] When this card enters the field => Put five [-100/-100] counters on it. Whenever a resonator your opponent controls with a [-100/-100] counter on it is put into a graveyard from the field => Put a [-100/-100] counter on this card. Remove a [-100/-100] counter from this card: Put a [-100/-100] counter on another target resonator.	
+	ADK	ADK-120	ADK-120										
+	ADK	ADK-121	ADK-121										
+	ADK	ADK-122	ADK-122										
+	ADK	ADK-123	ADK-123										
+	ADK	ADK-124	ADK-124										
+	ADK	ADK-125	ADK-125										
+	ADK	ADK-126	ADK-126										
+	ADK	ADK-127	ADK-127										
+	ADK	ADK-128	ADK-128										
+Darkness Majin	ADK	ADK-129	ADK-129	Resonator	Wicked Spirit	{b}{b}{1}	3	800	800	Darkness	U	[Crest]{b} (This card gains the following text as long as you control a darkness Magic Crest.) --When this card enters the field => Destroy target resonator with total cost 2 or less.	
+	ADK	ADK-130	ADK-130										
+	ADK	ADK-131	ADK-131										
+	ADK	ADK-132	ADK-132										
+	ADK	ADK-133	ADK-133										
+	ADK	ADK-134	ADK-134										
+	ADK	ADK-135	ADK-135										
+	ADK	ADK-136	ADK-136										
+Magic Crest of Darkness	ADK	ADK-137	ADK-137	Addition	Magic Crest	{b}	1			Darkness	C	When this card enters the field => Put target resonator from your graveyard into your hand.	
+	ADK	ADK-138	ADK-138										
+	ADK	ADK-139	ADK-139										
+	ADK	ADK-140	ADK-140										
+	ADK	ADK-141	ADK-141										
+	ADK	ADK-142	ADK-142										
+	ADK	ADK-143	ADK-143										
+	ADK	ADK-144	ADK-144										
+	ADK	ADK-145	ADK-145										
+	ADK	ADK-146	ADK-146										
+	ADK	ADK-147	ADK-147										
+	ADK	ADK-148	ADK-148										
+	ADK	ADK-149	ADK-149										
+	ADK	ADK-150	ADK-150										
+	ADK	ADK-151	ADK-151										
+	ADK	ADK-152	ADK-152										
+	ADK	ADK-153	ADK-153										
+	ADK	ADK-154	ADK-154										
+	ADK	ADK-155	ADK-155										
+	ADK	ADK-156	ADK-156										
+	ADK	ADK-157	ADK-157										
+	ADK	ADK-158	ADK-158										
+	ADK	ADK-159	ADK-159										
+	ADK	ADK-160	ADK-160										
+	ADK	ADK-161	ADK-161										
+	ADK	ADK-162	ADK-162										
+	ADK	ADK-163	ADK-163										
+	ADK	ADK-164	ADK-164										
+	ADK	ADK-165	ADK-165										

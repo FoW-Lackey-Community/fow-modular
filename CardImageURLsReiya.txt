@@ -302,7 +302,8 @@ ADK/ADK-057.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/AD
 ADK/ADK-058-r.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-058-r.jpg
 ADK/ADK-058-j.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-058-j.jpg
 ADK/ADK-059.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-059.jpg
-ADK/ADK-060.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-060.jpg
+ADK/ADK-060-r.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-060-r.jpg
+ADK/ADK-060-j.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-060-j.jpg
 ADK/ADK-061.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-061.jpg
 ADK/ADK-062.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-062.jpg
 ADK/ADK-063.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/ADK/low/ADK-063.jpg

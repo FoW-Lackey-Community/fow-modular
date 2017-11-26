@@ -212,8 +212,8 @@ Mephina, Mermaid Shaman | Mephina, Mermaid Shaman(J)	ACN	ACN-163-br,ACN-163-bjr	
 Leaf Elder | Leaf Elder(J)	ACN	ACN-164-br,ACN-164-bjr	ACN-164	Basic Ruler | Basic J-Ruler	Elemental	{g}{g}{2}	4	1000	1000	Wind	BJR	[Judgment] {g}{g}{2} Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | Remove an Elemental in your graveyard from the game: Produce {g}. Spend this will only to play Spirit Magic chants. Play this ability only once per turn. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
 Bloodsucking Butler | Bloodsucking Butler(J)	ACN	ACN-165-br,ACN-165-bjr	ACN-165	Basic Ruler | Basic J-Ruler	Vampire	{d}{d}{2}	4	1000	1000	Darkness	BJR	[Judgment] {d}{d}{2} At the beginning of the game => Put a mystery counter on this card. At the beginning of the game => Put two limited counters on this card. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}. | When this card enters the field => Put three mystery counters on it. {1}, remove a limited counter from this card: Produce {w}, {r}, {u}, {g}, or {d}.	
 	ADK	ADK-001	ADK-001										
-	ADK	ADK-002	ADK-002										
-	ADK	ADK-003	ADK-003										
+Gem Blade Opal	ADK	ADK-002	ADK-002	Resonator	Panada	{w}{w}	2	600	600	Light	U	Whenever you gain a gem ⇒ Prevent all damage that would be dealt to this card until end of turn.	
+Gem Boat Alexandrite	ADK	ADK-003	ADK-003	Resonator	Airship	{w}{w}{4}	6	0	1500	Light	R	[Flying] When this card enters the field ⇒ Remove target resonator from the game. [Rest], banish three gems: Remove target non-magic stone, non-J-ruler entity from the game.	
 Gem Jail	ADK	ADK-004	ADK-004	Chant		{w}{x}	1			Light	U	As an additional cost to play this card, banish X gems. Remove X target resonators from the game.	
 	ADK	ADK-005	ADK-005										
 	ADK	ADK-006	ADK-006										
@@ -224,46 +224,46 @@ Gem Jail	ADK	ADK-004	ADK-004	Chant		{w}{x}	1			Light	U	As an additional cost to 
 	ADK	ADK-011	ADK-011										
 Light Majin	ADK	ADK-012	ADK-012	Resonator	Wicked Spirit	{w}{1}	2	600	600	Light	U	[Crest]{w}（This card gains the following text as long as you control a light Magic Crest.）--When this card enters the field => Put four [+100/+100] counters on it.	
 Magic Crest of Light	ADK	ADK-013	ADK-013	Addition	Magic Crest	{w}	1			Light	C	When this card enters the field => Distribute four [+100/+100] counters on up to four target resonators.	
-	ADK	ADK-014	ADK-014										
+Magic Warrior on the Floating Isle	ADK	ADK-014	ADK-014	Resonator	Golem	{w}	1	0	1500	Light	C	[Mobilize]{1}	
 	ADK	ADK-015	ADK-015										
 	ADK	ADK-016	ADK-016										
 Ra, the Golden Bird	ADK	ADK-017	ADK-017	Resonator	Guardian	{w}{w}	2	200	800	Light	SR	[Quickcast][Flying] When this card enters the field => Change the target of target spell or ability with a single target to this card. Whenever this card is targeted by a spell or ability your opponent controls => Draw a card. {w}{w}: Change the target of target spell or ability targeting only this card.	
-	ADK	ADK-018	ADK-018										
+Rainbow Shimmers	ADK	ADK-018	ADK-018	Chant		{w}	1			Light	SR	[Quickcast] Choose one - Look at the top X cards of your deck, where X is the number of gems you control. Put a card from among them into your hand and the rest on the bottom of your deck in a random order; or destroy target non-magic stone, non-J/resonator entity with total cost X or less, where X is the number of gems you control.	
 Rallying Song of the Panda	ADK	ADK-019	ADK-019	Chant		{w}{1}	2			Light	U	[Quickcast] J/resonators you control gain [+200/+200] until end of turn. Pandas you control gain [+200/+200] until end of turn.	
 	ADK	ADK-020	ADK-020										
 Rose Quartz, the Panda Queen	ADK	ADK-021	ADK-021	Resonator	Panda	{w}{w}{w}{w}{w}	5	1000	1000	Light	R	You may pay {w} less to play this card for each Panda you control. When this card enters the field => Pandas you control gain [+400/+400] until end of turn. At the end of your turn => Recover all Pandas you control.	
-	ADK	ADK-022	ADK-022										
-	ADK	ADK-023	ADK-023										
+Sealing the Gates of Darkness	ADK	ADK-022	ADK-022	Chant		{w}	1			Light	U	[Quickcast] Remove target darkness resonator from the game.	
+Soothsayer Panda	ADK	ADK-023	ADK-023	Resonator	Panda	{w}{1}	2	600	500	Light	C	When this card enters the field ⇒ Reveal the top card of your deck. If it's a Panda, put it into your hand.	
 	ADK	ADK-024	ADK-024										
-	ADK	ADK-025	ADK-025										
-	ADK	ADK-026	ADK-026										
+The Floating Isle	ADK	ADK-025	ADK-025	Addition		{w}{w}{1}	3			Light	U	[Quickcast] Each player may only play one card per turn.	
+Voyage to the Floating Isle	ADK	ADK-026	ADK-026	Chant		{w}	1			Light	R	Search your deck for a resonator with [Flying], reveal it and put it into your hand. Then shuffle your deck.	
 White Dog of Sasaru Palace	ADK	ADK-027	ADK-027	Resonator	Beast	{w}{1}	2	600	600	Light	C	Whenever you gain a gem => This card gains [+100/+100] until end of turn.	
 	ADK	ADK-028	ADK-028										
 Winds of Gold	ADK	ADK-029	ADK-029	Chant		{w}	1			Light	R	[Quickcast] You may pay {w} less to play this card if you control a card named "Ra, the Golden Bird". Target J/resonator or yourself gains [Barrier] until end of turn.	
 	ADK	ADK-030	ADK-030										
-	ADK	ADK-031	ADK-031										
+Callous Blaze	ADK	ADK-031	ADK-031	Chant		{r}{1}	2			Fire	C	[Quickcast] This card deals 600 damage to target player or J/resonator.	
 	ADK	ADK-032	ADK-032										
-	ADK	ADK-033	ADK-033										
+Cross Counter	ADK	ADK-033	ADK-033	Chant	Battle Arts	{r}	1			Fire	C	[Quickcast] As an additional cost to play this card, remove X strength counters from your J/ruler. Prevent the next 400 damage multiplied by X that would be dealt to target J/resonator or yourself this turn.	
 	ADK	ADK-034	ADK-034										
 	ADK	ADK-035	ADK-035										
-	ADK	ADK-036	ADK-036										
+Dragonoid Rogue	ADK	ADK-036	ADK-036	Resonator	Dragonoid	{r}	1	400	200	Fire	C	[Swiftness] At end of turn ⇒ Return this card to its owner's hand.	
 Elixir, the Majin	ADK	ADK-037	ADK-037	Resonator	Wicked Spirit	{r}{r}{2}	4	1000	1000	Fire	SR	[Crest]{r} (This card gains the following text as long as you control a fire Magic Crest.) --When this card enters the field => It deals 600 damage to each resonator your opponent controls. [Crest]{b} (This card gains the following text as long as you control a darkness Magic Crest.) --When this card enters the field => Destroy target resonator.	
 Elixir's Fighting Spirit	ADK	ADK-038	ADK-038	Chant		{r}	1			Fire	R	[Quickcast][Remnant] Target J/resonator gains [+400/0] and [First Strike] until end of turn.	
 	ADK	ADK-039	ADK-039										
-	ADK	ADK-040	ADK-040										
+Fast Food	ADK	ADK-040	ADK-040	Chant		{r}	1			Fire	C	Choose one - Put five strength counters on your J/ruler; or banish a resonator. If you do, put ten strength counters on your J/ruler; or banish a Beast resonator. If you do, put fifteen strength counters on your J/ruler.	
 	ADK	ADK-041	ADK-041										
 Fire Majin	ADK	ADK-042	ADK-042	Resonator	Wicked Spirit	{r}	1	400	400	Fire	U	[Crest]{r} (This card gains the following text as long as you control a fire Magic Crest.) --When this card enters the field => It deals 600 damage to target player or J/resonator.	
 Fire Wave	ADK	ADK-043	ADK-043	Chant		{r}{r}{r}{3}	6			Fire	U	As you play this card, you may banish a Wicked Spirit resonator. If you do, you may pay {2} less to play this card. This card deals 1200 damage to each resonator your opponent controls.	
 	ADK	ADK-044	ADK-044										
-	ADK	ADK-045	ADK-045										
+Frayla, Servant of Demon Fire	ADK	ADK-045	ADK-045	Resonator	Dark Elf/Wicked Spirit	{r}{1}	2	600	600	Fire	SR	When this card enters the field ⇒ It gains [Swiftness] until end of turn if you don't control another resonator. Whenever this card attacks ⇒ Another target resonator you control may gain [+400/0] and [Swiftness] until end of turn. If it does, at the next end of turn ⇒ Its controller banishes it.	
 	ADK	ADK-046	ADK-046										
 	ADK	ADK-047	ADK-047										
-	ADK	ADK-048	ADK-048										
+Hoelle Chicken	ADK	ADK-048	ADK-048	Resonator	Beast	{r}	1	300	300	Fire	C	When this card is put into a graveyard from the field ⇒ Put three strength counters on your J/ruler.	
 Magic Crest of Fire	ADK	ADK-049	ADK-049	Addition	Magic Crest	{r}{1}	2			Fire	C	When this card enters the field => It deals 600 damage to target resonator.	
 	ADK	ADK-050	ADK-050										
-	ADK	ADK-051	ADK-051										
+Majin Dark Elf	ADK	ADK-051	ADK-051	Resonator	Dark Elf	{r}	1	600	600	Fire	U	[Swiftness] Play this card only if damage was dealt to you this turn.	
 	ADK	ADK-052	ADK-052										
-	ADK	ADK-053	ADK-053										
+Majin Sublimation	ADK	ADK-053	ADK-053	Chant		{r}	1			Fire	R	As an additional cost to play this card, banish a resonator. Search your deck for a Wicked Spirit with total cost X or less, where X is the banished resonator's total cost plus 2, and put it into the field. Then shuffle your deck.	
 	ADK	ADK-054	ADK-054										
 	ADK	ADK-055	ADK-055										
 	ADK	ADK-056	ADK-056										
@@ -271,29 +271,29 @@ Magic Crest of Fire	ADK	ADK-049	ADK-049	Addition	Magic Crest	{r}{1}	2			Fire	C	W
 Welser, the Archmage | Welser, King of Demons	ADK	ADK-058-r,ADK-058-j	ADK-058	Ruler | J-Ruler	Wizard | Wicked Spirit	{w}{r}{u}{g}{b}	5	1500	1500	Fire	JR	[Judgment] {w}{r}{u}{g}{b} [Energize]{r} Rest a recovered Magic Crest you control: Produce one will of an attribute shared with the Magic Crest rested this way. Spend this will only to do this card's judgment. You may pay the attribute cost of Wicked Spirits and Magic Crests with fire will. | When this card enters the field => You may put a Wicked Spirit resonator from your hand into the field. This card gains [Swiftness] as long as there are three or more different attributes among all Magic Crests you control, and [Imperishable] and [Precision] as long as there are five or more different attributes among all Magic Crests you control. When this card enters the field or whenever it attacks => Your opponent puts three [-100/-100] counters on each J/resonator they control.	
 	ADK	ADK-059	ADK-059										
 Ayu, Lunar Swordswoman | Ayu, Shaman Swordswoman	ADK	ADK-060-r,ADK-060-j	ADK-060	Ruler | J-Ruler	Wererabbit	{u}{1}	2	1000	1000	Water	JR	[Judgment] {u}{1} [Energize]{u} At the beginning of the game => Draw a card. You may not have more than one copy of any card in your deck. | [Imperishable] When this card enters the field => Search your deck for a Soul resonator, reveal it and put it into your hand. Then shuffle your deck. Discard a Soul resonator: This card gains [+500/+500], [Flying], and [First Strike] until end of turn. God's Art {0}: Name a card. Reveal cards from the top of your deck until you reveal the named card. Put that card into your hand, and remove the rest from the game.	
-	ADK	ADK-061	ADK-061										
+Ayu's Pictorial Scroll	ADK	ADK-061	ADK-061	Addition	Treaury Item	{u}{1}	2			Water	U	When this card enters the field ⇒ Reveal the top card of your deck. If it's a resonator with total cost 3 or less, put it into the field. Otherwise, put it into your hand. If your J/ruler is "Ayu, Lunar Swordswoman" or "Ayu, Shaman Swordswoman", put it into the field if it's a resonator with total cost 5 or less instead.	
 	ADK	ADK-062	ADK-062										
 Ayu's Swordstrike	ADK	ADK-063	ADK-063	Chant		{u}	1			Water	U	[Quickcast] Reveal the top five cards of your deck. If none of them shares a name, destroy target resonator. Put the revealed cards on the bottom of your deck in any order.	
-	ADK	ADK-064	ADK-064										
-	ADK	ADK-065	ADK-065										
+Crier Mermaid	ADK	ADK-064	ADK-064	Resonator	Mermaid	{u}{u}	2	400	500	Water	C	Whenever this card blocks ⇒ Prevent all damage that would be dealt to this card this turn. This card gains [+200/+200] as long as the weather is rain.	
+Dinosaur Surfacing	ADK	ADK-065	ADK-065	Chant		{u}	1			Water	C	Search your deck for a Dinosaur resonator, reveal it and put it into your hand. Then shuffle your deck. [Awakening]{u}{3}: Put it into the field instead.	
 	ADK	ADK-066	ADK-066										
 Duplication Mirror	ADK	ADK-067	ADK-067	Addition	Treasury Item	{u}{3}	4			Water	SR	As this card enters the field, choose a non-magic stone, non-J-ruler entity. This card enters the field as a copy of that entity.	
 	ADK	ADK-068	ADK-068										
 	ADK	ADK-069	ADK-069										
-	ADK	ADK-070	ADK-070										
+Lowly Spirit Bug	ADK	ADK-070	ADK-070	Resonator	Insect/Soul	{u}	1	100	100	Water	C	[Swiftness] When this card enters the field ⇒ Draw a card.	
 Magic Crest of Water	ADK	ADK-071	ADK-071	Addition	Magic Crest	{u}	1			Water	C	When this card enters the field => Draw a card.	
 	ADK	ADK-072	ADK-072										
 	ADK	ADK-073	ADK-073										
 	ADK	ADK-074	ADK-074										
-	ADK	ADK-075	ADK-075										
-	ADK	ADK-076	ADK-076										
+Misty Dragon Spirit	ADK	ADK-075	ADK-075	Resonator	Dragon/Soul	{u}{u}{2}	4	900	900	Water	SR	[Flying]{0}: Remove this card from the game. At the next end of turn ⇒ Put it into the field under its owner's control. {1}: This card gains [+100/+100] until end of turn. Play this ability only if your J/ruler is "Ayu, Lunar Swordswoman" or "Ayu, Shaman Swordswoman". When this card is put into a graveyard from your hand ⇒ Target J/resonator gains [Flying] until end of turn.	
+Mosasaurus	ADK	ADK-076	ADK-076	Resonator	Dinosaur	{u}{u}{3}	5	1500	1000	Water	R	When this card enters the field ⇒ Choose one - Destroy target rested resonator; or three target magic stones don't recover during their controller's next recovery phase.	
 	ADK	ADK-077	ADK-077										
 	ADK	ADK-078	ADK-078										
 Shaela's Return	ADK	ADK-079	ADK-079	Chant		{u}	1			Water	C	[Quickcast] Return target resonator with total cost 4 or less to its owner's hand.	
 	ADK	ADK-080	ADK-080										
 	ADK	ADK-081	ADK-081										
 	ADK	ADK-082	ADK-082										
-	ADK	ADK-083	ADK-083										
+Unexpected Visitor	ADK	ADK-083	ADK-083	Chant		{u}	1			Water	U	[Quickcast] Resonators in your hand gain [Quickcast] until end of turn.	
 Valorous Tiger Spirit	ADK	ADK-084	ADK-084	Resonator	Beast/Soul	{u}{u}{3}	5	1200	1200	Water	R	[Precision] If your J/ruler is "Ayu, Lunar Swordswoman" or "Ayu, Shaman Swordswoman", you may pay {1} less to play this card. When this card is put into a graveyard from your hand => Target J/resonator gains [Precision] until end of turn.	
 	ADK	ADK-085	ADK-085										
 Water Majin	ADK	ADK-086	ADK-086	Resonator	Wicked Spirit	{u}{1}	2	600	600	Water	U	[Crest]{u} (This card gains the following text as long as you control a water Magic Crest.) --When this card enters the field => Draw a card.	
@@ -305,47 +305,47 @@ Destruction of the Portal	ADK	ADK-091	ADK-091	Chant		{g}{1}	2			Wind	U	[Quickcas
 	ADK	ADK-092	ADK-092										
 	ADK	ADK-093	ADK-093										
 	ADK	ADK-094	ADK-094										
-	ADK	ADK-095	ADK-095										
+Envoy of the Dragon Priestess	ADK	ADK-095	ADK-095	Resonator	Dragonoid	{g}{g}{1}	3	700	700	Wind	C	When this card enters the field ⇒ Look at the top four cards of your deck. You may reveal a Dragonoid from among them and put it into your hand. Put the rest on the bottom of your deck in any order.	
 	ADK	ADK-096	ADK-096										
 	ADK	ADK-097	ADK-097										
 	ADK	ADK-098	ADK-098										
 	ADK	ADK-099	ADK-099										
 	ADK	ADK-100	ADK-100										
-	ADK	ADK-101	ADK-101										
-	ADK	ADK-102	ADK-102										
+Leaf Garb	ADK	ADK-101	ADK-101	Resonator	Elemental/Elf	{g}{1}	2	600	600	Wind	C	When this card enters the field ⇒ Search your deck for up to two resonators with "Leaf" in their names and put them into your graveyard. Then shuffle your deck.	
+Leaf Golem	ADK	ADK-102	ADK-102	Resonator	Elemental/Golem	{g}{g}{3}	5	1500	1500	Wind	R	[Mobilize]{1} As you play this card, you may banish a "Leaf Wing" and a "Leaf Fighter". If you do, you may pay {g}{g}{3} less to play this card. Banish a "Leaf Wing" and a "Leaf Fighter": Put this card from your graveyard into the field.	
 	ADK	ADK-103	ADK-103										
-	ADK	ADK-104	ADK-104										
+Leaf Wing	ADK	ADK-104	ADK-104	Resonator	Elemental/Beast	{g}	1	300	300	Wind	C	[Flying]	
 Magic Crest of Wind	ADK	ADK-105	ADK-105	Addition	Magic Crest	{g}{2}	3			Wind	C	When this card enters the field => Put the top card of your magic stone deck into the field.	
 Otherworld Dreams	ADK	ADK-106	ADK-106	Chant		{g}	1			Wind	U	[Quickcast] Cancel target spell your opponent controls. Then your opponent may play a card with total cost equal to or less than the total cost of the card cancelled this way from their hand without paying its cost.	
 Phase Shift	ADK	ADK-107	ADK-107	Chant	Spirit Magic	{g}{g}	2			Wind	U	[Quickcast] Change the target of target chant targeting a J/resonator you control. (The new target must be legal.)	
 	ADK	ADK-108	ADK-108										
-	ADK	ADK-109	ADK-109										
-	ADK	ADK-110	ADK-110										
+Ryula, the Dragon Priestess	ADK	ADK-109	ADK-109	Resonator	Dragonoid	{g}{g}	2	600	600	Wind	SR	You may pay {1} less to play Elemental resonators. When this card enters the field ⇒ Put all Elemental cards from your removed area into your graveyard. [Awakening]{g}{1}: When this card enters the field ⇒ Search your deck for a card named "Viola, the Dragon Priestess" and put it into the field. Then shuffle your deck.	
+The Eternal Tower	ADK	ADK-110	ADK-110	Addition		{g}{g}{1}	3			Wind	U	Whenever a chant with total cost 1 or less is played ⇒ Cancel it.	
 	ADK	ADK-111	ADK-111										
 	ADK	ADK-112	ADK-112										
 	ADK	ADK-113	ADK-113										
 Ultra-Awakening	ADK	ADK-114	ADK-114	Chant	Spirit Magic/Elemental	{g}{5}	6			Wind	R	[Quickcast] Target J/resonator gains [+2000/+2000] until end of turn.	
-	ADK	ADK-115	ADK-115										
+Viola, the Dragon Priestess	ADK	ADK-115	ADK-115	Resonator	Dragonoid	{g}{g}	2			Wind	SR	As this card enters the field, you may remove up to six Elementals in your graveyard from the game. When this card enters the field ⇒ Choose up to one for each two cards removed by this card - Draw a card; or put target resonator with total cost 2 or less on the bottom of its owner's deck; or produce {g}{g}. [Awakening]{g}{1}: When this card enters the field ⇒ Search your deck for a card named "Ryula, the Dragon Priestess" and put it into the field. Then shuffle your deck.	
 Wind Majin	ADK	ADK-116	ADK-116	Resonator	Wicked Spirit	{g}{g}{2}	4	900	900	Wind	C	[Crest]{g} (This card gains the following text as long as you control a wind Magic Crest.) --When this card enters the field => Search your magic stone deck for a card and put it into the field. Then shuffle your magic stone deck.	
 Advent of the Demon King	ADK	ADK-117	ADK-117	Chant		{b}{b}{1}	3			Darkness	U	Choose one - J/resonators gain [-500/-500] until end of turn; or if your ruler is "Welser, the Archmage", you may pay {0} to do judgment until end of turn.	
 	ADK	ADK-118	ADK-118										
 Beelzebub, Lord of Flies	ADK	ADK-119	ADK-119	Resonator	Wicked Spirit	{b}{b}{3}	5	1500	1500	Darkness	SR	[Flying] When this card enters the field => Put five [-100/-100] counters on it. Whenever a resonator your opponent controls with a [-100/-100] counter on it is put into a graveyard from the field => Put a [-100/-100] counter on this card. Remove a [-100/-100] counter from this card: Put a [-100/-100] counter on another target resonator.	
 	ADK	ADK-120	ADK-120										
 	ADK	ADK-121	ADK-121										
-	ADK	ADK-122	ADK-122										
-	ADK	ADK-123	ADK-123										
+Ceaseless Devotion	ADK	ADK-122	ADK-122	Chant		{b}{1}	2			Darkness	C	[Quickcast] As long as target resonator you control is in the field, if damage would be dealt to you, it's dealt to that resonator instead until end of turn.	
+Command of Life and Death	ADK	ADK-123	ADK-123	Chant		{b}{1}	2			Darkness	C	Put target resonator with total cost 3 or less from your graveyard into the field.	
 	ADK	ADK-124	ADK-124										
 	ADK	ADK-125	ADK-125										
 Dance in the Moonlight	ADK	ADK-126	ADK-126	Chant	Mystery	{b}{b}{2}	4			Darkness	R	This card deals 800 damage to each resonator. [Awakening] Remove two mystery counters from your J/ruler: Destroy all resonators instead.	
-	ADK	ADK-127	ADK-127										
-	ADK	ADK-128	ADK-128										
+Dark Blade's Harvest	ADK	ADK-127	ADK-127	Chant	Mystery	{b}{b}{1}	3			Darkness	C	Destroy target resonator. [Awakening] Remove two mystery counters from your J/ruler: This card deals damage equal to the ATK of that resonator to your opponent.	
+Dark Elf Fugitive	ADK	ADK-128	ADK-128	Resonator	Dark Elf	{b}{b}{2}	4	800	800	Darkness	U	When this card enters the field ⇒ Search your deck for an Elf or Dark Elf, reveal it and put it into your hand. Then shuffle your deck.	
 Darkness Majin	ADK	ADK-129	ADK-129	Resonator	Wicked Spirit	{b}{b}{1}	3	800	800	Darkness	U	[Crest]{b} (This card gains the following text as long as you control a darkness Magic Crest.) --When this card enters the field => Destroy target resonator with total cost 2 or less.	
 	ADK	ADK-130	ADK-130										
-	ADK	ADK-131	ADK-131										
-	ADK	ADK-132	ADK-132										
+Digestion	ADK	ADK-131	ADK-131	Chant		{b}{1}	2			Darkness	U	[Quickcast] Destroy target wind resonator.	
+Faith in the Darkness	ADK	ADK-132	ADK-132	Chant		{b}{b}	2			Darkness	R	Look at the top five cards of your deck. You may put a resonator with total cost 2 or less from among them into the field. If you put "Jeanne d'Arc, Mad Maiden" into the field this way, put two [+100/+100] counters on it and it gains [Swiftness] and [First Strike] until end of turn. Put the rest on the bottom of your deck in any order.	
 	ADK	ADK-133	ADK-133										
-	ADK	ADK-134	ADK-134										
-	ADK	ADK-135	ADK-135										
+Hilda and Saffina	ADK	ADK-134	ADK-134	Resonator	Dark Elf/Zombie	{b}{b}{b}{b}	4	1000	1000	Darkness	R	When this card enters the field ⇒ You lose 1000 life. When this card leaves the field ⇒ You gain 1000 life. This card gains [Swiftness], [Flying], and [First Strike] as long as your life is 1000 or less.	
+Jeanne d'Arc, Mad Maiden	ADK	ADK-135	ADK-135	Resonator	Human	{b}{b}	2	700	500	Darkness	SR	This card gains [Swiftness] and "This card cannot be destroyed." as long as you control three or more J/resonators. If this card would deal damage to a J/resonator, put a [-100/-100] counter on that J/resonator for each 100 damage instead.	
 	ADK	ADK-136	ADK-136										
 Magic Crest of Darkness	ADK	ADK-137	ADK-137	Addition	Magic Crest	{b}	1			Darkness	C	When this card enters the field => Put target resonator from your graveyard into your hand.	
 	ADK	ADK-138	ADK-138										
@@ -360,7 +360,7 @@ The Welser Copy	ADK	ADK-144	ADK-144	Resonator	Wicked Spirit	{b}{b}{2}	4	900	800	
 	ADK	ADK-147	ADK-147										
 	ADK	ADK-148	ADK-148										
 Majin Stone	ADK	ADK-149	ADK-149	Special Magic Stone						Fire	R	[Rest]: Produce {r}. [Rest], banish this card: Produce {r}{r}. Spend this will only to play Wicked Spirits.	
-	ADK	ADK-150	ADK-150										
+Possession Stone	ADK	ADK-150	ADK-150	Special Magic Stone						Water	R	[Rest]: Produce {u}. [Rest]: Produce {w}, {r}, {u}, {g}, or {b}. Play this ability only if your J/ruler is "Ayu, Lunar Swordswoman" or "Ayu, Shaman Swordswoman".	
 	ADK	ADK-151	ADK-151										
 	ADK	ADK-152	ADK-152										
 	ADK	ADK-153	ADK-153										

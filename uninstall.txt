@@ -1,6 +1,42 @@
 <uninstall>
-
-<dateYYMMDD>170726</dateYYMMDD>
-<removepath>pluginpreferences.txt</removepath>
-<removepath>general/cardback.jpg</removepath>
+    <dateYYMMDD>171202</dateYYMMDD>
+    <removepath>general/cardback.jpg</removepath>
+    <removepath>sets/setimages/1</removepath>
+    <removepath>sets/setimages/2</removepath>
+    <removepath>sets/setimages/3</removepath>
+    <removepath>sets/setimages/ACN</removepath>
+    <removepath>sets/setimages/ADK</removepath>
+    <removepath>sets/setimages/BFA</removepath>
+    <removepath>sets/setimages/CFC</removepath>
+    <removepath>sets/setimages/CMF</removepath>
+    <removepath>sets/setimages/ENW</removepath>
+    <removepath>sets/setimages/LEL</removepath>
+    <removepath>sets/setimages/MOA</removepath>
+    <removepath>sets/setimages/MPR</removepath>
+    <removepath>sets/setimages/PR</removepath>
+    <removepath>sets/setimages/PR2014</removepath>
+    <removepath>sets/setimages/PR2015</removepath>
+    <removepath>sets/setimages/RDE</removepath>
+    <removepath>sets/setimages/S</removepath>
+    <removepath>sets/setimages/SDL1</removepath>
+    <removepath>sets/setimages/SDL2</removepath>
+    <removepath>sets/setimages/SDL3</removepath>
+    <removepath>sets/setimages/SDL4</removepath>
+    <removepath>sets/setimages/SDL5</removepath>
+    <removepath>sets/setimages/SDR1</removepath>
+    <removepath>sets/setimages/SDR2</removepath>
+    <removepath>sets/setimages/SDR3</removepath>
+    <removepath>sets/setimages/SDR4</removepath>
+    <removepath>sets/setimages/SDR5</removepath>
+    <removepath>sets/setimages/SKL</removepath>
+    <removepath>sets/setimages/T</removepath>
+    <removepath>sets/setimages/TAT</removepath>
+    <removepath>sets/setimages/TMS</removepath>
+    <removepath>sets/setimages/TTW</removepath>
+    <removepath>sets/setimages/VIN001</removepath>
+    <removepath>sets/setimages/VIN002</removepath>
+    <removepath>sets/setimages/VIN003</removepath>
+    <removepath>sets/setimages/VS01</removepath>
+    <removepath>sets/setimages/World</removepath>
+    <removepath>sets/setimages/World2016</removepath>
 </uninstall>

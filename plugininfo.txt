@@ -1,5 +1,5 @@
 <plugin>
-	<pluginversion>1.0.0</pluginversion>
+	<pluginversion>1.1.0</pluginversion>
 	<pluginname>fow-modular</pluginname>
 
 	<playerstat>

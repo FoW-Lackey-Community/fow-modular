@@ -145,9 +145,6 @@
 		<label>Flip Coin</label>
 		<kind>FLIPCOIN</kind>
 	</generalfunction>
-	<generalfunction>
-		<label>Make Token</label>
-	<kind>
 	
 	<cardfunction>
 		<label>Recover</label>

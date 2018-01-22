@@ -1,7 +1,7 @@
 <packdefinitions version="1.0">
     <pack>
         <packtitle>Ancient Nights</packtitle>
-        <packimage>pack_reyia_ACN</packimage>
+        <packimage>pack_default</packimage>
         <packformat>new froniter</packformat>
         <packkind>booster</packkind>
         <packdoubles>yes</packdoubles>
@@ -10,6 +10,89 @@
             <field>Set</field>
             <eval>IS</eval>
             <data>ACN</data>
+        </packcommoncrit>
+        <chance>
+            <prob>30</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>19</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>19</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>12</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>9</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SR</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>4</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>3</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>2</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>JR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>1</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>JR</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+        <chance>
+            <prob>1</prob>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+            <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>SS</data></crit></kind>
+            <kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+            <kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+        </chance>
+    </pack>
+    <pack>
+        <packtitle>Advent of the Demon King</packtitle>
+        <packimage>pack_default</packimage>
+        <packformat>new froniter</packformat>
+        <packkind>booster</packkind>
+        <packdoubles>yes</packdoubles>
+
+        <packcommoncrit>
+            <field>Set</field>
+            <eval>IS</eval>
+            <data>ADK</data>
         </packcommoncrit>
         <chance>
             <prob>30</prob>

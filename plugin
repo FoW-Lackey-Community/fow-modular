@@ -1,4 +1,4 @@
-fow-modular	12-11-17
+fow-modular	01-22-18
 
 images/backgrounds/modular_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/modular_default.jpg	-426148
 images/backgrounds/acn_background.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/acn_background.jpg	-60425
@@ -6,14 +6,14 @@ images/backgrounds/ashynyuu_enveloping_light_mat.jpg	https://raw.githubuserconte
 images/backgrounds/ashynyuu_flute_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_flute_mat.jpg	-410183
 images/backgrounds/ashynyuu_phoenix_pricia_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_phoenix_pricia_mat.jpg	-377411
 images/backgrounds/ashynyuu_pokemon_mat.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/ashynyuu_pokemon_mat.jpg	-476460
-plugins/fow-modular/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/plugininfo.txt	637629
+plugins/fow-modular/plugininfo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/plugininfo.txt	633081
 plugins/fow-modular/uninstall.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/uninstall.txt	176225
 plugins/fow-modular/formats.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/formats.txt	223072
-plugins/fow-modular/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt	26883
+plugins/fow-modular/version.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt	27784
 plugins/fow-modular/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/general/cardback.jpg	-12393
 plugins/fow-modular/bot.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/FOW-EmperorValentina.jpg	6064
-plugins/fow-modular/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/pluginpreferences.txt	286392
-plugins/fow-modular/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/updatelist.txt	17987
+plugins/fow-modular/pluginpreferences.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/pluginpreferences.txt	286393
+plugins/fow-modular/updatelist.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/updatelist.txt	17988
 
 images/backgrounds/fow_mat_double.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double.png	-229439
 images/backgrounds/fow_mat_double2.png	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/fow_mat_double2.png	-169753
@@ -71,7 +71,8 @@ plugins/fow-modular/decks/SDR2.dek	https://raw.githubusercontent.com/FoW-Lackey-
 plugins/fow-modular/decks/SDR3.dek	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/decks/SDR3.dek	326076
 
 plugins/fow-modular/packs/packdefinitions1.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions1.xml	1789954
-plugins/fow-modular/packs/packdefinitions2.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions2.xml	396333
+plugins/fow-modular/packs/packdefinitions2.xml	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/packdefinitions2.xml	788707
+plugins/fow-modular/packs/pack_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_default.jpg	-34432
 plugins/fow-modular/packs/pack_lapis_CFC.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_CFC.jpg	-76221
 plugins/fow-modular/packs/pack_lapis_LEL.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_LEL.jpg	25918
 plugins/fow-modular/packs/pack_lapis_RDE.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/packs/pack_lapis_RDE.jpg	-63078

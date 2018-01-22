@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>171211</lastupdateYYMMDD>
+<lastupdateYYMMDD>180122</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt</versionurl>
 <updateurl>https://downloads.heihachi.pw/fow/updatelist.txt</updateurl>
-<message>Full ADK Set release<message>
+<message>ADK Packs added for sealed AGPs<message>
 </version>

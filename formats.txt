@@ -30,6 +30,8 @@
 		<set>SDR5</set>
 		<set>ACN</set>
 		<set>ADK</set>
+		<set>TSW</set>
+		<set>SDR6</set>
 	</format>
 	<format>
 		<label>Genesis</label>
@@ -63,6 +65,8 @@
 		<set>SDR5</set>
 		<set>ACN</set>
 		<set>ADK</set>
+		<set>TSW</set>
+		<set>SDR6</set>
 	</format>
 	<format>
 		<label>Origin</label>
@@ -96,6 +100,8 @@
 		<set>SDR5</set>
 		<set>ACN</set>
 		<set>ADK</set>
+		<set>TSW</set>
+		<set>SDR6</set>
 	</format>
 	<format>
 		<label>Vahalla cluster</label>
@@ -143,6 +149,8 @@
 		<set>SDR5</set>
 		<set>ACN</set>
 		<set>ADK</set>
+		<set>TSW</set>
+		<set>SDR6</set>
 	</format>
 	<format>
 		<label>New Frontiers</label>
@@ -164,6 +172,8 @@
 		<set>SDR5</set>
 		<set>ACN</set>
 		<set>ADK</set>
+		<set>TSW</set>
+		<set>SDR6</set>
 	</format>
 	<format>
 		<label>Promo Cards</label>

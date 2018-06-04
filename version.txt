@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>180302</lastupdateYYMMDD>
+<lastupdateYYMMDD>180604</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt</versionurl>
 <updateurl>https://downloads.heihachi.pw/fow/updatelist.txt</updateurl>
-<message>Full Spoilers and Starter Deck<message>
+<message>WOM Set Release!<message>
 </version>

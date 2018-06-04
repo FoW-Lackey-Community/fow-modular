@@ -32,6 +32,7 @@
 		<set>ADK</set>
 		<set>TSW</set>
 		<set>SDR6</set>
+		<set>WOM</set>
 	</format>
 	<format>
 		<label>Genesis</label>
@@ -67,6 +68,7 @@
 		<set>ADK</set>
 		<set>TSW</set>
 		<set>SDR6</set>
+		<set>WOM</set>
 	</format>
 	<format>
 		<label>Origin</label>
@@ -102,6 +104,7 @@
 		<set>ADK</set>
 		<set>TSW</set>
 		<set>SDR6</set>
+		<set>WOM</set>
 	</format>
 	<format>
 		<label>Vahalla cluster</label>
@@ -151,6 +154,7 @@
 		<set>ADK</set>
 		<set>TSW</set>
 		<set>SDR6</set>
+		<set>WOM</set>
 	</format>
 	<format>
 		<label>New Frontiers</label>
@@ -174,6 +178,7 @@
 		<set>ADK</set>
 		<set>TSW</set>
 		<set>SDR6</set>
+		<set>WOM</set>
 	</format>
 	<format>
 		<label>Promo Cards</label>

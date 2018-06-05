@@ -140,7 +140,7 @@ Light Magic Stone (RDE)	RDE	RDE-103	RDE-103	Magic Stone							S	[Rest] Produce [
 Water Magic Stone (RDE)	RDE	RDE-104	RDE-104	Magic Stone							S	[Rest] Produce [Wa].	
 Wind Magic Stone (RDE)	RDE	RDE-105	RDE-105	Magic Stone							S	[Rest] Produce [Wi].	
 Burning Water Magic Stone	VIN003	VIN003-086	VIN003-086	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [F]. [Rest] remove a magic counter from this card: Produce [Wa].	
-Gustin Darkness Magic Stone	VIN003	VIN003-087	VIN003-087	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [Wi]. [Rest] remove a magic counter from this card: Produce [D].	
+Gusting Darkness Magic Stone	VIN003	VIN003-087	VIN003-087	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [Wi]. [Rest] remove a magic counter from this card: Produce [D].	
 Magic Stone of Murky Waters	VIN003	VIN003-088	VIN003-088	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [Wa]. [Rest] remove a magic counter from this card: Produce [D].	
 Magic Stone of Nature's Beauty	VIN003	VIN003-089	VIN003-089	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [Wi]. [Rest] remove a magic counter from this card: Produce [L].	
 Magic Stone of Purgatory	VIN003	VIN003-090	VIN003-090	Special Magic Stone							SS	When this card enters your field => Put two magic counters on this card. [Rest] Produce [F]. [Rest] remove a magic counter from this card: Produce [F].	
@@ -191,3 +191,5 @@ Fire Magic Stone	SDR6	SDR6-015	SDR6-015	Magic Stone							S	[Rest] Produce [F].
 Light Magic Stone	SDR6	SDR6-016	SDR6-016	Magic Stone							S	[Rest] Produce [L].	
 Water Magic Stone	SDR6	SDR6-017	SDR6-017	Magic Stone							S	[Rest] Produce [Wa].	
 Wind Magic Stone	SDR6	SDR6-018	SDR6-018	Magic Stone							S	[Rest] Produce [Wi].	
+Ethereal Wind Magic Stone	WOM	WOM-119	WOM-119	Special Magic Stone							SS	[Rest]: Produce [Wi] Banish this card: Put an Aura from your removed area into your hand.	
+Magic Stone of Time	WOM	WOM-120	WOM-120	Special Magic Stone							SS	[Rest]: Produce [Wa]. [Rest]: Produce [time].	

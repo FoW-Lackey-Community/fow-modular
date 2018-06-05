@@ -572,6 +572,11 @@ TSW/TSW-148-i.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/
 TSW/TSW-148-ir.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-148-ir.jpg
 TSW/TSW-149.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-149.jpg
 TSW/TSW-150.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-150.jpg
+TSW/TSW-151.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-151.jpg
+TSW/TSW-152.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-152.jpg
+TSW/TSW-153.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-153.jpg
+TSW/TSW-154.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-154.jpg
+TSW/TSW-155.jpg http://trogdariusgaming.com/FoWUpdates/sets/setimages/TSW/low/TSW-155.jpg
 SDR6/SDR6-001.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDR6/low/SDR6-001.jpg
 SDR6/SDR6-002.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDR6/low/SDR6-002.jpg
 SDR6/SDR6-003.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDR6/low/SDR6-003.jpg

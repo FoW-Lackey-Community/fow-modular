@@ -34,16 +34,16 @@ Magic Stone of Water (MPR)	MPR	MPR-104	MPR-104	Magic Stone							S	[Activate] [R
 Magic Stone of Wind (MPR)	MPR	MPR-105	MPR-105	Magic Stone							S	[Activate] [Rest] Produce [Wi].	
 Fire Magic Stone (VS01)	VS01	VS01-033	VS01-033	Magic Stone							S	[Rest] Produce [F].	
 Light Magic Stone (VS01)	VS01	VS01-034	VS01-034	Magic Stone							S	[Rest] Produce [L].	
-Magic Stone of Black Silence (VIN001)	VIN001	VIN001-080.png	VIN001-080	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce [Wi] or [D].	
-Magic Stone of Blasting Waves (VIN001)	VIN001	VIN001-081.png	VIN001-081	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce [Wi] or [F].	
-Magic Stone of Dark Depth (VIN001)	VIN001	VIN001-082.png	VIN001-082	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce [D] or [Wa].	
-Magic stone of Deep Wood (VIN001)	VIN001	VIN001-083.png	VIN001-083	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce [Wi] or [Wa].	
-Magic Stone of Gusting Skies (VIN001)	VIN001	VIN001-084.png	VIN001-084	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce [L] or [Wi].	
-Magic Stone of Hearth's Core (VIN001)	VIN001	VIN001-085.png	VIN001-085	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce [F] or [Wa].	
-Magic Stone of Heat Ray (VIN001)	VIN001	VIN001-086.png	VIN001-086	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce [L] or [F].	
-Magic Stone of Heaven's Rift (VIN001)	VIN001	VIN001-087.png	VIN001-087	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce [L] or [D].	
-Magic Stone of Light Vapors (VIN001)	VIN001	VIN001-088.png	VIN001-088	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce [L] or [Wa].	
-Magic Stone of Scorched Bales (VIN001)	VIN001	VIN001-089.png	VIN001-089	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce [D] or [F].	
+Magic Stone of Black Silence (VIN001)	VIN001	VIN001-080.jpg	VIN001-080	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce [Wi] or [D].	
+Magic Stone of Blasting Waves (VIN001)	VIN001	VIN001-081.jpg	VIN001-081	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce [Wi] or [F].	
+Magic Stone of Dark Depth (VIN001)	VIN001	VIN001-082.jpg	VIN001-082	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce [D] or [Wa].	
+Magic stone of Deep Wood (VIN001)	VIN001	VIN001-083.jpg	VIN001-083	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce [Wi] or [Wa].	
+Magic Stone of Gusting Skies (VIN001)	VIN001	VIN001-084.jpg	VIN001-084	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce [L] or [Wi].	
+Magic Stone of Hearth's Core (VIN001)	VIN001	VIN001-085.jpg	VIN001-085	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce [F] or [Wa].	
+Magic Stone of Heat Ray (VIN001)	VIN001	VIN001-086.jpg	VIN001-086	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce [L] or [F].	
+Magic Stone of Heaven's Rift (VIN001)	VIN001	VIN001-087.jpg	VIN001-087	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce [L] or [D].	
+Magic Stone of Light Vapors (VIN001)	VIN001	VIN001-088.jpg	VIN001-088	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce [L] or [Wa].	
+Magic Stone of Scorched Bales (VIN001)	VIN001	VIN001-089.jpg	VIN001-089	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce [D] or [F].	
 Darkness Magic Stone (VIN001)	VIN001	VIN001-090	VIN001-090	Magic Stone							S	[Rest] Produce [D].	
 Fire Magic Stone (VIN001)	VIN001	VIN001-091	VIN001-091	Magic Stone							S	[Rest] Produce [F].	
 Light Magic Stone (VIN001)	VIN001	VIN001-092	VIN001-092	Magic Stone							S	[Rest] Produce [L].	
@@ -84,16 +84,16 @@ Fire Magic Stone (BFA)	BFA	BFA-102	BFA-102	Magic Stone							S	[Rest] Produce [F
 Light Magic Stone (BFA)	BFA	BFA-103	BFA-103	Magic Stone							S	[Rest] Produce [L].	
 Water Magic Stone (BFA)	BFA	BFA-104	BFA-104	Magic Stone							S	[Rest] Produce [Wa].	
 Wind Magic Stone (BFA)	BFA	BFA-105	BFA-105	Magic Stone							S	[Rest] Produce [Wi].	
-Magic Stone of Black Silence (VIN002)	VIN002	VIN002-081.png	VIN002-081	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce [Wi] or [D].	
-Magic Stone of Blasting Waves (VIN002)	VIN002	VIN002-082.png	VIN002-082	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce [Wi] or [F].	
-Magic Stone of Dark Depth (VIN002)	VIN002	VIN002-083.png	VIN002-083	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce [D] or [Wa].	
-Magic stone of Deep Wood (VIN002)	VIN002	VIN002-084.png	VIN002-084	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce [Wi] or [Wa].	
-Magic Stone of Gusting Skies (VIN002)	VIN002	VIN002-085.png	VIN002-085	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce [L] or [Wi].	
-Magic Stone of Hearth's Core (VIN002)	VIN002	VIN002-086.png	VIN002-086	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce [F] or [Wa].	
-Magic Stone of Heat Ray (VIN002)	VIN002	VIN002-087.png	VIN002-087	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce [L] or [F].	
-Magic Stone of Heaven's Rift (VIN002)	VIN002	VIN002-088.png	VIN002-088	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce [L] or [D].	
-Magic Stone of Light Vapors (VIN002)	VIN002	VIN002-089.png	VIN002-089	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce [L] or [Wa].	
-Magic Stone of Scorched Bales (VIN002)	VIN002	VIN002-090.png	VIN002-090	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce [D] or [F].	
+Magic Stone of Black Silence (VIN002)	VIN002	VIN002-081.jpg	VIN002-081	Special Magic Stone							SS	Treat this card as a wind magic stone and darkness magic stone. [Rest] Produce [Wi] or [D].	
+Magic Stone of Blasting Waves (VIN002)	VIN002	VIN002-082.jpg	VIN002-082	Special Magic Stone							SS	Treat this card as a wind magic stone and fire magic stone. [Rest] Produce [Wi] or [F].	
+Magic Stone of Dark Depth (VIN002)	VIN002	VIN002-083.jpg	VIN002-083	Special Magic Stone							SS	Treat this card as a darkness magic stone and water magic stone. [Rest] Produce [D] or [Wa].	
+Magic stone of Deep Wood (VIN002)	VIN002	VIN002-084.jpg	VIN002-084	Special Magic Stone							SS	Treat this card as a wind magic stone and water magic stone. [Rest] Produce [Wi] or [Wa].	
+Magic Stone of Gusting Skies (VIN002)	VIN002	VIN002-085.jpg	VIN002-085	Special Magic Stone							SS	Treat this card as a light magic stone and wind magic stone. [Rest] Produce [L] or [Wi].	
+Magic Stone of Hearth's Core (VIN002)	VIN002	VIN002-086.jpg	VIN002-086	Special Magic Stone							SS	Treat this card as a fire magic stone and water magic stone. [Rest] Produce [F] or [Wa].	
+Magic Stone of Heat Ray (VIN002)	VIN002	VIN002-087.jpg	VIN002-087	Special Magic Stone							SS	Treat this card as a light magic stone and fire magic stone. [Rest] Produce [L] or [F].	
+Magic Stone of Heaven's Rift (VIN002)	VIN002	VIN002-088.jpg	VIN002-088	Special Magic Stone							SS	Treat this card as a light magic stone and darkness magic stone. [Rest] Produce [L] or [D].	
+Magic Stone of Light Vapors (VIN002)	VIN002	VIN002-089.jpg	VIN002-089	Special Magic Stone							SS	Treat this card as a light magic stone and water magic stone. [Rest] Produce [L] or [Wa].	
+Magic Stone of Scorched Bales (VIN002)	VIN002	VIN002-090.jpg	VIN002-090	Special Magic Stone							SS	Treat this card as a darkness magic stone and fire magic stone. [Rest] Produce [D] or [F].	
 Darkness Magic Stone (VIN002)	VIN002	VIN002-091	VIN002-091	Magic Stone							S	[Rest] Produce [D].	
 Fire Magic Stone (VIN002)	VIN002	VIN002-092	VIN002-092	Magic Stone							S	[Rest] Produce [F].	
 Light Magic Stone (VIN002)	VIN002	VIN002-093	VIN002-093	Magic Stone							S	[Rest] Produce [L].	

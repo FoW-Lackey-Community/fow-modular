@@ -1,10 +1,11 @@
-fow-modular	06-05-18
+fow-modular	08-24-18
 
 CardURLFiles:
 CardImageURLsAlice.txt
 CardImageURLsExtras.txt
 CardImageURLsGrimm.txt
 CardImageURLsLapis.txt
+CardImageURLsNewValhalla.txt
 CardImageURLsPromo.txt
 CardImageURLsReiya.txt
 CardImageURLsValhalla.txt

@@ -1,19 +1,22 @@
 Name	Set	ImageFile	SetID	Type	Subtype/Race	Cost	T.Cost	ATK	DEF	Attribute	Rarity	Cardtext	Script
+Arcana of Dawn | Magus of Dawn	BSR	BSR-001,BSR-001J	BSR-001	Basic Ruler | Basic J-Ruler	Avatar	[4]	4	1000	1000		BJR	[Divinity]7 [Judgment][4] At the beginning of the game => Put a limited counter on this card. [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D]. | [Divinity]7 [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D].	
+Arcana of War | Soldier of War	BSR	BSR-002,BSR-002J	BSR-002	Basic Ruler | Basic J-Ruler	Avatar	[4]	4	1000	1000		BJR	[Divinity]6 [Judgment][4] At the beginning of the game => Put two limited counters on this card. [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D]. | [Divinity]6 [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D].	
+Arcana of Light	BSR	BSR-003,BSR-003J	BSR-003	Basic Ruler | Basic J-Ruler	Avatar	[4]	4	1000	1000		BJR	[Divinity]5 [Judgment][4] At the beginning of the game => Put three limited counters on this card. [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D]. | [Divinity]5 [1], remove a limited counter from this card: Produce [L], [F], [Wa], [Wi], or [D].	
 Acolyte of the Sun	SDV1	SDV1-001	SDV1-001	Resonator	Human	[L]	1	200	200	Light	C	[Rest]: Produce [L].	
 Atom Seikhart | Atom Seikhart, the Shimmering Rabbit	SDV1	SDV1-002,SDV1-002J	SDV1-002	Ruler | J-Ruler	Rabbit	[L][L][1]	3	800	1200	Light	JR	[Divinity]10 [Judgment][L][L][1] [Energize][L] | [Divinity]10 Runes in your rune area gain [Quickcast]. Whenever you play a rune => Choose one - You gain 500 life; or rest target resonator; or target J/resonator gains [0/+500] until end of turn.	
 Bethor, the Angel of Treasure	SDV1	SDV1-003	SDV1-003	Resonator	Angel	[L][1]	2	500	500	Light	C	[Flying] When this card is put into a graveyard from the field => Draw a card.	
 Bewilder	SDV1	SDV1-004	SDV1-004	Rune	Divinity 2	[L]	1	0	0	Light	C	[Quickcast] Rest target J/resonator.	
 Brunhild | Brunhild, Caller of Spirits	SDV1	SDV1-005,SDV1-005J	SDV1-005	Ruler | J-Ruler	Valkyrie	[L][L][2]	4	1200	1200	Light	JR	[Divinity]10 [Judgment][L][L][2] [Energize][L] | [Divinity]10 [Flying] [Enter] => Put target resonator from your graveyard into the field. (When this card enters the field => Perform the effect.)	
-													
-													
-													
+Brunhild's Wrath	SDV1	SDV1-006	SDV1-006	Rune	Divinity 3	[L][1]	2	0	0		C	Destroy target rested J/resonator.	
+Dispel	SDV1	SDV1-007	SDV1-007	Rune	Divinity 2	[L]	1	0	0		C	[Quickcast] Choose one - Destroy target addition; or you gain 1000 life.	
+Einherjar's Summons	SDV1	SDV1-008	SDV1-008	Rune	Divinity 2		0	0	0		U	Put target Human with total cost 2 or less from your graveyard into the field.	
 Eir, Valkyrie of Mercy	SDV1	SDV1-009	SDV1-009	Resonator	Valkyrie	[L][L][1]	3	600	700	Light	U	[Enter] => Put target resonator with total cost 2 or less from your graveyard into the field.	
 Karmic Reversal	SDV1	SDV1-010	SDV1-010	Rune	Divinity 3	[L][1]	2	0	0	Light	C	[Quickcast] If damage would be dealt to target J/resonator you control this turn, it's dealt to your opponent instead.	
 Mini Meteor	SDV1	SDV1-011	SDV1-011	Rune	Divinity 3	[L][L][1]	3	0	0	Light	U	Rest all J/resonators your opponent controls. Prevent all damage that would be dealt to J/resonators your opponent controls until end of turn.	
-													
+Odin's Judgment	SDV1	SDV1-012	SDV1-012	Master Rune	Divinity 2	[L][L][1]	3	0	0		R	Play this card only if your J/ruler is "Brunhild" or "Brunhild, Caller of Spirits". Destroy all resonators.	
 Phaleg, the Angel of War	SDV1	SDV1-013	SDV1-013	Resonator	Angel	[L][L][L]	3	800	800	Light	U	[Quickcast] [Flying] [First Strike]	
 Phul, the Administrator of the Moon	SDV1	SDV1-014	SDV1-014	Resonator	Angel	[L][L][2]	3	1000	1000	Light	SR	[Flying] This card gain [+200/+200] and [Barrier] during your opponent's turn.	
-													
+Ring of Legend	SDV1	SDV1-015	SDV1-015	Rune	Divinity 3	[L]	1	0	0		C	[Quickcast] Target J/resonator gains [Eternal] until end of turn.	
 Sigrun, Valkyrie of Victory	SDV1	SDV1-016	SDV1-016	Resonator	Valkyrie	[L][L][2]	3	1000	1000	Light	SR	[Flying] This card gains [Eternal] during your turn.  Whenever this card attacks => Rest target J/resonator.	
 Sorceress of the Moon	SDV1	SDV1-017	SDV1-017	Resonator	Wererabbit	[L]	1	400	400	Light	C	[Rune]2 (This card gains the following text as long as there are two or more runes revealed from your rune area.) - This card gains [+200/+200] and [Flying].	
 The Valkyrie's Chosen	SDV1	SDV1-018	SDV1-018	Resonator	Human	[L][1]	2	600	600	Light	C	When this card enters the field from a graveyard => It gains [+200/+200], [Swiftness], and [Precision] until end of turn.	
@@ -21,20 +24,21 @@ Turn Tail	SDV1	SDV1-019	SDV1-019	Rune	Divinity 2	[L]	1	0	0	Light	C	[Quickcast] R
 Warrior of the Sun	SDV1	SDV1-020	SDV1-020	Resonator	Human	[L]	1	400	400	Light	C	[First Strike]	
 Wererabbit Warrior	SDV1	SDV1-021	SDV1-021	Resonator	Wererabbit	[L]	1	400	400	Light	C	[Quickcast]	
 Zeus' Grand Lightning	SDV1	SDV1-022	SDV1-022	Master Rune	Divinity 2	[L][L]	2	0	0	Light	R	Play this card only if your J/ruler is "Atom Seikhart" or "Atom Seikhart, the Shimmering Rabbit". Remove target non-magic stone, non-J-ruler entity from the game. Players cannot chase to this card.	
+Light Magic Stone	SDV1	SDV1-023	SDV1-023	Basic Magic Stone	-		0	0	0		C	[rest]: Produce [L].	
 Chu-Ko-Nu Soldier	SDV2	SDV2-001	SDV2-001	Resonator	Human	[F]	1	300	300	Fire	C	Banish this card: This card deals 300 damage to target resonator.	
-													
+Concealed Khopesh	SDV2	SDV2-002	SDV2-002	Rune	Divinity 3	[F][F][1]	3	0	0		C	This card deal 800 damage to target player.	
 Dragon Dance	SDV2	SDV2-003	SDV2-003	Rune	Divinity 3	[F]	1	0	0	Fire	C	[Quickcast] Reveal the top card of your deck. If it's a resonator, this card deals damage equal to that resonator's ATK to target J/resonator. Then, if the revealed card is a Dragon, put it into your hand.	
 Dragon of Kunlun	SDV2	SDV2-004	SDV2-004	Resonator	Dragon	[F][F][2]	3	1200	1200	Fire	SR	[Flying] When this card enters the field from your deck => It deals 1000 damage to target J/resonator.	
 Dragon's Flight	SDV2	SDV2-005	SDV2-005	Rune	Divinity 2	[F]	1	0	0	Fire	U	Choose one - Search your deck for a Dragon, reveal it and put it into your hand. Then shuffle your deck; or target Dragon you control deals damage equal to its ATK to target resonator your opponent controls.	
 Explosion	SDV2	SDV2-006	SDV2-006	Rune	Divinity 2	[F]	1	0	0	Fire	C	[Quickcast] This card deals 700 damage to target attacking or blocking resonator.	
-													
+Flame Enchant	SDV2	SDV2-007	SDV2-007	Rune	Divinity 2		0	0	0		C	Produce [F][F]. Spend this will only to play activate abilities of J-rulers you control	
 Flame Soldier Formation	SDV2	SDV2-008	SDV2-008	Master Rune	Divinity 2	[F][X]	2	0	0	Fire	R	Play this card only if your J/ruler is "Fu Xi" or "Fu Xi, King of Kunlun". [Quickcast] Choose one - Target X J/resonators cannot attack or block until end of turn; or search your deck for a fire resonator with total cost X or less and put it into the field. Then shuffle your deck.	
 Fu Xi | Fu Xi, King of Kunlun	SDV2	SDV2-009,SDV2-009J	SDV2-009	Ruler | J-Ruler	King	[F][F][3]	5	1000	1000	Fire	JR	[Divinity]10 [Judgment][F][F][3] [Energize][F] | [Divinity]10 [Flying] [Enter] => Search your deck for a Dragon with total cost 4 or less and put it into the field. Then shuffle your deck. (When this card enters the field => Perform the effect.)	
-													
+Giant Sandstorm	SDV2	SDV2-010	SDV2-010	Rune	Divinity 3	[F][F][F][F]	4	0	0		U	This card deals 800 damage to each resonator your opponent controls.	
 Isis | Isis, the Hundred Weapon Master	SDV2	SDV2-011,SDV2-011J	SDV2-011	Ruler | J-Ruler	Ascendant	[F][F][2]	4	1400	800	Fire	JR	[Divinity]10 [Judgment][F][F][2] [Energize][F] | [Divinity]10 [First Strike] [F]: This card deals 200 damage to target J/resonator. [F]: This card gains [Precision] until end of turn. [F][F]: This card gains [Barrier] until end of turn.	
 Magician of Molding	SDV2	SDV2-012	SDV2-012	Resonator	Human	[F][1]	2	600	600	Fire	C	If a rune you control would deal damage, it deals that much +200 instead.	
 Pang Tong	SDV2	SDV2-013	SDV2-013	Resonator	Human	[F][F][1]	3	400	800	Fire	U	[Enter] => Look at the top four cards of your deck. You may reveal a fire card from among them and put it into your hand. Put the rest on the bottom of your deck in a random order. (When this card enters the field => Perform the effect.)	
-													
+Poison Stinger	SDV2	SDV2-014	SDV2-014	Rune	Divinity 2	[F]	1	0	0		C	[Quickcast] This card deals 200 damage to target resonator. If that resonator would be dealt damage this turn, it's dealt double that much instead.	
 Reckless Flame Soldier	SDV2	SDV2-015	SDV2-015	Resonator	Human	[F]	1	800	800	Fire	C	Whenever this card attacks or blocks => At the next end of turn => Destroy it.	
 Sand Dragon	SDV2	SDV2-016	SDV2-016	Resonator	Dragon	[F][F][1]	3	1000	1000	Fire	U	[Flying] When this card is dealt damage => Destroy it. Whenever a J/ruler or rune you control deals damage to your opponent => Put this card from your graveyard into your hand.	
 Sandora Blacksmith	SDV2	SDV2-017	SDV2-017	Resonator	Human	[F]	1	200	400	Fire	C	If a fire J/resonator you control would deal damage, it deals that much +100 instead.	
@@ -42,13 +46,14 @@ Sandworm	SDV2	SDV2-018	SDV2-018	Resonator	Insect	[F]	1	300	400	Fire	C	[Swiftness
 Set, the Commander of Destruction	SDV2	SDV2-019	SDV2-019	Resonator	Ascendant	[F][F][F][F]	4	1200	1000	Fire	SR	[Swiftness] [First Strike]	
 Soldier Ambush	SDV2	SDV2-020	SDV2-020	Rune	Divinity 3	[F][F]	2	0	0	Fire	C	[Quickcast] Resonators you control gain [+400/+400] until end of turn.	
 Tiger of Kunlun	SDV2	SDV2-021	SDV2-021	Resonator	Beast	[F][1]	2	600	600	Fire	C	[Enter] => You may pay [F][1]. If you do, search your deck for a card named "Tiger of Kunlun" and put it into the field. Then shuffle your deck. (When this card enters the field => Perform the effect.)	
-													
+Whirlwind Conflagration	SDV2	SDV2-022	SDV2-022	Master Rune	Divinity 2	[F][F][3]	3	0	0		R	Play this card only if your J/ruler is "Isis" or "Isis, the Hundred Weapon Master". Target up to six players and/or J/resonators. This card deals 200 damage to the first, 400 damage to the second, 600 damage to the third, 800 damage to the fourth, 1000 damage to the fifth, and 1200 damage to the sixth.	
+Fire Magic Stone	SDV2	SDV2-023	SDV2-023	Basic Magic Stone	-		0	0	0		C	[rest]: Produce [F].	
 Anti-Matter Cannon, Excalibur	SDV3	SDV3-001	SDV3-001	Master Rune	Divinity 2	[Wa][Wa][1]	3	0	0	Water	R	Play this card only if your J/ruler is "Arthur" or "Arthur, King of Machines". Your opponent separates all non-magic stone, non-J-ruler entities they control into two piles. Put all the entities in one pile on the bottom of their owners' decks in any order.	
 Arthur | Arthur, King of Machines	SDV3	SDV3-002,SDV3-002J	SDV3-002	Ruler | J-Ruler	Machine	[Wa][Wa][Wa]	3	0	800	Water	JR	[Divinity]10 [Judgment][Wa][Wa][Wa] [Energize][Wa] | [Divinity]10 [Flying] [Enter] => Look at the top five cards of your deck. Choose up to two Machine resonators from among them and remove them from the game. Put [+100/+100] counters equal to the combined total cost of cards removed this way on this card. (When this card enters the field => Perform the effect.)	
 Caliburn, the Sword of Judgment	SDV3	SDV3-003	SDV3-003	Rune	Divinity 3	[Wa][Wa][2]	3	0	0	Water	U	Target two resonators your opponent controls. Your opponent chooses one of them and returns it to its owner's hand. Then, banishes the other.	
-													
+Charm	SDV3	SDV3-004	SDV3-004	Rune	Divinity 2	[Wa][1]	2	0	0		C	[Quickcast] Gain control of target resonator with total cost 2 or less until end of turn.	
 Checkmate	SDV3	SDV3-005	SDV3-005	Rune	Divinity 3	[Wa][Wa]	2	0	0	Water	C	[Quickcast] Destroy target damaged resonator.	
-													
+Consume	SDV3	SDV3-006	SDV3-006	Master Rune	Divinity 2	[Wa][Wa][1]	3	0	0		R	Play this card only if your J/ruler is "Loki" or "Loki, the Witch of Chaos". [Quickcast] Remove target resonator from the game. You gain life equal to its DEF.	
 Donut Drone	SDV3	SDV3-007	SDV3-007	Resonator	Machine	[Wa]	1	200	200	Water	C	Banish this card: Put four [+100/+100] counters on target Machine resonator. Play this ability only during your turn.	
 Gawain, the Swift Knight	SDV3	SDV3-008	SDV3-008	Resonator	Machine	[Wa][Wa][1]	3	800	800	Water	U	This card gains [Swiftness] as long as there is a [+100/+100] counter on it.	
 Gretel of Misty Woods	SDV3	SDV3-009	SDV3-009	Resonator	Fairy Tale	[Wa]	1	200	600	Water	C	Whenever you awaken a spell => Draw a card. This ability triggers only once per turn.	
@@ -58,19 +63,20 @@ Loki's Watchdog, Fenrir	SDV3	SDV3-012	SDV3-012	Resonator	Beast	[Wa][Wa][2]	3	100
 Maintenance	SDV3	SDV3-013	SDV3-013	Rune	Divinity 2		0	0	0	Water	C	[Quickcast] Put two [+100/+100] counters on up to two target Machine resonators.	
 Mechanical Bishop	SDV3	SDV3-014	SDV3-014	Resonator	Machine	[Wa][1]	2	600	600	Water	C	[Enter] => Target Machine resonator gains "At end of turn => Recover this card." until end of turn. (When this card enters the field => Perform the effect.)	
 Mechanical Soldier	SDV3	SDV3-015	SDV3-015	Resonator	Machine	[Wa]	1	400	400	Water	C		
-													
-													
+Monstrosify	SDV3	SDV3-016	SDV3-016	Rune	Divinity 2	[Wa]	1	0	0		U	[Quickcast] Target resonator becomes a [900/900] until end of turn.	
+Overflowing Knowledge	SDV3	SDV3-017	SDV3-017	Rune	Divinity 3	[Wa][Wa]	2	0	0		C	Draw two cards.	
 Perceval, the Shining Knight	SDV3	SDV3-018	SDV3-018	Resonator	Machine	[Wa][Wa][2]	3	900	900	Water	SR	[Quickcast] [Enter] => You may return another Machine resonator you control to its owner's hand. If you do, return target resonator to its owner's hand. (When this card enters the field => Perform the effect.)	
-													
+Petrification	SDV3	SDV3-019	SDV3-019	Rune	Divinity 3	[Wa][Wa]	2	0	0		C	Resonators your opponent controls don't recover during their controller's next recovery phase.	
 Reconnaissance	SDV3	SDV3-020	SDV3-020	Rune	Divinity 2	[Wa]	1	0	0	Water	C	Foresee 3. (Look at the top three cards of your deck and put any number of them on the top of your deck in any order. Put the rest on the bottom of your deck in any order.) Draw a card.	
 Scarecrow Guide	SDV3	SDV3-021	SDV3-021	Resonator	Fairy Tale	[Wa]	1	400	400	Water	C	[Awakening][1]: [Enter] => Draw a card, then discard a card. (As you play this card, you may pay [1]. If you do, this card enters the field with the [Enter] ability.)	
 Witch's House	SDV3	SDV3-022	SDV3-022	Resonator	Fairy Tale	[Wa][Wa][1]	3	400	700	Water	U	When this card is put into a graveyard from the field => Reveal the top card of your deck. If it's a water resonator, put it into the field.	
+Water Magic Stone	SDV3	SDV3-023	SDV3-023	Basic Magic Stone	-		0	0	0		C	[rest]: Produce [Wa].	
 Chamimi | Chamimi, Guardian of the Sacred Bow	SDV4	SDV4-001,SDV4-001J	SDV4-001	Ruler | J-Ruler	Mimi Tribe	[Wi][Wi][3]	5	1000	1000	Wind	JR	[Divinity]10 [Judgment][Wi][Wi][3] [Energize][Wi] | [Divinity]10 Resonators you control gain [+400/+400].	
 Chiyome, the Captivating Kunoichi	SDV4	SDV4-002	SDV4-002	Resonator	Cat/Ninja	[Wi][Wi][2]	3	800	800	Wind	SR	At end of turn => Put a [100/100] wind Cat resonator token into the field. [Rest]: Another target Cat gains [+400/+400] until end of turn.	
 Elephant Rush!!	SDV4	SDV4-003	SDV4-003	Master Rune	Divinity 2	[Wi][Wi][3]	3	0	0	Wind	R	Play this card only if your J/ruler is "Chamimi" or "Chamimi, Guardian of the Sacred Bow". Put three [1000/1000] wind Elephant resonator tokens into the field. Players cannot chase to this card.	
 Fairy of the Lost Isles	SDV4	SDV4-004	SDV4-004	Resonator	Fairy	[Wi]	1	400	400	Wind	C	[Flying] [Wi], banish this card: Draw a card.	
 Forest Meditation	SDV4	SDV4-005	SDV4-005	Rune	Divinity 3	[Wi][1]	2	0	0	Wind	C	Choose up to two - Put target resonator from your graveyard into your hand; or put two target magic stones from your graveyard into the field; or draw a card.	
-													
+Fuhma Shuriken	SDV4	SDV4-006	SDV4-006	Rune	Divinity 2	[Wi]	1	0	0		C	[Quickcast] This card deals 400 damage to target J/resonator. It cannot attack or block until end of turn.	
 Grand Mallet Warrior	SDV4	SDV4-007	SDV4-007	Resonator	Mimi Tribe	[Wi][Wi][2]	3	800	800	Wind	SR	[Enter] => Target resonator gains [+800/+800] until end of turn. (When this card enters the field => Perform the effect.)	
 Hanzo | Hanzo, Chief of the Kouga	SDV4	SDV4-008,SDV4-007J	SDV4-008	Ruler | J-Ruler	Cat/Ninja	[Wi][Wi][2]	4	1000	1000	Wind	JR	[Divinity]10 [Judgment][Wi][Wi][2] [Energize][Wi] [Divinity]10 [Enter] => Flip a revealed rune from your rune area face down. (When this card enters the field => Perform the effect.)	
 Huge Toad	SDV4	SDV4-009	SDV4-009	Resonator	Beast	[Wi]	1	400	400	Wind	C	When this card is put into a graveyard from the field => Target resonator gains [-400/0] until end of turn.	
@@ -80,85 +86,144 @@ Pygmy Hippo	SDV4	SDV4-012	SDV4-012	Resonator	Beast	[Wi]	1	600	500	Wind	C	[Enter]
 Raft Downstream	SDV4	SDV4-013	SDV4-013	Rune	Divinity 2	[Wi][Wi][2]	3	0	0	Wind	U	[Quickcast] Look at the top four cards of your deck. Reveal up to two wind cards from among them and put them into your hand. Put the rest on the bottom of your deck in a random order.	
 Rapid Fire Mi-!!	SDV4	SDV4-014	SDV4-014	Rune	Divinity 2	[Wi]	1	0	0	Wind	C	This card deals 400 damage to each resonator your opponent controls.	
 Sanctuary Elephant	SDV4	SDV4-015	SDV4-015	Resonator	Beast	[Wi][Wi][1]	3	1000	1000	Wind	U	[Enter] => Banish a magic stone. (When this card enters the field => Perform the effect.)	
-													
-													
+Sealing Scroll	SDV4	SDV4-016	SDV4-016	Master Rune	Divinity 2		0	0	0		R	Play this card only if your J/ruler is "Hanzo" or "Hanzo, Chief of the Kouga". [Quickcast] Cancel target rune spell.	
+Shadow Step	SDV4	SDV4-017	SDV4-017	Rune	Divinity 3	[Wi][1]	2	0	0		C	Target Ninja and up to one second target resonator gain [Swiftness] until end of turn.	
 Snipe Away Mi-!!	SDV4	SDV4-018	SDV4-018	Rune	Divinity 3	[Wi]	1	0	0	Wind	C	Rest a recovered J/ruler you control. If you do, destroy target resonator.	
 Soot Sprite	SDV4	SDV4-019	SDV4-019	Resonator	Youkai	[Wi]	1	200	200	Wind	C	When this card is put into a graveyard from the field => Look at the top four cards of your deck. You may reveal a Ninja from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.	
-													
-The Hundred Eyed One	SDV4	SDV4-021	SDV4-021	Resonator	Youkai	[Wi][1]	2	600	600	Wind	C	[Enter] => Target resonator cannot block until end of turn. (When this card enters the field => Perform the effect.)	
-													
+Spirited Away	SDV4	SDV4-020	SDV4-020	Rune	Divinity 3	[Wi][Wi][2]	3	0	0		U	[Quickcast] Remove target resonator from the game.	
+The Hundred Eyed One	SDV4	SDV4-021	SDV4-021	Resonator	Youkai	[Wi][1]	2	600	600		C	[Enter] => Target resonator cannot block until end of turn. (When this card enters the field => Perform the effect.)	
+Whirlwind Technique	SDV4	SDV4-022	SDV4-022	Rune	Divinity 2	[Wi]	1	0	0		C	[Quickcast] Target J/resonator gains [Barrier] until end of turn.	
+Wind Magic Stone	SDV4	SDV4-023	SDV4-023	Basic Magic Stone	-		0	0	0		C	[rest]: Produce [Wi].	
 Armaros, the Fallen Angel of Nullification	SDV5	SDV5-001	SDV5-001	Resonator	Fallen Angel	[D][D][1]	3	800	800	Darkness	U	[Flying] [Barrier](Chant)(Rune)	
 Black Rosario	SDV5	SDV5-002	SDV5-002	Master Rune	Divinity 2	[D][D]	2	0	0	Darkness	R	Play this card only if your J/ruler is "Lucifer" or "Lucifer, Fallen Angel of Sorrow". Your opponent banishes two resonators.	
-													
+Cycle of Death	SDV5	SDV5-003	SDV5-003	Master Rune	Divinity 2	[D][D]	2	0	0		R	Play this card only if your J/ruler is "Lich" or "Lich, the Saint of Death". [Quickcast] This turn, whenever a resonator you control is put into a graveyard from the field => Your opponent banishes a resonator.	
 Demon Division	SDV5	SDV5-004	SDV5-004	Rune	Divinity 2	[D][D]	2	0	0	Darkness	C	Search your deck for a card and put it into your hand. Then shuffle your deck.	
 Fanatic of Grief	SDV5	SDV5-005	SDV5-005	Resonator	Human	[D]	1	400	400	Darkness	C	[Enter] => Your opponent reveals their hand. (When this card enters the field => Perform the effect.)	
 Fleurety	SDV5	SDV5-006	SDV5-006	Resonator	Demon	[D][D]	2	500	500	Darkness	C	[Enter] => Choose a number. Your opponent reveals a card from their hand at random. If the revealed card's total cost is equal to the chosen number, they discard it. (When this card enters the field => Perform the effect.)	
-													
+Immortal Commander	SDV5	SDV5-007	SDV5-007	Resonator	Vampire	[D][D][1]	3	700	700		U	[Flying] [Enter] => Search your deck for a Skeleton or Zombie, reveal it and put it into your hand. Then shuffle your deck. (When this card enters the field => Perform the effect.)	
 Jet-Black Wings	SDV5	SDV5-008	SDV5-008	Rune	Divinity 3	[D][D][1]	3	0	0	Darkness	U	[Quickcast] Resonators your opponent controls gain [-600/-600] until end of turn.	
-													
+Lich | Lich, the Saint of Death	SDV5	SDV5-009	SDV5-009	Ruler | J-Ruler	Monarch	[D][D][1]	3	600	1200		JR	[Divinity]10 [Judgment][D][D][1] [Energize][D] | [Divinity]10 [Bane] (When this card deals damage to a J/resonator => Destroy that J/resonator.) Whenever a non-token darkness resonator you control is put into a graveyard from the field => Put a [100/100] darkness Skeleton resonator token into the field.	
 Lower Fallen Angel	SDV5	SDV5-010	SDV5-010	Resonator	Fallen Angel	[D]	1	300	400	Darkness	C	[Flying]	
 Lucifer | Lucifer, the Fallen Angel of Sorrow	SDV5	SDV5-011,SDV5-011J	SDV5-011	Ruler | J-Ruler	Fallen Angel	[D][D][3]	5	800	800	Darkness	JR	[Divinity]10 [Judgment][D][D][3] [Energize][D] | [Divinity]10 [Flying] [Enter] => Your opponent discards three cards. (When this card enters the field => Perform the effect.)	
-													
-													
-													
-Shemhaza, the Fallen Angel of Sadism	SDV5	SDV5-015	SDV5-015	Resonator	Fallen Angel	[D][D][2]	3	1000	1000	Darkness	SR	[Flying] [Enter] => Your opponent discards a card. (When this card enters the field => Perform the effect.) As long as your opponent has two or less cards in hand, this card gains [+400/+400].	
-													
-													
+Patchwork Frankenstein	SDV5	SDV5-012	SDV5-012	Resonator	Zombie	[D][D]	2	1000	1000		C	Whenever this card attacks or blocks => It doesn't recover during your next recovery phase.	
+Putrefy	SDV5	SDV5-013	SDV5-013	Rune	Divinity 2	[D]	1	0	0		C	Target a resonator. At end of the next turn => Destroy it.	
+Scythe of the Reaper	SDV5	SDV5-014	SDV5-014	Rune	Divinity 3	[D][1]	2	0	0		C	[Quickcast] Destroy target resonator with total cost 3 or less.	
+Shemhaza, the Fallen Angel of Sadism	SDV5	SDV5-015	SDV5-015	Resonator	Fallen Angel	[D][D][2]	3	1000	1000		SR	[Flying] [Enter] => Your opponent discards a card. (When this card enters the field => Perform the effect.) As long as your opponent has two or less cards in hand, this card gains [+400/+400].	
+Skeleton Horde	SDV5	SDV5-016	SDV5-016	Resonator	Skeleton	[D]	1	400	400		C	When this card is put into a graveyard from the field => Put a [100/100] darkness Skeleton resonator token into the field.	
+Specter Rush	SDV5	SDV5-017	SDV5-017	Rune	Divinity 3	[D][D]	2	0	0		U	Put X [200/200] darkness Specter resonator tokens with [Swiftness] and [Precision] into the field, where X is the number of J/resonators your opponent controls. At the next end of turn => Remove them from the game.	
 Sword of Lament	SDV5	SDV5-018	SDV5-018	Rune	Divinity 3	[D][D][1]	3	0	0	Darkness	C	[Quickcast] Destroy target J-ruler.	
 Tears of the Fallen	SDV5	SDV5-019	SDV5-019	Rune	Divinity 2		0	0	0	Darkness	C	Your opponent discards a card at random.	
-													
-													
-													
+Undeath	SDV5	SDV5-020	SDV5-020	Rune	Divinity 2	[D]	1	0	0		C	Put target Skeleton or Zombie with total cost 3 or less from your graveyard into the field.	
+Vlad, the Insatiable	SDV5	SDV5-021	SDV5-021	Resonator	Vampire	[D][D][2]	3	1000	1000		SR	[Flying] Banish a resonator: This card gains [Drain] until end of turn. Banish another resonator: Target J/resonator gains [+200/+200] until end of turn.  Banish another resonator: Target J/resonator gains [-200/-200] until end of turn.	
+Wanderer of the Abyss	SDV5	SDV5-022	SDV5-022	Resonator	Zombie	[D]	1	100	100		C	[D][D]: Put this card from your graveyard into your hand.	
+Darkness Magic Stone	SDV5	SDV5-023	SDV5-023	Basic Magic Stone	-		0	0	0		C	[rest]: Produce [D].	
 Aratron, Angel of Knowledge	NDR	NDR-001	NDR-001	Resonator	Angel	[L]	1	200	200		U	[Flying] [Enter] => Look at the top four cards of your deck. You may reveal an Angel resonator from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.	
 Ayu, the Mysterious Wanderer	NDR	NDR-002	NDR-002	Resonator	Wererabbit	[L][L]	2	600	600		R	[Quickcast] [Rest]: Return this card to its owner's hand. [Enter] => You gain X00 life, where X is the number of runes revealed from your rune area.	
+Balmung	NDR	NDR-003	NDR-003	Chant	-	[L][L][2]	3	0	0		R	Destroy all rested resonators.	
 Blessing of the Sun	NDR	NDR-004	NDR-004	Chant/Rune	Divinity 2	[L][L]	2	0	0		C	You may pay [L] less to play this card from a rune area. J/resonators you control gain [+200/+200] and "At end of turn => Recover this card." until end of turn.	
+Child of the Hero	NDR	NDR-005	NDR-005	Resonator	Human	[L][2]	2	700	800		C	[Awakening][3]: [Enter] => Put four [+100/+100] counters on this card.	
+Commander of Minerva	NDR	NDR-006	NDR-006	Resonator	Human	[L][L]	2	600	500		C	[First Strike] Other J/resonators you control gain [First Strike].	
 Country of the Sun, Minerva	NDR	NDR-007	NDR-007	Addition	-	[L][1]	2	0	0		U	Resonators you control gain [Eternal] during your turn.	
+Eir, Bringer of Destruction	NDR	NDR-008	NDR-008	Resonator	Valkyrie	[L][L][1]	3	800	800		U	[Precision] This card cannot be attacked.	
 Haggith, Angel of Alchemy	NDR	NDR-009	NDR-009	Resonator	Angel	[L][L][2]	3	700	900		C	[Flying] [Enter] => Search your deck for an addition, reveal it and put it into your hand. Then shuffle your deck.	
 Light of the Moon	NDR	NDR-010	NDR-010	Chant/Rune	Divinity 1	[L]	1	0	0		U	[Quickcast] You may pay [L] less to play this card from a rune area. You gain [Barrier](Chant) until end of turn.	
 Moonlit Paradise, Lunar Heaven	NDR	NDR-011	NDR-011	Addition	-	[L][1]	2	0	0		U	Angels you control gain [+200/+200].	
+Och, Angel of Clairvoyance	NDR	NDR-012	NDR-012	Resonator	Angel	[L][1]	2	500	600		C	[Flying] [Enter] => Foresee 1.	
+One Who Gazes at the Soul	NDR	NDR-013	NDR-013	Resonator	Valkyrie	[L][4]	2	700	1200		C		
 Ophiel, Angel of Guidance	NDR	NDR-014	NDR-014	Resonator	Angel	[L][L][3]	3	1200	1200		SR	[Flying] [Enter] => Search your deck for an Angel not named "Ophiel, Angel of Guidance" with total cost X or less, where X is the number of light runes revealed from your rune area, and put it into the field. Then shuffle your deck.	
 Protection of the Angels	NDR	NDR-015	NDR-015	Chant	-	[L]	1	0	0		R	[Quickcast] Play this card only during your opponent's turn. Target resonator gains [+800/+800] and [Barrier] until end of turn. Players cannot chase to this card.	
+Siegfried, the Hundred Years Hero	NDR	NDR-016	NDR-016	Resonator	Human	[L][L][1]	3	800	800		SR	[Rune][L][L] - If this card would be dealt damage, prevent 200 of it. [Rune][L][L][L][L] - This card gains [+200/+200] and [Barrier](Chant). [Awakening][L][L][1]: [Enter] => Search your deck for a card named "Balmung", reveal it and put it into your hand. Then shuffle your deck. You may play a card named "Balmung" from your hand without paying its cost.	
 Skuld, Valkyrie of the Future	NDR	NDR-017	NDR-017	Resonator	Valkyrie	[L][L]	2	600	500		R	Whenever this card attacks => Produce [L].	
 Spear of the Valkyries	NDR	NDR-018	NDR-018	Chant/Rune	Divinity 2	[L][1]	2	0	0		U	[Quickcast] You pay [2] more to play this card from a rune area. This card deals damage equal to the highest ATK among J/resonators you control to target J/resonator. If you control a Valkyrie, you gain that much life.	
+Tiny Trader	NDR	NDR-019	NDR-019	Resonator	Wererabbit	[L]	1	0	800		C		
+Whispers of an Angel	NDR	NDR-020	NDR-020	Chant/Rune	Divinity 2	[L][2]	2	0	0		C	[Quickcast] You may pay [2] less to play this card from a rune area. You gain 800 life. Draw a card.	
+Anubis, Administrator of the Hounds	NDR	NDR-021	NDR-021	Resonator	Ascendant	[F][F][F][F][F][3]	6	1500	1500		SR	You may pay [1] less to play this card for each fire rune revealed from your rune area.  If a card would be put into your opponent's graveyard from anywhere, remove it from the game instead. [Enter] => This card deals 1500 damage divided as you choose to any number of target resonators.	
+Bird of Fire	NDR	NDR-022	NDR-022	Resonator	Beast	[F][3]	2	800	700		C	[Flying]	
 Black Spot Tiger	NDR	NDR-023	NDR-023	Resonator	Beast	[F]	1	400	400		R	[0]: This card gains [Flying] until end of turn. It deals 200 damage to you. Play this ability only once per turn.	
+Burial Rites	NDR	NDR-024	NDR-024	Chant	-	[F]	1	0	0		R	[Quickcast] Remove all resonators in your opponent's graveyard from the game. If five or more cards are removed this way, search your deck for a card named "Anubis, Administrator of the Hounds", reveal it and put it into your hand. Then shuffle your deck.	
 Carrier Camel	NDR	NDR-025	NDR-025	Resonator	Beast	[F][1]	2	600	600		C	When this card is put into a graveyard from the field => Draw a card, then discard a card.	
+Carrier Dragon	NDR	NDR-026	NDR-026	Resonator	Dragon	[F][1]	2	200	700		C	[Flying] Discard a card: This card gains [+500/0] until end of turn. Play this ability only once per turn.	
 Chain Bind	NDR	NDR-027	NDR-027	Chant/Rune	Divinity 3	[F][2]	2	0	0		U	You pay [F][1] more to play this card from a rune area. Resonators your opponent controls cannot block until end of turn.	
 City of Mirage, Sandora	NDR	NDR-028	NDR-028	Addition	-	[F][1]	2	0	0		U	When a J/resonator you control is targeted by a chant spell or ability your opponent controls => You may banish this card. If you do, cancel that chant spell or ability.	
+Desert Fennec	NDR	NDR-029	NDR-029	Resonator	Beast	[F][F][1]	3	1000	600		U	[Barrier][F]	
+Explosion Wizard	NDR	NDR-030	NDR-030	Resonator	Human	[F][4]	2	500	600		U	[Enter] => This card deals 900 damage to target J/resonator your opponent controls.	
 Heaven Thundering Strike	NDR	NDR-031	NDR-031	Chant	-	[F][1]	2	0	0		R	[Quickcast] This card cannot be cancelled if you control "Shen Gongbao, Taoist of Kunlun". This card deals 600 damage to target J/resonator. If this card was awakened, it deals 600 damage to up to one second target J/resonator. [Awakening][F][2]	
 Land of Fiery Ambition, Kunlun	NDR	NDR-032	NDR-032	Addition	-	[F][F][F]	3	0	0		U	Fire resonators you control gain [+300/+300].	
+Osiris, Lord of the Afterlife	NDR	NDR-033	NDR-033	Resonator	Ascendant	[F][F][1]	3	900	500		R	[Enter] => This card gains [Swiftness] unless your opponent discards a card. When this card is put into a graveyard from the field => You may discard two cards. If you do, put this card into the field under its owner's control.	
 Sandstorm	NDR	NDR-034	NDR-034	Chant/Rune	Divinity 1	[F]	1	0	0		U	You may pay [F] less to play this card from a rune area. This card deals 200 damage to each resonator your opponent controls.	
+Scalding Breath	NDR	NDR-035	NDR-035	Chant/Rune	Divinity 2	[F][1]	2	0	0		C	You pay [2] more to play this card from a rune area. This card deals 700 damage to target player or J/resonator.	
 Scorching Winds	NDR	NDR-036	NDR-036	Chant/Rune	Divinity 2	[F]	1	0	0		C	You pay [1] more to play this card from a rune area. Two target resonators gain [+400/0] until end of turn.	
 Shen Gongbao, Taoist of Kunlun	NDR	NDR-037	NDR-037	Resonator	Taoist	[F][F]	2	600	600		SR	You may pay [1] less to play cards named "Heaven Thundering Strike". This card gains [+100/+100] and [Swiftness] as long as you control a Beast. [Awakening][1]: [Enter] => Search your deck for a card named "Black Spot Tiger", and put it into the field. Then shuffle your deck. [Awakening][1]: [Enter] => Search your deck for a card named "Heaven Thundering Strike", reveal it and put it into your hand. Then shuffle your deck.	
+Trader of Sandora	NDR	NDR-038	NDR-038	Resonator	Human	[F][F][1]	3	600	700		C	[Rest]: This card deals 200 damage to target J/resonator.	
+Venomous Scorpion	NDR	NDR-039	NDR-039	Resonator	Insect	[F]	1	300	100		C	[Swiftness] If this card would deal damage to a resonator, it deals double that much instead.	
 Wooden Ox	NDR	NDR-040	NDR-040	Resonator	Invention	[F][2]	2	0	1200		C	[Awakening][5]: [Enter] => This card gains [+1200/-800] and [Swiftness] until end of turn. When this card is put into a graveyard from the field => It deals 800 damage to target resonator your opponent controls.	
+Arondight, the Nitrogen Blade	NDR	NDR-041	NDR-041	Chant	-	[Wa]	1	0	0		R	[Quickcast] Cancel target automatic ability of a resonator. If this card was awakened, destroy that resonator. [Awakening][Wa][2]	
 Forest of the Lost, Misty Woods	NDR	NDR-042	NDR-042	Addition	-	[Wa]	1	0	0		U	[Enter] => Look at the top four cards of your deck. You may reveal a Fairy Tale from among them and put it into your hand. Put the rest on the bottom of your deck in a random order. [Rest], [2], banish this card: Put target Fairy Tale resonator with total cost 6 or less from your graveyard into the field.	
+Giant of Mist	NDR	NDR-043	NDR-043	Resonator	Giant	[Wa][2]	2	900	900		C	When this card is targeted by a spell => Banish it.	
+Hamelin, the Sound of Temptation	NDR	NDR-044	NDR-044	Resonator	Fairy Tale	[Wa][Wa][Wa][2]	4	400	400		R	[Enter] => Gain control of a resonator your opponent controls chosen at random.	
 Invitation	NDR	NDR-045	NDR-045	Chant/Rune	Divinity 2	[Wa][Wa][1]	3	0	0		U	You may pay [1] less to play this card from a rune area. Search your deck for a card and put it into your hand. Then shuffle your deck.	
+Iron Cauldron Witch	NDR	NDR-046	NDR-046	Resonator	Fairy Tale/Witch	[Wa][Wa][4]	3	700	900		C	[Enter] => Return target resonator your opponent controls to its owner's hand. Draw a card.	
+J?rmungandr, Little Eater of Worlds	NDR	NDR-047	NDR-047	Resonator	Beast	[Wa]	1	400	400		SR	This card gains [+500/+500] for each growth counter on it. Whenever this card attacks => You may remove a gluttony counter from it. If you do, remove target resonator your opponent controls from the game. [Awakening][2]: This card enters the field with a growth counter. [Awakening][L]: This card enters the field with a gluttony counter. Banish a water magic stone: Put a growth counter or a gluttony counter on this card. Play this ability only during your turn and only once per turn.	
 Lancelot, the Glass Knight	NDR	NDR-048	NDR-048	Resonator	Machine	[Wa][2]	2	600	600		SR	[Enter] => Put a [+100/+100] counter on each Machine resonator you control. Remove three [+100/+100] counters from a resonator you control: Destroy target resonator. Remove a total of ten [+100/+100] counters from any number of resonators you control: J/resonators your opponent controls lose all abilities until end of turn. Destroy all resonators your opponent controls.	
+Mad Hatter of Misty Woods	NDR	NDR-049	NDR-049	Resonator	Fairy Tale	[Wa][Wa][3]	3	1000	1200		U	[Enter] => Draw two cards, then discard two cards.	
 Massive Growth	NDR	NDR-050	NDR-050	Chant/Rune	Divinity 3	[Wa][1]	2	0	0		R	[Quickcast] You may pay [1] less to play this card from a rune area. Produce [Wa][Wa][Wa]. Spend this will only to pay [Awakening] costs.	
+Mechanized Knight	NDR	NDR-051	NDR-051	Resonator	Machine	[Wa]	1	500	500		C	As long as there are no [+100/+100] counters on this card, it doesn't recover during its controller's recovery phase.	
 Merlin, the Control Unit of Sky Round	NDR	NDR-052	NDR-052	Resonator	Machine	[Wa][Wa][2]	3	600	800		R	[Awakening][X]: [Enter] => Search your deck for a Machine with total cost X+2 or less and put it into the field. Then shuffle your deck.	
+Messenger of Death	NDR	NDR-053	NDR-053	Resonator	Beast	[Wa][Wa]	2	600	400		C	[Flying] [Awakening][4]: [Enter] => Your opponent banishes a resonator.	
+Scrap and Build	NDR	NDR-054	NDR-054	Chant/Rune	Divinity 3	[Wa][2]	2	0	0		U	You may pay [2] less to play this card from a rune area. As an additional cost to play this card, remove X Machines in your graveyard from the game. Look at the top X cards of your deck. Put a Machine with total cost of X or less from among them into the field. Put the rest on the bottom of your deck in a random order.	
+Sky Round Guardian	NDR	NDR-055	NDR-055	Resonator	Machine	[Wa][3]	2	500	1100		C		
+Sky Round Technician	NDR	NDR-056	NDR-056	Resonator	Machine	[Wa][1]	2	600	600		C	[Enter] => Put a [+100/+100] counter on another target Machine resonator you control.	
+The Knights' Castle in the Sky, Sky Round	NDR	NDR-057	NDR-057	Addition	Machine	[Wa][1]	2	0	0		U	Machines you control gain [+100/+100]. Whenever a Machine resonator enters the field under your control => Put a [+100/+100] counter on it.	
+Thick Fog	NDR	NDR-058	NDR-058	Chant/Rune	Divinity 1	[Wa][2]	2	0	0		C	[Quickcast] You may pay [1] less to play this card from a rune area. Target resonator cannot attack this turn. Draw a card.	
 Torrent of Energy	NDR	NDR-059	NDR-059	Chant/Rune	Divinity 2	[Wa][2]	2	0	0		C	[Quickcast] You pay [1] more to play this card from a rune area. Return target resonator to its owner's hand. If you control a Machine resonator, put it on top of its owner's deck instead.	
 Viviane, the Mechanical Fairy	NDR	NDR-060	NDR-060	Resonator	Machine/Fairy	[Wa]	1	300	300		U	[Flying] Whenever another Machine enters the field under your control => Put a [+100/+100] counter on this card. Remove two [+100/+100] counters from this card: Rest target resonator.	
 Atlantis, the Wielder of Knowledge	NDR	NDR-061	NDR-061	Resonator	Mimi Tribe	[Wi][Wi][1]	3	400	1200		R	Discard a chant: This card gains [+800/0] until end of turn. Play this ability only once per turn.	
+Cat Ninja Scout	NDR	NDR-062	NDR-062	Resonator	Cat/Ninja	[Wi]	1	300	300		C	When this card is put into a graveyard from the field => Put a [100/100] wind Cat resonator token into the field.	
+Eccentric Oni	NDR	NDR-063	NDR-063	Resonator	Oni	[Wi][1]	2	700	600		C	[Awakening][Wi][Wi][2]: [Enter] => Put five [+100/+100] counters on this card.	
 Explore the Unknown	NDR	NDR-064	NDR-064	Chant/Rune	Divinity 3	[Wi]	1	0	0		U	You may pay [Wi] less to play this card from a rune area. Look at the top five cards of your deck. You may reveal a wind resonator from among them and put it into your hand. Put the rest on the bottom of your deck in a random order.	
+Grand Bird of the Lost Isles	NDR	NDR-065	NDR-065	Resonator	Beast	[Wi][4]	2	800	900		C	[Flying]	
 In a Single Stroke	NDR	NDR-066	NDR-066	Chant/Rune	Divinity 2	[Wi][2]	2	0	0		C	You pay [1] more to play this card from a rune area. This card deals 800 damage to target resonator. If you control a Bushido, destroy that resonator instead.	
+Ittan-Momen	NDR	NDR-067	NDR-067	Resonator	Youkai	[Wi][2]	2	600	700		C	[Flying]	
+Jubei, the One-Eyed Swordsmaster	NDR	NDR-068	NDR-068	Resonator	Cat/Bushido	[Wi][Wi][3]	3	1200	1000		R	[Enter] => Choose one - Destroy target special magic stone; or this card deals 1200 damage to target resonator; or destroy target addition.	
+Karura, the Crow Tengu	NDR	NDR-069	NDR-069	Resonator	Youkai	[Wi][Wi][3]	3	1200	1200		SR	[Quickcast][Flying][Barrier](Chant) This card cannot be cancelled.	
+Kotaro, Ninja of the Wind	NDR	NDR-070	NDR-070	Resonator	Cat/Ninja	[Wi][Wi]	2	600	600		U	[Quickcast] [Enter] => Produce [L], [F], [Wa], [Wi], or [D]. Spend this will only to play chants.	
 Lemuria of the Magic Boomerang	NDR	NDR-071	NDR-071	Resonator	Mimi Tribe	[Wi][2]	2	0	800		SR	[Enter] => Put two fling counters on this card. If there are two or more wind runes revealed from your rune area, put four fling counters on this card instead. Remove a fling counter from this card: This card gains [+1000/0] until end of turn. Play this ability only once per turn. [Wi][1], remove two fling counters from this card: Destroy target resonator.	
 Magic Boomerang	NDR	NDR-072	NDR-072	Chant	-	[Wi]	1	0	0		R	[Quickcast] Choose one - Target resonator gains [Flying] until end of turn; or return target resonator you control to its owner's hand; or this card deals 400 damage to target resonator.	
 Mimi Tribe Explorer	NDR	NDR-073	NDR-073	Resonator	Mimi Tribe	[Wi][1]	2	400	600		U	[Enter] => Look at the top three cards of your deck. You may reveal a Mimi Tribe from among them and put it into your hand. Put the rest on the bottom of your deck in any order.	
+River Snake	NDR	NDR-074	NDR-074	Resonator	Beast	[Wi][3]	2	1200	600		C	[Wi]: This card gains [Barrier] until end of turn.	
 Song of the Fairies	NDR	NDR-075	NDR-075	Chant/Rune	Divinity 1	[Wi][Wi][1]	3	0	0		C	[Quickcast] You pay [1] more to play this card from a rune area. Cancel target spell.	
+Squall of the Tengu	NDR	NDR-076	NDR-076	Chant	-	[Wi][Wi][1]	3	0	0		R	[Quickcast] Destroy all resonators with [Flying].	
 The Forgotten Sanctuary, Lost Isles	NDR	NDR-077	NDR-077	Addition	-	[Wi][1]	2	0	0		U	Mimi Tribes you control gain [+200/+200].	
+The Mimi Tribe's Cook	NDR	NDR-078	NDR-078	Resonator	Mimi Tribe	[Wi][2]	2	800	800		C	[Enter] => You may discard a card. If you do, you gain 1000 life.	
 The Village of the Spirited Away, Kouga	NDR	NDR-079	NDR-079	Addition	-	[Wi]	1	0	0		U	[1], [Rest]: Remove target resonator you control from the game. [Wi][Wi], [Rest]: Put a resonator from a removed area that was removed by this card into the field under its owner's control.	
 Youkai Festival	NDR	NDR-080	NDR-080	Chant/Rune	Divinity 3	[Wi][Wi][X]	3	0	0		U	You may pay [Wi] less to play this card from a rune area. Search your deck for up to two Youkai with total cost X or less and put them into the field. Then shuffle your deck.	
+Apostle of the Devil	NDR	NDR-081	NDR-081	Resonator	Human	[D][3]	2	1000	600		C		
 Azazel, the Fallen Angel of Gloom	NDR	NDR-082	NDR-082	Resonator	Fallen Angel	[D][D][2]	3	900	1000		R	[Flying] You may pay [2] less to play this card if your opponent has one or less cards in their hand. [Enter] => Choose one - Look at the top two cards of your deck. Put a card from among them into your hand and the rest in your graveyard; or target two resonators your opponent controls. Your opponent banishes one of them.	
 Belial, the Evil from the Scriptures	NDR	NDR-083	NDR-083	Resonator	Fallen Angel	[D][D][D][3]	4	1200	1200		SR	[Flying] If your life is 1000 or less, you may pay [3] less to play this card. [Enter] => Destroy all non-Fallen Angel resonators. Whenever a resonator is put into a graveyard from the field => This card deals 100 damage to your opponent.	
+Bottomless Chasm of Death, the Abyss	NDR	NDR-084	NDR-084	Addition	-	[D][D][D]	3	0	0		U	This card enters the field with three abyss counters. At the end of your turn => Put the top card of your deck into your graveyard. Put a [100/100] darkness Skeleton resonator token into the field. Remove an abyss counter from this card. When the last abyss counter is removed from this card => Banish it. If you do, put a [X00/X00] darkness Lich resonator token into the field, where X is the number of resonators in your graveyard.	
+Corpse Demon	NDR	NDR-085	NDR-085	Resonator	Zombie	[D][D]	2	600	600		C	When this card enters the field from a graveyard => It deals 200 damage to each resonator.	
+Corpse Sorcerer	NDR	NDR-086	NDR-086	Resonator	Zombie/Wizard	[D][D][1]	3	600	600		U	[Enter] => Put target Zombie with total cost 2 or less from your graveyard into the field.	
+Craving	NDR	NDR-087	NDR-087	Chant/Rune	Divinity 3	[D][D][3]	3	0	0		U	You pay [D][1] more to play this card from a rune area. Your opponent loses 1000 life. You gain 1000 life.	
+Diseased Rat	NDR	NDR-088	NDR-088	Resonator	Beast/Zombie	[D][1]	2	200	400		C	[Bane]	
+Disgraced Knight	NDR	NDR-089	NDR-089	Resonator	Zombie	[D][D][D]	3	800	700		R	[D], remove three darkness cards in your graveyard from the game: Put this card from your graveyard into the field. Play this ability only during your turn.	
+Fresh Blood Vampire	NDR	NDR-090	NDR-090	Resonator	Vampire	[D][2]	2	500	600		C	[Flying] Whenever this card deals damage => Put a [+100/+100] counter on it.	
+Gatherer of Despair	NDR	NDR-091	NDR-091	Resonator	Demon	[D][1]	2	600	500		C	[Enter] => Your opponent loses 200 life. You gain 200 life.	
+Life Severing Blade	NDR	NDR-092	NDR-092	Chant	-	[D][2]	2	0	0		R	[Quickcast] If a resonator you control was put into a graveyard from the field this turn, you may pay [2] less to play this card. Destroy target resonator.	
 Look of Corruption	NDR	NDR-093	NDR-093	Chant	-	[D]	1	0	0		R	Look at your opponent's hand. Choose a card with total cost 4 or less. They discard that card. If this card was awakened, also choose a card with total cost 5 or more. They discard that card. [Awakening][D][1]	
+Miasma of the Abyss	NDR	NDR-094	NDR-094	Chant/Rune	Divinity 3	[D][D][2]	3	0	0		C	You pay [1] more to play this card from a rune area. Destroy target non-darkness resonator.	
 Minister of Grief	NDR	NDR-095	NDR-095	Resonator	Human/Wizard	[D][D][2]	3	500	500		U	[Enter] => Resonators your opponent controls gain [-500/-500] until end of turn.	
+Oborozuki	NDR	NDR-096	NDR-096	Resonator	Vampire	[D][D]	2	600	600		SR	[Enter] => You may banish a resonator. If you do, put a fresh blood counter on this card.  This card gains [+200/+200] and [Flying] as long as there is a fresh blood counter on it. Whenever this card attacks => You may banish a resonator. If you do, target resonator gains [-400/-400] until end of turn. [Awakening][D][D][D][D]: [Enter] => Destroy all J-rulers.	
 Rain of Tears	NDR	NDR-097	NDR-097	Chant/Rune	Divinity 2	[D]	1	0	0		C	[Quickcast] You pay [1] more to play this card from a rune area. Put three [-100/-100] counters on target resonator.	
 Ruins of Neverending Rain, Rainruins	NDR	NDR-098	NDR-098	Addition	-	[D][D][2]	3	0	0		U	Non-darkness resonators gain [-200/-200]. Darkness resonators gain [+200/+200].	
+Skeleton Knight	NDR	NDR-099	NDR-099	Resonator	Skeleton	[D][D][2]	3	800	800		C	When this card is put into a graveyard from the field => Put two [100/100] darkness Skeleton resonator tokens into the field.	
 Whispers of the Devil	NDR	NDR-100	NDR-100	Chant/Rune	Divinity 2	[D][1]	2	0	0		U	You pay [1] more to play this card from a rune area. Draw two cards. You lose 500 life.	
 Magic Stone of Adventure	NDR	NDR-101	NDR-101	Special Magic Stone	-		0	0	0		U	[Rest]: Produce [Wi]. [Rest], [Wi]: Target Mimi Tribe gains [+200/+200] until end of turn.	
 Magic Stone of Chaos	NDR	NDR-102	NDR-102	Special Magic Stone	-		0	0	0		R	[Rest]: Produce [Wa]. [Rest], banish this card: Produce [Wa][Wa]. Spend this will only to pay [Awakening] costs.	
 Magic Stone of Corruption	NDR	NDR-103	NDR-103	Special Magic Stone	-		0	0	0		U	[Rest]: Produce [D]. [Rest], [D][D], banish this card: Your opponent discards a card. Play this ability only during main timing. (Main timing is anytime you can play a non-[Quickcast] card.)	
+Magic Stone of Dramaturgy	NDR	NDR-104	NDR-104	Special Magic Stone	-		0	0	0		U	[Rest]: Produce [Wa]. [Rest]: Put a [+100/+100] counter on target Machine that was put into the field this turn.	
 Magic Stone of Dueling	NDR	NDR-105	NDR-105	Special Magic Stone	-		0	0	0		R	[Rest]: Produce [F]. [Rest]: Produce [F][F]. Spend this will only to play activate abilities of J-rulers you control.	
 Magic Stone of Faith	NDR	NDR-106	NDR-106	Special Magic Stone	-		0	0	0		R	[Rest]: Produce [L]. If you spend this will to play a Human or Valkyrie, it cannot be cancelled.	
 Magic Stone of Omniscience	NDR	NDR-107	NDR-107	Special Magic Stone	-		0	0	0		U	[Rest]: Produce [L]. [Rest], [1]: Produce [F], [Wa], [Wi], or [D]. Spend this will only to play runes.	
 Magic Stone of the Hermit	NDR	NDR-108	NDR-108	Special Magic Stone	-		0	0	0		U	[Rest]: Produce [F]. [Rest], banish this card: Target Dragon gains [Swiftness] until end of turn.	
+Magic Stone of the Undead	NDR	NDR-109	NDR-109	Special Magic Stone	-		0	0	0		R	[Rest]: Produce [D]. [Rest]: Put the top of your deck into your graveyard.	
 Magic Stone of Tranquility	NDR	NDR-110	NDR-110	Special Magic Stone	-		0	0	0		R	[Rest]: Produce [Wi]. [Rest]: Recover target Ninja. Play this ability only during an end phase.	

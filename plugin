@@ -1,4 +1,4 @@
-fow-modular	08-24-18
+fow-modular	08-26-18
 
 images/backgrounds/modular_default.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/modular_default.jpg	-426148
 images/backgrounds/acn_background.jpg	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/MiscImages/acn_background.jpg	-60425
@@ -83,7 +83,7 @@ plugins/fow-modular/sets/Alice.txt	https://raw.githubusercontent.com/FoW-Lackey-
 plugins/fow-modular/sets/Extras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Extras.txt	160379
 plugins/fow-modular/sets/Grimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Grimm.txt	8526365
 plugins/fow-modular/sets/Lapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Lapis.txt	11414747
-plugins/fow-modular/sets/NewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/NewValhalla.txt	2478103
+plugins/fow-modular/sets/NewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/NewValhalla.txt	3959828
 plugins/fow-modular/sets/Promo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Promo.txt	1862315
 plugins/fow-modular/sets/Reiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Reiya.txt	13424139
 plugins/fow-modular/sets/Stones.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/sets/Stones.txt	2527012
@@ -93,7 +93,7 @@ plugins/fow-modular/CardImageURLsAlice.txt	https://raw.githubusercontent.com/FoW
 plugins/fow-modular/CardImageURLsExtras.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsExtras.txt	186893
 plugins/fow-modular/CardImageURLsGrimm.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsGrimm.txt	3875181
 plugins/fow-modular/CardImageURLsLapis.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsLapis.txt	4817992
-plugins/fow-modular/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsNewValhalla.txt	1372502
+plugins/fow-modular/CardImageURLsNewValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsNewValhalla.txt	1904900
 plugins/fow-modular/CardImageURLsPromo.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsPromo.txt	667094
 plugins/fow-modular/CardImageURLsReiya.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsReiya.txt	5744765
 plugins/fow-modular/CardImageURLsValhalla.txt	https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/CardImageURLsValhalla.txt	3888479

@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>180826</lastupdateYYMMDD>
+<lastupdateYYMMDD>180828</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/FoW-Lackey-Community/fow-modular/master/version.txt</versionurl>
 <updateurl>https://downloads.heihachi.pw/fow/updatelist.txt</updateurl>
-<message>New Valhalla Full Release<message>
+<message>Fix Lich and Hanzo<message>
 </version>

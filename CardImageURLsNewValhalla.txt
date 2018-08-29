@@ -114,6 +114,7 @@ SDV5/SDV5-006.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low
 SDV5/SDV5-007.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-007.jpg
 SDV5/SDV5-008.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-008.jpg
 SDV5/SDV5-009.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-009.jpg
+SDV5/SDV5-009J.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-009J.jpg
 SDV5/SDV5-010.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-010.jpg
 SDV5/SDV5-011.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-011.jpg
 SDV5/SDV5-011J.jpg	http://trogdariusgaming.com/FoWUpdates/sets/setimages/SDV5/low/SDV5-011J.jpg

@@ -39,6 +39,7 @@
 		<set>SDV4</set>
 		<set>SDV5</set>
 		<set>NDR</set>
+		<set>SNV</set>
 	</format>
 	<format>
 		<label>Genesis</label>
@@ -81,6 +82,7 @@
 		<set>SDV4</set>
 		<set>SDV5</set>
 		<set>NDR</set>
+		<set>SNV</set>
 	</format>
 	<format>
 		<label>Origin</label>
@@ -123,6 +125,7 @@
 		<set>SDV4</set>
 		<set>SDV5</set>
 		<set>NDR</set>
+		<set>SNV</set>
 	</format>
 	<format>
 		<label>Vahalla cluster</label>
@@ -182,20 +185,11 @@
 		<set>SDV4</set>
 		<set>SDV5</set>
 		<set>NDR</set>
+		<set>SNV</set>
 	</format>
 	<format>
 		<label>New Frontiers</label>
 		<set>T</set>
-		<set>CFC</set>
-		<set>SDL1</set>
-		<set>SDL2</set>
-		<set>SDL3</set>
-		<set>SDL4</set>
-		<set>SDL5</set>
-		<set>LEL</set>
-		<set>VIN003</set>
-		<set>RDE</set>
-		<set>ENW</set>
 		<set>SDR1</set>
 		<set>SDR2</set>
 		<set>SDR3</set>
@@ -206,6 +200,13 @@
 		<set>TSW</set>
 		<set>SDR6</set>
 		<set>WOM</set>
+		<set>SDV1</set>
+		<set>SDV2</set>
+		<set>SDV3</set>
+		<set>SDV4</set>
+		<set>SDV5</set>
+		<set>NDR</set>
+		<set>SNV</set>
 	</format>
 	<format>
 		<label>Promo Cards</label>
